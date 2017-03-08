@@ -12,7 +12,7 @@ The app frontend is developed in the [`cobudget-ui`](https://github.com/cobudget
   There is a > 2 year old travis instance for the cobudget-ui repo, so I guess this has not been getting used. 
 
 ### Deploy Process (draft)
-* make sure tests pass locally (add detail...)
+1. make sure tests pass locally (add detail...)
 * submit a pull request to `master` (should trigger travis to run tests - need detail on tests that get run...)
 * have someone else merge it
 * push to staging: `npm run stage`
@@ -26,11 +26,11 @@ The app frontend is developed in the [`cobudget-ui`](https://github.com/cobudget
 * There is an active travis instance for the cobudget-api repo. 
 
 ### Deploy Process (draft)
-* make sure tests pass locally (add detail...)
+1. make sure tests pass locally (add detail...)
 * submit a pull request to `master` (should trigger travis to run tests)
 * have someone else merge it
-* git push heroku-staging master
-* git push heroku-production master
+* `git push heroku-staging master`
+* `git push heroku-production master`
 
 
 ## Syncing backend and frontend
