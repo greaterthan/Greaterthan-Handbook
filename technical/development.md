@@ -2,9 +2,8 @@
 
 ## Comms
   * We use Slack for day to day comms
-  * Our tickets live in Github
-  * We have 2x weekly standsups and bi-weekly sprint planning.
-  * We plan to add waffle.io integration.  
+  * Our tickets are being migrated (March 2017) into Github, and can be viewed on the specific project in Github or in [Waffle](https://waffle.io/cobudget/). 
+  * We have 2x weekly standups and bi-weekly sprint planning.
 
 ## Tickets
 * We are learning the right scoping process for our tickets. As a start, please include _who_, _what_ and _why_ in tickets and issues, and as possible focus on user stories so that tickets include some user-facing result. 
