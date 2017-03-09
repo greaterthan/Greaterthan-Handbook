@@ -13,6 +13,8 @@ The app frontend is developed in the [`cobudget-ui`](https://github.com/cobudget
 1. make sure tests pass locally (add detail...)
 * submit a pull request to `master` (should trigger travis to run tests - need detail on tests that get run...)
 * have someone else merge it
+* make sure remotes are set:
+  * `npm run set-remote-stage` and `npm run set-remote`
 * push to staging: `npm run stage`
 * push to production: `npm run deploy`
 
