@@ -2,14 +2,12 @@
 
 ## Frontend Deployment Pipeline
 
-* tools: github pages, gulp, travis. 
-
 The app frontend is developed in the [`cobudget-ui`](https://github.com/cobudget/cobudget-ui) repo and is hosted using [github pages](https://pages.github.com/). This is done by building the app locally into a `build` directory, and then pushing that `build` directory to a separate, dedicated production (or staging) repo ([cobudget.co](https://github.com/cobudget/cobudget.co) and [staging.cobudget.co](https://github.com/cobudget/staging.cobudget.co), respectively). 
 
-* package.json has scripts for `stage` and `deploy` which uses a tool called [gulp-build-branch](https://www.npmjs.com/package/gulp-build-branch) to publish the `build` directory to a specific remote (staging or production). it creates a new repo _inside_ the `build` dir, and then deploys that to the `gh-pages` branch of the staging/remote repo. 
-  * note: i'm not totally clear how `npm run deploy-push` knows to only push the contents of the `build` directory, since it appears to be running at the primary repo level. 
-  
-  There is a > 2 year old travis instance for the cobudget-ui repo, so I guess this has not been getting used. 
+`package.json` has scripts for `stage` and `deploy` which uses a tool called [gulp-build-branch](https://www.npmjs.com/package/gulp-build-branch) to publish the `build` directory to a specific remote (staging or production). it creates a new repo _inside_ the `build` dir, and then deploys that to the `gh-pages` branch of the staging/remote repo. 
+
+* note: i'm not totally clear how `npm run deploy-push` knows to only push the contents of the `build` directory, since it appears to be running at the primary repo level. 
+* There is a > 2 year old travis instance for the cobudget-ui repo, so I guess this has not been getting used. 
 
 ### Deploy Process (draft)
 1. make sure tests pass locally (add detail...)
@@ -17,6 +15,12 @@ The app frontend is developed in the [`cobudget-ui`](https://github.com/cobudget
 * have someone else merge it
 * push to staging: `npm run stage`
 * push to production: `npm run deploy`
+
+### Rollbacks
+1. [reset head](https://stackoverflow.com/questions/927358/how-to-undo-last-commits-in-git) on production: `git reset HEAD~1`
+2. fix the bug locally 
+3. Push the fixes
+4. run `npm run deploy` again, which will push the new changes and update HEAD past the broken commit to the new one.  
 
 ## Backend Deployment Pipeline
 
@@ -31,6 +35,12 @@ The app frontend is developed in the [`cobudget-ui`](https://github.com/cobudget
 * have someone else merge it
 * `git push heroku-staging master`
 * `git push heroku-production master`
+  * this will automatically run any new migrations 
 
+### Rollbacks
+Heroku has a [`rollback`](https://devcenter.heroku.com/articles/releases) command. Rolling back on Heroku will only 'reactivate' a previous commit, it won't actually change the repository on Heroku. So if you were to then pull and push your Heroku remote (which should usually do nothing), you'll actually redeploy the commit that you rolled back.). Rollback also does not update the database or rollback migrations, so this has to be done manually. 
+
+* roll back to the previous commit: `heroku rollback`
+* roll back to the previous DB version if necessary: `heroku run rake db:rollback STEP=1` (or however many steps are appropriate). 
 
 ## Syncing backend and frontend
