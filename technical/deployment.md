@@ -32,7 +32,7 @@ The app frontend is developed in the [`cobudget-ui`](https://github.com/cobudget
 * There is an active travis instance for the cobudget-api repo. 
 
 ### Deploy Process (draft)
-1. make sure tests pass locally (add detail...)
+1. make sure tests pass locally: run `rspec`
 * submit a pull request to `master` (should trigger travis to run tests)
 * have someone else merge it
 * `git push heroku-staging master`
