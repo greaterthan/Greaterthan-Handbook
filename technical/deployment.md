@@ -10,13 +10,14 @@ The app frontend is developed in the [`cobudget-ui`](https://github.com/cobudget
 * There is a > 2 year old travis instance for the cobudget-ui repo, so I guess this has not been getting used. 
 
 ### Deploy Process (draft)
-1. make sure tests pass locally (add detail...)
-* submit a pull request to `master` (should trigger travis to run tests - need detail on tests that get run...)
+1. run tests locally
+* submit a pull request to `master` 
+* ensure travis tests have passed
 * have someone else merge it
 * make sure remotes are set:
-  * `npm run set-remote-stage` and `npm run set-remote`
-* push to staging: `npm run stage`
-* push to production: `npm run deploy`
+  * `npm run set-remote-stage` or `npm run set-remote` as appropriate
+* to push to [staging](https://github.com/cobudget/staging.cobudget.co/tree/gh-pages): `npm run stage`
+* to push to [production](https://github.com/cobudget/cobudget.co/tree/gh-pages): `npm run deploy`
 
 ### Rollbacks
 1. [reset head](https://stackoverflow.com/questions/927358/how-to-undo-last-commits-in-git) on production: `git reset HEAD~1`
@@ -25,19 +26,24 @@ The app frontend is developed in the [`cobudget-ui`](https://github.com/cobudget
 4. run `npm run deploy` again, which will push the new changes and update HEAD past the broken commit to the new one.  
 
 ## Backend Deployment Pipeline
-
 * The app backend is developed in the [cobudget-api](https://github.com/cobudget/cobudget-api) repo and is hosted on heroku. 
 * Heroku config...
 * There is currently no staging server for the api.  
 * There is an active travis instance for the cobudget-api repo. 
 
+### Database and backups
+* Database is Postgres
+* Database is scheduled to be backed up daily. You can check backup schedules with `heroku pg:backups:schedules`. 
+* View the latest backups by following the link to the database from the heroku dashboard, or using the CLI. 
+* More on downloading and restoring from backup [here](https://devcenter.heroku.com/articles/heroku-postgres-backups). 
+
 ### Deploy Process (draft)
 1. make sure tests pass locally: run `rspec`
-* submit a pull request to `master` (should trigger travis to run tests)
+* submit a pull request to `master`
+* ensure travis tests have passed
 * have someone else merge it
-* `git push heroku-staging master`
-* `git push heroku-production master`
-  * this will automatically run any new migrations 
+* `git push heroku master`
+* `heroku run rake db:migrate`
 
 ### Rollbacks
 Heroku has a [`rollback`](https://devcenter.heroku.com/articles/releases) command. Rolling back on Heroku will only 'reactivate' a previous commit, it won't actually change the repository on Heroku. So if you were to then pull and push your Heroku remote (which should usually do nothing), you'll actually redeploy the commit that you rolled back.). Rollback also does not update the database or rollback migrations, so this has to be done manually. 
@@ -45,4 +51,5 @@ Heroku has a [`rollback`](https://devcenter.heroku.com/articles/releases) comman
 * roll back to the previous commit: `heroku rollback`
 * roll back to the previous DB version if necessary: `heroku run rake db:rollback STEP=1` (or however many steps are appropriate). 
 
-## Syncing backend and frontend
+## Timing: backend and frontend
+* Use an appropriate ordering between frontend and backend when deploying changes to both repos. Usually, deploy backend first. 
