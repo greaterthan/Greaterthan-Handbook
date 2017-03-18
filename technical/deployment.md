@@ -11,13 +11,12 @@ The app frontend is developed in the [`cobudget-ui`](https://github.com/cobudget
 
 ### Deploy Process (draft)
 1. submit a pull request to `master` 
-* have someone else merge it
-* pull down `master` locally: `git pull origin master`
-* make sure remotes are set:
-  * `npm run set-remote-stage` or `npm run set-remote` as appropriate
-* to push to [staging](https://github.com/cobudget/staging.cobudget.co/tree/gh-pages): `npm run stage`
-* to push to [production](https://github.com/cobudget/cobudget.co/tree/gh-pages): `npm run deploy`
-* reset `$NODE_ENV=development` after deploy so that the repo looks for the right backend URL (localhost). 
+1. have someone else merge it
+1. pull down `master` locally: `git pull origin master`
+1. make sure remotes are set: `npm run set-remote-stage` or `npm run set-remote` as appropriate
+1. to push to [staging](https://github.com/cobudget/staging.cobudget.co/tree/gh-pages): `npm run stage`
+1. to push to [production](https://github.com/cobudget/cobudget.co/tree/gh-pages): `npm run deploy`
+1. reset `$NODE_ENV=development` after deploy so that the repo looks for the right backend URL (localhost). 
 
 ### Rollbacks
 1. [reset head](https://stackoverflow.com/questions/927358/how-to-undo-last-commits-in-git) on production: `git reset HEAD~1`
