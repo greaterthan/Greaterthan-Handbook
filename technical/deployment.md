@@ -10,10 +10,9 @@ The app frontend is developed in the [`cobudget-ui`](https://github.com/cobudget
 * There is a > 2 year old travis instance for the cobudget-ui repo, so I guess this has not been getting used. 
 
 ### Deploy Process (draft)
-1. run tests locally
-* submit a pull request to `master` 
-* ensure travis tests have passed
+1. submit a pull request to `master` 
 * have someone else merge it
+* pull down `master` locally: `git pull origin master`
 * make sure remotes are set:
   * `npm run set-remote-stage` or `npm run set-remote` as appropriate
 * to push to [staging](https://github.com/cobudget/staging.cobudget.co/tree/gh-pages): `npm run stage`
