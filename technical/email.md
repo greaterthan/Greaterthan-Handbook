@@ -25,10 +25,7 @@ is working, or whether it's working. i don't see them coming through
 mailcatcher, and am not sure if it's because the delayed_job queue is not
 running or something else. 
 
-in theory, to start the worker manually you do (rails 4+): `bin/delayed_job
-start`. I am not sure if this is necessary, and i can't seem to start it on my
-machine because the command is finding the wrong version of ruby (groan), and
-failing. yaks...
+run `bundle exec rake jobs:work` to start a background process for delayed jobs.
 
 additional info about delayed_job at
 https://github.com/collectiveidea/delayed_job/wiki/Delayed-job-command-details
