@@ -9,9 +9,9 @@ The app frontend is developed in the [`cobudget-ui`](https://github.com/cobudget
 * note: i'm not totally clear how `npm run deploy-push` knows to only push the contents of the `build` directory, since it appears to be running at the primary repo level. 
 * There is a > 2 year old travis instance for the cobudget-ui repo, so I guess this has not been getting used. 
 
-### Deploy Process (draft)
+### Deploy Process 
 1. submit a pull request to `master` 
-1. have someone else merge it
+1. have someone else merge it and delete the branch
 1. pull down `master` locally: `git pull origin master`
 1. make sure remotes are set: `npm run set-remote-stage` or `npm run set-remote` as appropriate
 1. to push to [staging](https://github.com/cobudget/staging.cobudget.co/tree/gh-pages): `npm run stage`
@@ -36,13 +36,14 @@ The app frontend is developed in the [`cobudget-ui`](https://github.com/cobudget
 * View the latest backups by following the link to the database from the heroku dashboard, or using the CLI. 
 * More on downloading and restoring from backup [here](https://devcenter.heroku.com/articles/heroku-postgres-backups). 
 
-### Deploy Process (draft)
+### Deploy Process
 1. make sure tests pass locally: run `rspec`
-* submit a pull request to `master`
-* ensure travis tests have passed
-* have someone else merge it
-* `git push heroku master`
-* `heroku run rake db:migrate`
+1. submit a pull request to `master`
+1. ensure travis tests have passed
+1. have someone else merge it and delete the branch
+1. pull down `master` locally: `git pull origin master`
+1. `git push heroku master`
+1. `heroku run rake db:migrate` if necessary. 
 
 ### Rollbacks
 Heroku has a [`rollback`](https://devcenter.heroku.com/articles/releases) command. Rolling back on Heroku will only 'reactivate' a previous commit, it won't actually change the repository on Heroku. So if you were to then pull and push your Heroku remote (which should usually do nothing), you'll actually redeploy the commit that you rolled back.). Rollback also does not update the database or rollback migrations, so this has to be done manually. 
