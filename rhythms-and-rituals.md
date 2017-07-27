@@ -1,4 +1,4 @@
-# Teams Rhythm & Rituals 
+# Teams Rhythm & Rituals
 
 ## General principles
 
@@ -8,7 +8,17 @@ Celebrate!
 
 Sprint planning meetings
 
-Standups 
+* every 2 weeks
+* Human and Tech sprint planning happen separately
 
-In-person Sprints: every 2 -3 months
+Standups
+
+* 15 min check-in & celebration of what we've done that week
+* weekly
+
+In-person Sprints
+
+* every 2 -3 months
+
+
 
