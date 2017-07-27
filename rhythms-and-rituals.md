@@ -4,23 +4,17 @@
 
 Celebrate!
 
-## Sprints
+## Primary Rhythm: Sprint planning
 
-## Sprint planning meetings
-
-* every 2 weeks
+* every 2 weeks on Tuesdays
 * Human and Tech sprint planning happen separately
 
-## Standups
+## Weekly Standups
 
 * 15 min check-in & celebration of what we've done that week
 * weekly
 
-## In-person Sprints
-
-* every 2 -3 months
-
-## T**actical meetings**
+## Weekly T**actical meetings**
 
 includes:
 
@@ -28,9 +22,11 @@ includes:
 
 * Events of interest
 
-* New leads  
+* New leads
 
-strategic meetings - tuesdays bi-weekly
+## Bi-weekly Strategic meetings 
+
+* tuesdays bi-weekly
 
 * strategy meetings really held as non-tactical,
 
@@ -40,47 +36,21 @@ strategic meetings - tuesdays bi-weekly
 
 * use RTM
 
-  
-
-
-weekly celebration standups - thursdays 5pm
-
-* 15 minutes
-
-* focus on celebration
-
-  
-
-
-sprint planning - tuesdays bi-weekly
-
-* Fran to facilitate human team?
-
-* Jessy to facilitate tech team meetings \(to start\)
-
-  
-
-
-Daily checkin
+## Daily async textual checkins
 
 * Open format, do what works for you
 
-* Make sure it works for multple timezones
+* Make sure it works for multiple timezones
 
-  
-
-
-retrospectives
+## Retrospectives
 
 * fit these into strategic meetings if possible
 
 * Revisit if that’s not feeling sufficient.
 
-  
+## In-person Sprints
 
-
-  
-
+* every 2 -3 months
 
 
 
