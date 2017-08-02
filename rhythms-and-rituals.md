@@ -1,15 +1,20 @@
-# Greaterthan Teams Rhythm & Rituals 
+# Greaterthan Teams Rhythm & Rituals
 
 # ![](/assets/rsz_ashley-batz-1298.jpg)
 
-# General principles
+# General principles :\)
 
 Celebrate!
 
+Add more!
+
+---
+
 ## _Primary Rhythm: bi-weekly Sprints_
 
-Sprints are.   
-There are 2 separate sprint teams: Human and Tech. 
+There are 2 separate sprint teams: Human and Tech.
+
+[_**What is a Sprint?**_](https://www.gitbook.com/book/greaterthan/greaterthan-handbook/edit#)
 
 ## Recurring \(online\) meetings
 
@@ -46,8 +51,6 @@ There are 2 separate sprint teams: Human and Tech.
 * **Frequency**: once per month
 * **Details: **detailed Retro at in-person sprints every second month; fit into strategy meetings every other month
 * Revisit this rhythm if it does not feel sufficient.
-
-
 
 ## In-person Sprints
 
