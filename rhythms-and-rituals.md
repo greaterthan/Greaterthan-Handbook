@@ -1,56 +1,58 @@
-# Teams Rhythm & Rituals
+# Greaterthan Teams Rhythm & Rituals 
 
-## General principles
+# ![](/assets/rsz_ashley-batz-1298.jpg)
+
+# General principles
 
 Celebrate!
 
-## Primary Rhythm: Sprint planning
+## _Primary Rhythm: bi-weekly Sprints_
 
-* every 2 weeks on Tuesdays
-* Human and Tech sprint planning happen separately
+Sprints are.   
+There are 2 separate sprint teams: Human and Tech. 
 
-## Weekly Standups
+## Recurring \(online\) meetings
 
-* 15 min check-in & celebration of what we've done that week
-* weekly
+#### Sprint planning
 
-## Weekly T**actical meetings**
+* **Frequency: **every 2 weeks on Tuesdays
+* **Details:** Human and Tech do separate sprint planning sessions.
 
-includes:
+#### Standups
 
-* after sprint, demo new tickets
+* **Frequency:** weekly on Thursdays
+* **Details: **15 min check-in & celebration of what we've done that week
 
-* Events of interest
+#### T**actical Meetings**
 
-* New leads
+* **Frequency: **weekly on Mondays
+* **On the agenda: **
+  * After sprint is over, tech demo of completed tickets
+  * Discuss events of interest
+  * New leads
 
-## Bi-weekly Strategic meetings 
+#### Strategic Meetings
 
-* tuesdays bi-weekly
+* **Frequency: **bi-weekly on Tuesdays
+* **Details: **using Real Time Board; rotating strategy role to facilitate; possibly incorporate retrospectives here \(once every 4th?\)
 
-* strategy meetings really held as non-tactical,
+## Async checkins
 
-* possibly incorporate retrospectives here \(once every 4th?\)
-
-* kate to facilitate
-
-* use RTM
-
-## Daily async textual checkins
-
-* Open format, do what works for you
-
-* Make sure it works for multiple timezones
+* **Frequency: **daily in written on Slack 
+* **Details:** open format, not mandatory and do what works for you. Use the check-in bot if you like.
 
 ## Retrospectives
 
-* fit these into strategic meetings if possible
+* **Frequency**: once per month
+* **Details: **detailed Retro at in-person sprints every second month; fit into strategy meetings every other month
+* Revisit this rhythm if it does not feel sufficient.
 
-* Revisit if that’s not feeling sufficient.
+
 
 ## In-person Sprints
 
-* every 2 -3 months
+* **Frequency:** every 2 -3 months
+* **Details: **1 week  of living & working together with the whole team in rotating \(rural\) locations
 
 
 
