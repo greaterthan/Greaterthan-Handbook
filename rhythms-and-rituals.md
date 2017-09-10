@@ -57,5 +57,14 @@ There are 2 separate sprint teams: Human and Tech.
 * **Frequency:** every 2 -3 months
 * **Details: **1 week  of living & working together with the whole team in rotating \(rural\) locations
 
+---
+
+## **Etiquette around going offline & availabilities**
+
+* If you cannot join a regular meeting, decline the calender invite. 
+* If you are going to be offline, notify the team in your daily check-in on slack
+* Share your calender with other team members, and put your location in it so that everyone knows where you are
+* Add "OFF - \[location\]" in your calender when you are offline
+
 
 
