@@ -41,6 +41,11 @@ There are 2 separate sprint teams: Human and Tech.
 * **Frequency: **bi-weekly on Tuesdays
 * **Details: **using Real Time Board; rotating strategy role to facilitate; possibly incorporate retrospectives here \(once every 4th?\)
 
+#### Product Priorities Snyc
+
+* **Frequency:** bi-weekly on Mondays, the week when we have sprint planning
+* **Details:** 30 min call to sync on the tech priorities to serve as input for the sprint planning the next day.
+
 ## Async checkins
 
 * **Frequency: **daily in written on Slack 
