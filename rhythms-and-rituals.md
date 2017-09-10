@@ -2,14 +2,6 @@
 
 # ![](/assets/rsz_ashley-batz-1298.jpg)
 
-# General principles :\)
-
-Celebrate!
-
-Add more!
-
----
-
 ## _Primary Rhythm: bi-weekly Sprints_
 
 There are 2 separate sprint teams: Human and Tech.
@@ -46,7 +38,7 @@ There are 2 separate sprint teams: Human and Tech.
 * **Frequency:** bi-weekly on Mondays, the week when we have sprint planning
 * **Details:** 30 min call to sync on the tech priorities to serve as input for the sprint planning the next day.
 
-## Async checkins
+## A-sync checkins
 
 * **Frequency: **daily in written on Slack 
 * **Details:** open format, not mandatory and do what works for you. Use the check-in bot if you like.
