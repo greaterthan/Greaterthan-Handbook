@@ -12,9 +12,10 @@ The tool we are using is Agile CRM: [https://greaterthan.agilecrm.com/](https://
 
 1. To **join**, ask Francesca to add you to our team. 
 2. **Sync Agile CRM with your Greaterthan email address**, so that your contacts sync automatically and you can see your emails with them directly in the system.
-3. **Add & update your contacts and orgs** from various channels
-4. Track statuses & actions with our **pipeline and tasks**
-5. Before you reach out to an organization in the future, **search the CRM** before to check whether we are already in touch with them!
+3. Downlad the Agile CRM app to easily manage everything from your phone
+4. **Add & update your contacts and orgs** from various channels
+5. Track statuses & actions with our **pipeline and tasks**
+6. Before you reach out to an organization in the future, **search the CRM** before to check whether we are already in touch with them!
 
 #### 2. Sync Agile CRM with your email address
 
