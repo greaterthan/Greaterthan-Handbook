@@ -19,15 +19,23 @@ Do this by clicking on the upper right hand corner on **"Settings":**
 
 Then click in the left hand bar on** "Email"**. Here you can connect your Gmail account under **"Inbound" **\(outbound is not really necessary\) .  ![](/assets/agilecrm2.png)
 
-### Managing Contacts
+### Adding & Managing Contacts
 
+There are a few easy ways to add or edit contacts to Agile CRM by installing the Agile CRM Widget for your browser. 
 
+[**&gt;&gt; Download Browser Widget**](https://chrome.google.com/webstore/detail/agile-crm/eofoblinhpjfhkjlfckmeidagfogclib?utm_source=chrome-app-launcher-info-dialog)
+
+From this widget, you can add tasks, deals and new contacts easily, but also access some features by right clicking when in Gmail. 
+
+![](/assets/widgetagile.png)
+
+If your email account is synched, contacts will automatically be added once a day to the CRM. However, if you would like to manually add your contacts from inside Gmail, especially from other email addresses that are not synched with Agile CRM, you can do this by right clicking when you select the email address. ![](/assets/agilecontacts.png)
 
 ### Companies
 
-
-
 ### Our Pipeline & Deals
+
+You can find the pipeline in the left hand bar. ![](/assets/agilecrm4.png)
 
 
 
