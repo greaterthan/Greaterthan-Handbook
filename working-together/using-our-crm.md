@@ -15,15 +15,14 @@ The tool we are using is Agile CRM: [https://greaterthan.agilecrm.com/](https://
 3. **Add & update your contacts and orgs** from various channels
 4. Track statuses & actions with our **pipeline and tasks**
 5. Before you reach out to an organization in the future, **search the CRM** before to check whether we are already in touch with them!
-   ---
 
-#### 2. Sync Agile CRM with your email address 
+#### 2. Sync Agile CRM with your email address
 
 Do this by clicking on the upper right hand corner on **"Settings":**
 
 ![](/assets/agilecrm1.png)
 
-Then click in the left hand bar on** "Email"**. Here you can connect your Gmail account under **"Inbound" **\(outbound is not really necessary\) .  
+Then click in the left hand bar on** "Email"**. Here you can connect your Gmail account under **"Inbound" **\(outbound is not really necessary\) .
 
 ### 3. Adding & Managing Contacts
 
@@ -53,9 +52,9 @@ Please add any relevant tags to organizations and contacts that will help us fin
 
 ### Our Pipeline & Deals
 
-You can find the pipeline in the left hand bar. This is where we add all potential deals in our pipeline, as they come in, so we can have an overview and track follow ups. You can **add tasks** to deals to remember to follow up on time. 
+You can find the pipeline in the left hand bar. This is where we add all potential deals in our pipeline, as they come in, so we can have an overview and track follow ups. You can **add tasks** to deals to remember to follow up on time.
 
 Please make sure to always** attribute a deal to a contact and /or an organization. **
 
-  ![](/assets/agilecrm4.png)
+![](/assets/agilecrm4.png)
 
