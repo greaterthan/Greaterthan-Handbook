@@ -1,6 +1,6 @@
 # How to make the most of our CRM
 
-The most important about a CRM is that it is up to date :\). Therefore let's try to use it as a tool for our reminders and personal tracking of where we are at with our deals and contracts, because then it will automatically be up to date. 
+The most important about a CRM is that it is up to date :\). Therefore let's try to use it as a tool for our reminders and personal tracking of where we are at with our deals and contracts, because then it will automatically be up to date.
 
 ### Key actions you may want to do regularly
 
