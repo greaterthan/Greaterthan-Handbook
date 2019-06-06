@@ -1,4 +1,2 @@
 # Working Together
 
-
-
