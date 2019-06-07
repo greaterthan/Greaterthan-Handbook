@@ -61,7 +61,7 @@
 * Be added to the Greaterthan website
 {% endtab %}
 
-{% tab title="Expected" %}
+{% tab title="Encouraged" %}
 * Join \(part of\) in-person sprints \(TBD\)
 * Represent Greaterthan publicly
 * Use a greaterthan.works email address
@@ -92,7 +92,15 @@ Compliance and legal responsibility is held by a “Minimum Viable Board”, com
 * ensure that Greaterthan Collective Ltd is fully compliant with United Kingdom laws and regulations, and its company constitution
 * maintain an overview of current finances, long term financial view, and adequate reserves
 
-Any co-owner may nominate a director \(including themselves\). They can initiate a conversation at any time to discuss directorship with the other co-owners.  
+Any co-owner may nominate a director \(including themselves\). They can initiate a conversation at any time to discuss directorship with the other co-owners.
+
+**The current MVB has 3 members:**
+
+* Francesca Pick \(co-owner\)
+* Susan Basterfield \(co-owner\)
+* Patrick Andrews \(external advisor\)
+
+[See current changes on UK Company's House. ](https://beta.companieshouse.gov.uk/company/11387616)  
 
 
 ![](https://lh4.googleusercontent.com/FwdfR6QnwK7Til2eJ7tyxVTCzBF_moO5qDQaBtAhNDjFZL4W6UXULCOVmLFFPXkKp-jP2t3jggiycwf-N-1ofXWq9KYHtMCid1-fUHuZTLYEMEYtrrqkSA9DiRcp9aDizj2CtHu9)
