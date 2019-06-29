@@ -1,4 +1,4 @@
-# Leaderful Practice
+# The Academy
 
 An academy for online learning for the future of work. 
 

@@ -2,9 +2,11 @@
 
 All our basic admin procedures are explained [**in this map**](https://www.mindmeister.com/1195542438?t=LYHjk2g2DM)**,** such as submitting expenses, creating invoices, making budgets, project management etc. 
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 ## Invoicing
+
+General speaking, project leaders are expected to make their own invoices for their clients. 
 
 If you cannot make an invoice yourself in Xero, please **send the following information to admin@greaterthan.works:** 
 
@@ -57,15 +59,6 @@ There are 2 tracking categories:
     </tr>
   </tbody>
 </table>**As a general rule, every transaction in Xero must be attributed to the "Internal" category**, so we know where the funds sit. A project tracking code is not always needed, for instance when funds go directly into personal BUs. 
-
-### Starting a new Business Unit
-
-Any co-owner or associate can have a business unit in GT under the following conditions \(BU agreement\): 
-
-* all work invoiced contributes a 15 % to GT core to go towards admin overhead and GT common pot for investing in new projects.
-*  the BU is managed responsibly - the amount in it can never be negative. 
-
-To start a new business unit for a Shrubbery, a proposal must be approved by consent in the GT co-owner Loomio.
 
 
 

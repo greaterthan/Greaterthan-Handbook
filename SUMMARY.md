@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [About this Handbook](README.md)
 * [Our organization](about-greaterthan/README.md)
   * [History](about-greaterthan/history.md)
   * [Constitution & Governance](about-greaterthan/constitution-and-governance.md)
@@ -15,11 +15,12 @@
     * [CRM](working-together/collaboration-and-comms-tools/using-our-crm.md)
   * [Resources & Guides](working-together/guidelines/README.md)
     * [Attending Events](working-together/guidelines/attending-events.md)
-  * [Admin & Finance](working-together/admin.md)
+  * [Admin & Finance](working-together/admin/README.md)
+    * [Business Units](working-together/admin/business-units.md)
 * [Projects](projects/README.md)
   * [Cobudget](projects/cobudget/README.md)
     * [Development](projects/cobudget/development.md)
     * [Deployment](projects/cobudget/deployment.md)
     * [Email](projects/cobudget/email.md)
-  * [Leaderful Practice](projects/academy.md)
+  * [The Academy](projects/academy.md)
 
