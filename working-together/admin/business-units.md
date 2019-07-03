@@ -2,7 +2,15 @@
 
 From a financial perspective, Greaterthan is structured into business units, which are managed as independent entities inside the organization. 
 
-## Who can have a business unit
+## Types of business units
+
+There are several types of BUs: 
+
+* **Personal BUs** for people working through the business
+* **Shrubbery BUs,** which are projects that Greaterthan is investing in and/or operates separate from the core, i.e Cobudget, Academy, Better Work Together.
+* **GT Core BU,** which holds all operating costs, consulting budgets and surplus \(that is then paid out as bonuses or reinvested in projects\).
+
+## Who can have a personal business unit
 
 Co-owners
 

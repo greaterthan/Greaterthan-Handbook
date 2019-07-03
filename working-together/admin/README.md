@@ -6,20 +6,15 @@ All our basic admin procedures are explained [**in this map**](https://www.mindm
 
 ## Invoicing
 
-General speaking, project leaders are expected to make their own invoices for their clients. 
+**General rule:** project leaders \(whom are mostly co-owners\) are expected to make their own invoices for their clients. We use the accounting software [Xero](http://xero.co) to make our invoices, and all co-owners receive access to our account to be able to create and send invoices. 
 
-If you cannot make an invoice yourself in Xero, please **send the following information to admin@greaterthan.works:** 
+### Adding the right tracking codes in your invoice
 
-* **Customer:** Name and full Billing Info \(Address, Company or VAT number if available\)
-* **Amount:** Billing currency and total billing amount
-* **Tax:** including VAT/ excluding VAT, no VAT at all? 
-* **Description:** Product / Service Details 
-* **Payment deadline**: standard is 14 days, please indicate if it should vary
-* **How to send the invoice:** indicate whether you would like it sent directly through Xero \(in that case provide an email\), or whether you need a PDF.  
+We use a tracking system in Xero to manage our projects and keep track of where money is coming from and going to. Each large project has its own tracking code. Short, 1-off projects are categorized as "other consulting". 
 
-## Accounting Tracking codes & Business Units
+If you are starting a new large project, check with Francesca to create a new tracking code for it. 
 
-We use a tracking system in Xero to manage our projects and keep track of where money is coming from and going to.
+#### Overview of the tracking codes and how to use them
 
 There are 2 tracking categories:
 
@@ -45,22 +40,33 @@ There are 2 tracking categories:
         <p><b> Where the funds sit inside GT. </b>
           <br />
         </p>
-        <p>Internal stands for &quot;Business Units&quot; (BUs). There are several
-          types of BUs:</p>
-        <ul>
-          <li><b>Personal BUs</b> for people working through the business</li>
-          <li><b>Shrubbery BUs,</b> which are projects that Greaterthan is investing
-            in and/or operates separate from the core, i.e Cobudget, Academy, Better
-            Work Together.</li>
-          <li><b>GT Core BU, </b>which holds all operating costs, consulting budgets
-            and surplus (that is then paid out as bonuses or reinvested in projects).</li>
-        </ul>
+        <p>Internal stands for &quot;Business Units&quot; (BUs). <a href="business-units.md">See more details about BU types and how they work.</a>
+        </p>
       </td>
     </tr>
   </tbody>
-</table>**As a general rule, every transaction in Xero must be attributed to the "Internal" category**, so we know where the funds sit. A project tracking code is not always needed, for instance when funds go directly into personal BUs. 
+</table>As a general rule, **every transaction in Xero must be attributed to the "Internal" category**, so we know where the funds sit. A project tracking code is not always needed, for instance when funds go directly into personal BUs. 
+
+**When making your invoice, please make sure to fill in both tracking categories.** 
+
+![](../../.gitbook/assets/image%20%286%29.png)
 
 
+
+### I don't have access to Xero
+
+If you need to make an invoice and do not have a Xero account, please **send the following information to admin@greaterthan.works:** 
+
+* **Customer:** Name and full Billing Info \(Address, Company or VAT number if available\)
+* **Amount:** Billing currency and total billing amount
+* **Tax:** including VAT/ excluding VAT, no VAT at all? 
+* **Description:** Product / Service Details 
+* **Payment deadline**: standard is 14 days, please indicate if it should vary
+* **How to send the invoice:** indicate whether you would like it sent directly through Xero \(in that case provide an email\), or whether you need a PDF.  
+
+## About VAT
+
+For invoices to European Organizations, we use something called the Reverse Charge in most cases, which means you don't 
 
 
 

@@ -4,6 +4,8 @@ Greaterthan Collective Ltd is a registered UK Limited Liablity Company with a co
 
 For us, success means a better livelyhood through meaningful work for more people, more positive impact on the world and contributing to a thriving ecosystem. Our company is not built to be exited, but to be a source of continuous value creation for all its stakeholders. 
 
+![](../.gitbook/assets/image%20%285%29.png)
+
 ## Stewardship-ownership
 
 **Greaterthan is a Stewardship-Owned Company**, with a [Golden Share Model. ](http://steward-ownership.com/elementor-122/)As described by Purpose Fund, stewardship-owned businesses have two key characteristics: 
