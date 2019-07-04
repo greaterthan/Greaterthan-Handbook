@@ -1,23 +1,20 @@
-# Admin & Finance
+# Invoicing & Payment guidelines
 
-All our basic admin procedures are explained [**in this map**](https://www.mindmeister.com/1195542438?t=LYHjk2g2DM)**,** such as submitting expenses, creating invoices, making budgets, project management etc. 
+## **General invoicing rules:** 
 
-![](../../.gitbook/assets/image%20%282%29.png)
+**Who makes invoices**? Project leaders \(whom are mostly co-owners\) are expected to make their own invoices for their clients. We use the accounting software [Xero](http://xero.co) to make our invoices, and all co-owners receive access to our account to be able to create and send invoices. 
 
-## Invoicing & Payment Guidelines
+**What currency to invoice in?** If you are looking to invoice for work done, you can currently invoice Greaterthan in Pounds, Euros or NZD. If possible, please always make invoices out in the currency that your bank account is in \(to avoid unnecessary exchange fees\). When applicable, exchange fees are paid by the contractor. 
 
-### **General invoicing rules:** 
+**Payment deadlines:** payments to contractor are generally made once a month, on the 15th. 
 
-1. **Who makes invoices**? Project leaders \(whom are mostly co-owners\) are expected to make their own invoices for their clients. We use the accounting software [Xero](http://xero.co) to make our invoices, and all co-owners receive access to our account to be able to create and send invoices. 
-2. **What currency to invoice in?** If you are looking to invoice for work done, you can currently invoice Greaterthan in Pounds, Euros or NZD. If possible, please always make invoices out in the currency that your bank account is in \(to avoid unnecessary exchange fees\). When applicable, exchange fees are paid by the contractor. 
-3. 
-### Tracking codes for invoices
+## Tracking codes for invoices
 
 We use a tracking system in Xero to manage our projects and keep track of where money is coming from and going to. Each large project has its own tracking code. Short, 1-off projects are categorized as "other consulting". 
 
 If you are starting a new large project, check with Francesca to create a new tracking code for it. 
 
-#### Overview of the tracking codes and how to use them
+### Overview of the tracking codes and how to use them
 
 There are 2 tracking categories:
 
@@ -56,7 +53,7 @@ There are 2 tracking categories:
 
 
 
-#### I don't have access to Xero
+### I don't have access to Xero
 
 If you need to make an invoice and do not have a Xero account, please **send the following information to admin@greaterthan.works:** 
 

@@ -16,6 +16,7 @@
   * [Resources & Guides](working-together/guidelines/README.md)
     * [Attending Events](working-together/guidelines/attending-events.md)
   * [Admin & Finance](working-together/admin/README.md)
+    * [Invoicing & Payment guidelines](working-together/admin/invoicing-and-payment-guidelines.md)
     * [Business Units](working-together/admin/business-units.md)
 * [Projects](projects/README.md)
   * [Cobudget](projects/cobudget/README.md)
