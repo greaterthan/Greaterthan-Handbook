@@ -23,5 +23,5 @@
     * [Development](projects/cobudget/development.md)
     * [Deployment](projects/cobudget/deployment.md)
     * [Email](projects/cobudget/email.md)
-  * [The Academy](projects/academy.md)
+  * [Better Work Together Academy](projects/academy.md)
 
