@@ -46,7 +46,7 @@ Since this project is mainly bootstrapped for now, we see achieving complementar
 
 The Academy has a team, as well as add hoc and more long term contributors. There are currently 2 levels of involvement in what we consider "the Academy Team". 
 
-1. "The Hikers" = core team that is committed to a full hike and join the bi-weekly sprint rhythm. There is a dedicated channel for this team to communicate. 
+1. "The Hikers" = members of the team that is committed to a full hike and join the bi-weekly sprint rhythm. There is a dedicated channel for this team to communicate. 
 2. Team members that do not join the bi-weekly sprints, but hold specific roles, contribute to various actions and follow the project on an intermittent basis. 
 
 **Transitioning between team roles:**   
