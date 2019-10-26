@@ -44,7 +44,7 @@ Since this project is mainly bootstrapped for now, we see achieving complementar
 
 ## Levels of involvement
 
-There are currently 2 levels of involvement in what we consider "the academy team". 
+The Academy has a team, as well as add hoc and more long term contributors. There are currently 2 levels of involvement in what we consider "the Academy Team". 
 
 1. "The Hikers" = core team that is committed to a full hike and join the bi-weekly sprint rhythm. There is a dedicated channel for this team to communicate. 
 2. Team members that do not join the bi-weekly sprints, but hold specific roles, contribute to various actions and follow the project on an intermittent basis. 
@@ -54,13 +54,16 @@ At the end of each Hike, we make sure to hold a retrospective and "closing" sess
 
 ## Decision Making
 
-The decision making in this project follows[ Greaterthan's general decision-making agreement](../agreements/governance-and-decision-making.md), with an emphasis on autonomy for the team actively working on the project, the advice process and consent decision-making. 
+The decision making in this project follows[ Greaterthan's general decision-making agreement](../agreements/governance-and-decision-making.md). 
 
-All team members can participate in important strategic decisions, regardless of whether they are participating in the current hike. 
+This means that there is an **emphasis on autonomy for the team actively working on the project.** 
 
-The Hikers commits to keeping the full Academy team informed about the project evolution and involving them on key decisions, when they arise. 
+| **Decision type** | Who & How |
+| :--- | :--- |
+| Standard day-to-day decisions | Made by Hikers with the advice process and consent decision-making. Hikers commit to keeping the full Academy team informed about the project evolution and judging when a decision needs their input.  |
+| Strategic decisions | Made with all team members on Loomio, with consent decision-making. All team members can participate regardless of whether they are participating in the current hike.  |
 
-## 
+
 
 
 
