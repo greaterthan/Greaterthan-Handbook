@@ -17,15 +17,15 @@ Apart from adding new co-owners and associates \(which are more restrictive\), t
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
-  
 **Sell:** Each individual considers reversibility \(a decision can be easily reversed\) and consequence \(a decision has small consequences\) before escalating to another decision-making practice. In these cases “asking for forgiveness, instead of permission” is the better option because it is fast and creates momentum.
 
 **Consult:** In general, everybody is empowered to use the advice process for any decision. Everyone is encouraged to move topics forward they think are important and urgent.
 
 **Agree:** Our default group decision-making type is consent a methodology with a specific meaning and practice. This does not mean everyone has to agree, but that a decision moves forward if you can live with it decision and don’t veto it.
 
-**We use** [**loomio**](https://www.loomio.org/g/w924AJC6/greaterthan-core) **for making and documenting significant group decisions,** if they were made during a call or meeting \(meaning that want to have a physical trace of them\).  
+**We use** [**loomio**](https://www.loomio.org/g/w924AJC6/greaterthan-core) **for making and documenting significant group decisions,** if they were made during a call or meeting \(meaning that want to have a physical trace of them\).
 
+_Image Credit: The Gini Way,_ [_https://blog.gini.net/how-we-make-decentralized-decisions-ccd2de61b8b2_](https://blog.gini.net/how-we-make-decentralized-decisions-ccd2de61b8b2)
 
 ### Group Decision Types \(Loomio\)
 
