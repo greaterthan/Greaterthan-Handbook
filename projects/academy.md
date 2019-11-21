@@ -6,18 +6,6 @@
 
 This project evolved out of "[Leadwise](http://academy.leadwise.co)" and the first online course called Practical Self-Management.
 
-## How the team is organized
-
-This project is a cross-community project. The work is currently organized into "Hikes", which are 4 month phases of working together on certain objectives. The team is evolving on a "per hike" basis, meaning  that team members commit to one hike, and then when it is over we reassess who will be involved and how for the next phase. 
-
-Within these Hikes, we work with a bi-weekly sprint rhythm. 
-
-**Key organizing resources:**
-
-* [Trello Sprint Board](https://trello.com/b/C0IChuw2)
-* Slack channel: \#academy-general
-* [Knowledge map](https://www.mindmeister.com/1206231748?t=AY8cAprpqD) with all key assets we have 
-
 ## Guiding Principles for our work
 
 These principles help guide our decision making and direction on the way we do business and create offerings.
@@ -41,6 +29,18 @@ Be transparent about finances, leads, revenue flows with all course owners, inve
 
 **Complementarity**  
 Since this project is mainly bootstrapped for now, we see achieving complementary as critical to our resilience as a team. That means we aim to find the maximum amount of synergies between Academy work and work we are already doing, to create reinforcing positive feedback loops \(to "kill to birds with one stone"\). 
+
+## The "team" and how it is organized
+
+What we consider "the team" of this cross-community project are the people stewarding and strategically guiding this project over the long term. The work is currently organized into "Hikes", which are 4 month phases of working together on certain objectives. The team is evolving on a "per hike" basis, meaning  that team members commit to one hike, and then when it is over we reassess who will be involved and how for the next phase. 
+
+Within these Hikes, we work with a bi-weekly sprint rhythm. 
+
+**Key organizing resources:**
+
+* [Trello Sprint Board](https://trello.com/b/C0IChuw2)
+* Slack channel: \#academy-general
+* [Knowledge map](https://www.mindmeister.com/1206231748?t=AY8cAprpqD) with all key assets we have 
 
 ## Levels of involvement
 
