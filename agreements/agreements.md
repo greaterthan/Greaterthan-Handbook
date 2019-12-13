@@ -62,10 +62,11 @@
 {% endtab %}
 
 {% tab title="Encouraged" %}
-* Join \(part of\) in-person sprints \(TBD\)
+* Join \(part of\) in-person sprints
 * Represent Greaterthan publicly
 * Use a greaterthan.works email address
 * Start or bring in new projects
+* Contribute to building the Greaterthan Commons in whatever way fits with their skills and strengths
 {% endtab %}
 {% endtabs %}
 
