@@ -14,7 +14,7 @@ Our vision is for a world where workplaces are communities that provide agency, 
 
 
 
-#### We are proudly an [Enspiral](http://enspiral.com) Venture since 2018.
+#### We are proudly an [Enspiral](http://enspiral.com) Venture since 2018 and work closely with the[ Ouishare ](http://ouishare.net)Community.
 
-![](../.gitbook/assets/enspiral_formatted.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
