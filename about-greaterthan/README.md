@@ -12,3 +12,9 @@ Our vision is for a world where workplaces are communities that provide agency, 
 
 ![](../.gitbook/assets/logo-horizontal_b.png)
 
+
+
+#### We are proudly an [Enspiral](http://enspiral.com) Venture since 2018.
+
+![](../.gitbook/assets/enspiral_formatted.png)
+
