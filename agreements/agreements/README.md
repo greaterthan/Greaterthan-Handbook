@@ -48,7 +48,7 @@
 
 ## Associates
 
-**Associates are people who work on Greaterthan projects on a recurring basis and want to formalize their involvement**. They are part of decision-making within the scope of the projects they are part of \(subsidiarity principle\). Associates can become co-owners if they want to step up their involvement in building and stewarding Greaterthan.
+**Associates are people who work on Greaterthan projects on a recurring basis and want to formalize their involvement**. They are part of decision-making within the scope of the projects they are part of \(subsidiarity principle\). Associates can become co-owners if they want to step up their involvement in building Greaterthan.
 
 **People can work on Greaterthan projects without being an Associate.**
 
