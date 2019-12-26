@@ -13,14 +13,12 @@
 
 | Name | Joined |
 | :--- | :--- |
-| Michel Bachmann | July 2018 |
-| Patrick Andrews | July 2018 |
 | Lisa Gill | May 2019 |
+| Michel Bachmann | July 2018 |
 | Mary O'Keeffe | May 2019 |
+| Patrick Andrews | May 2018 |
 | Alicia Trepat | December 2019 |
 | Manel Heredero | December 2019 |
-| Ria Baeck | December 2019 |
-| Tom Nixon | December 2019 |
 
 ## Previous Members
 
