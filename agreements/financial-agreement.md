@@ -8,7 +8,9 @@ Each project has its own budget, which is managed independently. Budgets are man
 
 There are no standardized daily or hourly rates for work, as these vary between contracts, types of work and level of expertise of contributors. Each project team is free to choose how to distribute its budget; however this budget must be transparent for the rest of the organization and be \(subjectively\) considered as equitable among team members.
 
-## 2. Contributions to the Greaterthan Core
+## 2. Greaterthan Core Budget 
+
+### Contributions to GT Core
 
 **All consulting work invoiced for through Greaterthan Collective Ltd contributes 15 %** to the Greaterthan core.
 
@@ -21,6 +23,12 @@ These 15 % include:
 The next section explains how the spending of this core budget and investment "surplus" is spent. For certain types of contracts that non co-owners are working on, the % to the core may be lower, subject to negotiation \(based on factors such as the size and complexity of the contract.\).
 
 The 15 % rule will be revisited at In-Person Sprints to see if it makes sense with how the business evolves. It is up to the discretion of any co-owner \(for individual work\) or project team to increase the percentage their projects contribute to the GT commons, if they like.
+
+### Reserves
+
+The Core Budget is run with a **6-month runway** of reserve funds \(amount based on our average monthly operating cost\), to ensure that the organization can remain stable if there are sudden changes in projects. If the reserves are at risk of falling below the 6-month threshold, the[ MVB ](agreements/#minimum-viable-board)must alert the co-owners, so that they can take the necessary action.  
+
+This was decided on [Loomio in February 2020. ](https://www.loomio.org/d/kf0jHFC7/gt-core-budget-discussions-decisions/1)
 
 ## 3. Core Budget & Surplus
 
