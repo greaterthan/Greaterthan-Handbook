@@ -21,6 +21,7 @@
 | Manel Heredero | December 2019 |
 | Ria Baeck | December 2019 |
 | Tom Nixon | December 2019 |
+| David Weingartner | April 2020 |
 
 ## Previous Members
 
