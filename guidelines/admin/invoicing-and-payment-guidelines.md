@@ -16,7 +16,7 @@
 
 **Exchange fees**: When applicable and unless agreed otherwise, exchange fees are paid by the contractor.
 
-**Payment deadlines:** payments to contractor are generally made once a month, on the 15th.    
+**Payment deadlines:** payments to contractors are generally made once a month, on the 15th, and only after the client has paid. There can be exceptions to this on a case by case basis, which need to be signed off by a co-owner. 
 
 ## Creating invoices from Greaterthan
 
