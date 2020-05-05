@@ -14,7 +14,7 @@
 * [Guides](guidelines/README.md)
   * [Communication Tools](guidelines/collaboration-and-comms-tools.md)
   * [Finance & Business Units](guidelines/admin/README.md)
-    * [Invoicing & Payment guidelines](guidelines/admin/invoicing-and-payment-guidelines.md)
+    * [Invoicing Guidelines](guidelines/admin/invoicing-and-payment-guidelines.md)
     * [Business Units](guidelines/admin/business-units.md)
   * [How to use our CRM](guidelines/using-our-crm.md)
   * [Attending Events](guidelines/attending-events.md)

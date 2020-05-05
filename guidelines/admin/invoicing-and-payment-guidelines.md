@@ -1,20 +1,36 @@
-# Invoicing & Payment guidelines
+# Invoicing Guidelines
 
-## **General invoicing rules:** 
+## **General invoicing & payment principles** 
 
-**Who makes invoices**? Project leaders \(whom are mostly co-owners\) are expected to make their own invoices for their clients. We use the accounting software [Xero](http://xero.co) to make our invoices, and all co-owners receive access to our account to be able to create and send invoices. 
+### **Invoicing clients**
 
-**What currency to invoice in?** If you are invoicing for work done, you can currently do this in Pounds, Euros or NZD. If possible, please always make invoices out **in the currency that your bank account is in** \(to avoid unnecessary exchange fees\). When applicable, exchange fees are paid by the contractor. 
+**Who makes invoices for clients**? Project leaders \(whom are mostly co-owners\) are expected to make their own invoices for their clients. We use the accounting software [Xero](http://xero.co) to make our invoices, and all co-owners receive access to our account to be able to create and send invoices. 
 
-**Payment deadlines:** payments to contractor are generally made once a month, on the 15th.  
+**What currency to invoice the client in?** Our preference for invoicing clients is in Pounds, Euros or NZD. USD, AU and CAD are possible as well, with CAD only being in exceptions. 
 
-## Tracking codes for invoices
+**Payment deadlines:** our standard payment schedule is 14-30 days. This may be different on a per client basis.
+
+### Payment of contractors
+
+**What currency to invoice in?** You can currently invoice in Pounds, Euros, NZD or USD. Other currencies may be possible upon request, since we use Transferwise. If possible, **please always make invoices out in the currency that your bank account is in** \(to avoid unnecessary exchange fees\). 
+
+**Exchange fees**: When applicable and unless agreed otherwise, exchange fees are paid by the contractor.
+
+**Payment deadlines:** payments to contractor are generally made once a month, on the 15th.    
+
+## Creating invoices from Greaterthan
+
+{% tabs %}
+{% tab title="If you\'re making the invoice in Xero" %}
+**Intro:** [basic video about how to make invoices.](https://www.loom.com/share/24b09dd6792d40b4843068af01ccf0fb)
+
+### Use of tracking codes
 
 We use a tracking system in Xero to manage our projects and keep track of where money is coming from and going to. Each large project has its own tracking code. Short, 1-off projects are categorized as "other consulting". 
 
 If you are starting a new large project, check with Francesca to create a new tracking code for it. 
 
-### Overview of the tracking codes and how to use them
+#### Overview of the tracking codes and how to use them
 
 There are 2 tracking categories:
 
@@ -51,20 +67,7 @@ There are 2 tracking categories:
 
 ![](../../.gitbook/assets/image%20%289%29.png)
 
-
-
-### I don't have access to Xero
-
-If you need to make an invoice for a client and do not have a Xero account, please **send the following information to admin@greaterthan.works:** 
-
-* **Customer:** Name and full Billing Info \(Address, Company or VAT number if available\)
-* **Amount:** Billing currency and total billing amount
-* **Tax:** including VAT/ excluding VAT, no VAT at all? 
-* **Description:** Product / Service Details 
-* **Payment deadline**: standard is 14 days, please indicate if it should vary
-* **How to send the invoice:** indicate whether you would like it sent directly through Xero \(in that case provide an email\), or whether you need a PDF.  
-
-## Taxes
+### Taxes
 
 Greaterthan is registered for UK VAT. This has the following implications when invoicing clients: 
 
@@ -74,13 +77,36 @@ Greaterthan is registered for UK VAT. This has the following implications when i
 
 If you have further questions about tax on invoices, ask Francesca. 
 
-## Invoice Templates
+### Invoice Templates for different currencies
 
-When making an invoice in Xero, you will see that there are different templates \(called "Branding" for invoicing in different currencies. 
+When making an invoice in Xero, you will see that there are different templates \(called "Branding" for invoicing in different currencies. [Watch this quick tutorial on how to use our templates. ](https://www.loom.com/share/e3e3da1bccf4437fa305d3ff73335428)
 
 If you're invoicing with reverse charge, use the template "EU reverse charge", which includes the reverse charge clause automatically. 
+{% endtab %}
 
-![](../../.gitbook/assets/image%20%285%29.png)
+{% tab title="If you don\'t have access to Xero" %}
+If you need to make an invoice for a client and do not have a Xero account, please **send the following information to admin@greaterthan.works:** 
+
+* **Customer:** Name and full Billing Info \(Address, Company or VAT number if available\)
+* **Amount:** Billing currency and total billing amount
+* **Tax:** including VAT/ excluding VAT, no VAT at all? 
+* **Description:** Product / Service Details 
+* **Payment deadline**: standard is 14 days, please indicate if it should vary
+* **How to send the invoice:** indicate whether you would like it sent directly through Xero \(in that case provide an email\), or whether you need a PDF.  
+
+Some background regarding **taxes:**
+
+Greaterthan is registered for UK VAT. This has the following implications when invoicing clients:
+
+* add UK VAT when invoicing another UK business
+* For invoices to businesses in all other European countries, we use the **Reverse Charge.** This means that you don't have to add VAT but use the code "Zero Rated EC Services/Goods". Before applying this rule, check with the client on whether it applies in their country.
+* For services in countries outside the EU, there is no VAT.
+
+If you have further questions about tax on invoices, ask Francesca.
+{% endtab %}
+{% endtabs %}
+
+
 
 
 
