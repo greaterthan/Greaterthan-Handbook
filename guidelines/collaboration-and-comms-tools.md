@@ -45,20 +45,20 @@ For making key knowledge assets easy to find.
 
 **&gt;&gt;** [**Go to Knowledge Map**](https://www.mindmeister.com/1008538106)
 {% endtab %}
-{% endtabs %}
 
-### Shared google calenders
-
+{% tab title="Shared Google Calendars" %}
 * Greaterthan Team Meetings
 * Greaterthan Events
 * Team Travel \(to share travel schedules\)
 * Team birthdays
+{% endtab %}
 
-### CRM
-
+{% tab title="CRM" %}
 \_\_[_Airtable CRM_](using-our-crm.md) _for managing contacts and our consulting pipeline._ 
 
 {% page-ref page="using-our-crm.md" %}
+{% endtab %}
+{% endtabs %}
 
 ## Other tools 
 
