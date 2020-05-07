@@ -1,6 +1,6 @@
 # Communication Tools
 
-These are the comms tools the team currently used. Make sure you are onboarded onto all of these when you join!
+Here is an overview of the communications tools our team currently uses. To avoid tool overload, people are usually onboarded to them on a needs basis, depending on the projects they are working on!
 
 ## Communications & Decision-Making
 
