@@ -21,8 +21,8 @@ _For day-to-day communications and working together._
 {% tab title="Loomio" %}
 _For decision-making and structured forum conversations._
 
-* [Community of Practice](https://www.loomio.org/g/CI3j26MK/greaterthan-community)
 * [Greaterthan team group](https://www.loomio.org/g/w924AJC6/greaterthan-core) for documenting decisions
+* [Community of Practice](https://www.loomio.org/g/CI3j26MK/greaterthan-community) &gt;&gt; _not in use currently_
 {% endtab %}
 
 {% tab title="Telegram" %}
