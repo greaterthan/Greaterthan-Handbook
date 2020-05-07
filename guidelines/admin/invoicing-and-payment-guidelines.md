@@ -65,7 +65,7 @@ There are 2 tracking categories:
 
 **When making your invoice, please make sure to fill in both tracking categories.** 
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 ### Taxes
 
