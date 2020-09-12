@@ -75,7 +75,9 @@ _Image Credit: The Gini Way,_ [_https://blog.gini.net/how-we-make-decentralized-
       </td>
     </tr>
   </tbody>
-</table>### **Projects and Shrubberies** 
+</table>
+
+### **Projects and Shrubberies** 
 
 **New projects that Greaterthan Co-owners and associates work on, such as Cobudget or Academy, have high decision-making autonomy.** 
 

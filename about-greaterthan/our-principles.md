@@ -6,6 +6,8 @@ We are embedded in and active drivers of a rich ecosystem of purpose-driven comm
 
 A lot of our knowledge and practice has grown from and continues to be nourished by these communities. We are in continuous relationship with them, both as individuals and as an organization, and **share the core values of these communities such as:** Collaboration, Permanent Beta, Do-ocracy, Openness & Care. 
 
+![ouishare.net, enspiral.com](../.gitbook/assets/image%20%2811%29.png)
+
 ## Principles that guide us
 
 ### **Greater than the sum of our parts.**

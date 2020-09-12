@@ -61,7 +61,9 @@ There are 2 tracking categories:
       </td>
     </tr>
   </tbody>
-</table>As a general rule, **every transaction in Xero must be attributed to the "Internal" category**, so we know where the funds sit. A project tracking code is not always needed, for instance when funds go directly into personal BUs. 
+</table>
+
+As a general rule, **every transaction in Xero must be attributed to the "Internal" category**, so we know where the funds sit. A project tracking code is not always needed, for instance when funds go directly into personal BUs. 
 
 **When making your invoice, please make sure to fill in both tracking categories.** 
 
