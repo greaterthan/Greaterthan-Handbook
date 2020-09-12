@@ -4,7 +4,7 @@
 * [Our organization](about-greaterthan/README.md)
   * [History](about-greaterthan/history.md)
   * [Constitution & Governance](about-greaterthan/constitution-and-governance.md)
-  * [Values & Guiding Principles](about-greaterthan/our-principles.md)
+  * [Our Values & Principles](about-greaterthan/our-principles.md)
 * [Agreements](agreements/README.md)
   * [People Agreement](agreements/agreements/README.md)
     * [List of Co-owners and Associates](agreements/agreements/list-of-co-owners-and-associates.md)
