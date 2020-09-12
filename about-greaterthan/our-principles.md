@@ -22,11 +22,11 @@ Our society puts a high value on theoretical concepts and models, but their pote
 
 Power dynamics are important, whether we acknowledge them or not. Power does not only accrue through status and seniority, but through intangible elements such as skills, age, gender and communication style. We are committed to consciously working with and sharing power, by making these dynamics visible and not shying away from \(uncomfortable\) conversations about power as a group. This will enable us to step into our individual and collective leadership.**\#**
 
-### **Stay perpetually curious**
+### **Stay perpetually curious.**
 
 We don’t believe there is one ‘right’ approach or a universal framework to solve anything. We make sure to understand the context and look at different perspectives and levels before jumping to conclusions or into action. Working in complexity also means fostering our curiosity and openness about different ways of seeing things, and be able to sit with contradictions and dissent. And the answer to whether, in the end, it all comes down to personal change or system change first, is that one is not more important than the other, we need both. 
 
-### **Lead with \(com\)passion & authenticity**
+### **Lead with \(com\)passion & authenticity.**
 
 Great leadership starts with taking responsibility for ourselves and our own experience. This self-awareness and empathy towards ourselves is what helps us care for each other and be great stewards of the whole system. When we create a caring environment, we can grow personally and as a group, by being able to safely explore our edges and have courageous and compassionate conversations with each other.
 
