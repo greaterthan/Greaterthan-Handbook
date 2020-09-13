@@ -1,14 +1,24 @@
 # Our organization
 
-We train, support and advise people, teams and organizations at the forefront of decentralized, self-managed and participatory work. We use a variety of tools and practices to help these organizations face some of the biggest challenges related to power, money and governance. 
+## Our purpose
 
-### Our mission
+Greaterthan’s purpose is to develop and grow the impact of new ways of organizing, and to be in service of the individuals and organizations who are driving this work forward. We are a hub for aligned practitioners to experiment, support others on their transformation journeys and develop products that make these practices accessible to wider audiences. 
 
-Our mission is to make self-management and participatory governance in organizations a new normal by spreading culture, knowledge and practices. 
+### **We want to help usher in a new era, where our organizing structures and cultures contribute to a more healthy system for all.** 
 
-### Our vision
+## Our vision
 
-Our vision is for a world where workplaces are communities that provide agency, personal growth and meaning. We believe that this will contribute to a system where value exchange is in balance.
+We envision a world where the system\(s\) we do our work in...
+
+…enable everyone to be involved in decisions that relate to their lives and futures in the workplace. 
+
+…recognize and distribute value of different kinds in a healthy, regenerative way.
+
+...foster conditions for people to express their creativity and be entrepreneurial.
+
+...support caring relationships and human development.
+
+...enable everyone to step into their power and lead.
 
 ![](../.gitbook/assets/logo-horizontal_b.png)
 
