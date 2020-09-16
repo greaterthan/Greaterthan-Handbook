@@ -12,6 +12,7 @@
   * [Financial Agreement](agreements/financial-agreement.md)
 * [Working Together](working-together.md)
 * [Guides](guidelines/README.md)
+  * [Onboarding](guidelines/onboarding.md)
   * [Communication Tools](guidelines/collaboration-and-comms-tools.md)
   * [Finance & Business Units](guidelines/admin/README.md)
     * [Invoicing Guidelines](guidelines/admin/invoicing-and-payment-guidelines.md)
