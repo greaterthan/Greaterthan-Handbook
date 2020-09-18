@@ -22,8 +22,6 @@
 | Ria Baeck | December 2019 |
 | Tom Nixon | December 2019 |
 | David Weingartner | April 2020 |
-| Lucia Die Gil | April 2020 |
-| Elena Denaro | April 2020 |
 
 ## Previous Members
 
