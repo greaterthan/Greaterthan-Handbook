@@ -1,5 +1,9 @@
 # People Agreement
 
+### This agreement is currently out of date. At the moment we are running an experiment with new levels of involvement until December 2020 to evolve it. 
+
+[&gt;&gt; See the experiment details](https://docs.google.com/document/d/1uO8Nu3Nbdt_Yq6kaPFIzlYLVqdHUku6ZygaMDGFjdJ0/edit?usp=sharing)
+
 ## Co-owners
 
 **Co-owners are the stewards of Greaterthan.** They are collectively responsible for governing the organization and operating the business. They build and lead Greaterthan’s core projects. They each have an equal shareholding with equal decision-making weight on company decisions. Co-owners have been involved in Greaterthan \(as associates or by working on projects\) for at least 1 year.
