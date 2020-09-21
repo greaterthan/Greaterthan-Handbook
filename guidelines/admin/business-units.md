@@ -13,11 +13,11 @@ There are several types of BUs:
 
 ### Who can have a personal business unit
 
-Personal business units are for co-owners only. 
+Personal business units are for partners only, and for associates on a case by case basis. 
 
 ## Starting a new Business Unit
 
-Personal business units can be created if the owner agrees to the following conditions \(BU agreement\): 
+Personal business units can be created if the BU owner agrees to the following conditions \(BU agreement\): 
 
 **\#1 All work invoiced contributes 15 % to GT core**, to go towards admin overhead and the GT common pot for investing in new projects, as laid out in our financial agreement.
 
@@ -27,5 +27,5 @@ Personal business units can be created if the owner agrees to the following cond
 * the amount in the BU shall never be negative
 * If funds remain in the BU after the year-end, the 19% UK company tax will automatically be deducted. 
 
-To start a new BU for a Shrubbery, a proposal must be approved by consent in the GT co-owner Loomio.
+To start a new BU for a Shrubbery, a proposal must be approved by consent in the GT member Loomio.
 
