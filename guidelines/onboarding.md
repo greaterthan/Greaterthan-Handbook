@@ -1,3 +1,7 @@
+---
+description: Here are some simple steps to follow when onboarding new people to GT.
+---
+
 # Onboarding
 
 ## Ecosystem members
