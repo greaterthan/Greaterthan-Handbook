@@ -1,6 +1,6 @@
 # Onboarding
 
-## Onboarding new ecosystem members
+## Ecosystem members
 
 Onboarding in Greaterthan is mostly distributed. It is the responsibility of members to onboard and guide people that they have invited. 
 
@@ -11,7 +11,7 @@ Two most important onboarding steps:
 3. Let members know! Send a message on the \#gt-members slack channel announcing this person has joined. 
 4. Welcome them on the \#everyone channel of the GT slack
 
-## Onboarding associates
+## Associates
 
 Onboarding of new associates is the responsibility of the GT member who invited in and put up the decisions to bring in this new person. 
 

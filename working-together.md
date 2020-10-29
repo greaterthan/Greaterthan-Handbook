@@ -1,23 +1,22 @@
 # Working Together
 
-## Rhythms & Rituals
+## Team Rhythms & Rituals
 
-### Weekly GT Member meetings
+### Monthly Business Owner meeting
 
-We alternative between two meeting types every two weeks for all partners and associates: 
-
-1. Sense-Making, Tensions & Proposals
-2. New Projects, Project updates & Biz Dev
-
-To see when these calls are scheduled, please check the GT Team Meetings google calendar, which you were given access to when onboarded.
+Call once a month with all Greaterthan Partners.‌
 
 ### In-person Sprints <a id="in-person-sprints"></a>
 
-3-5 days of living & working together with the whole team in rotating \(rural\) locations, every 3-6 months.
+3-5 days of living & working together with the whole team in rotating \(rural\) locations, every 3-6 months
 
-### Ecosystem & Learning Calls
+### Learning Calls
 
-Every few months we host open calls with associates and people we work with to discuss and share learning on a certain topic.
+Monthly calls with partners, associates and people we work with to discuss and share learning on a certain topic.
+
+### Knowledge Sharing Sessions
+
+Optional weekly standing meeting to talk about "What is the valuable knowledge we have?". It's for anyone who wants to share knowledge assets they are using in their work at the moment, have a discussion about it, capture it on our maps, etc.
 
 ![](.gitbook/assets/rsz_ashley-batz-1298.jpg)
 
