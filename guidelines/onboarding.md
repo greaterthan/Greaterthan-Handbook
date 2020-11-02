@@ -23,7 +23,7 @@ To onboard an associate:
 
 1. If they have not seen it yet when they joined ecosystem, share with them the ****[**Welcome to Greaterthan slidedeck**](https://docs.google.com/presentation/d/1rFSGgnr78lhhy5qUJU2nRUVO1Xro84iDbriAotjiRV0/edit#slide=id.p21) as basic orientation. 
 2. **Update their info on the** [**People Dashboard**](https://docs.google.com/spreadsheets/d/1cqVmoV0AtcExdkr3vpl5oKBTFng4njT1uVzgWvooA4c/edit#gid=0)**,** by changing their status and updating who invited them.
-3. **Add them to tools:** You can use the checklist of tools in the people dashboard to make sure they get added to all relevant channels - Loomio, \#GT-members channel, Shared Drives and Shared Calendars. 
+3. **To get them added to all our tools** \(as listed in the checklist on the people dashboard\) please connect them with Optimi by emaling tools@greaterthan.works. Then Malcolm or Katrin from Optimi will onboard them. 
 4. **Welcome them!** Send a message on the \#gt-members slack channel to welcome them there. 
 
 
