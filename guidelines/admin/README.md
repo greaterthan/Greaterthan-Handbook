@@ -1,4 +1,4 @@
-# Finance & Business Units
+# Finance, Admin & Ops
 
 All our basic admin procedures are explained [**in this map**](https://www.mindmeister.com/1195542438?t=LYHjk2g2DM)**,** such as submitting expenses, creating invoices, making budgets, project management etc. 
 
