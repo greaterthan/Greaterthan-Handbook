@@ -18,7 +18,7 @@
     * [Setting up projects](https://handbook.greaterthan.works/projects/setting-up-a-new-project)
     * [Everything you need to know about invoicing](guidelines/admin/invoicing-and-payment-guidelines.md)
     * [Business Units](guidelines/admin/business-units.md)
-  * [How to use our CRM](guidelines/using-our-crm.md)
+    * [How to use our CRM](guidelines/admin/using-our-crm.md)
   * [Attending Events](guidelines/attending-events.md)
 * [Projects](projects/README.md)
   * [Project Setup & Overview](projects/setting-up-a-new-project.md)

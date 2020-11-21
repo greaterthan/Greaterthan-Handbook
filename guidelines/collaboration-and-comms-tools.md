@@ -75,9 +75,9 @@ A large portion of the assets in the maps are linked in our Google Drive folder
 {% endtab %}
 
 {% tab title="CRM" %}
-\_\_[_Airtable CRM_](using-our-crm.md) _for managing contacts and our consulting pipeline._ 
+\_\_[_Airtable CRM_](admin/using-our-crm.md) _for managing contacts and our consulting pipeline._ 
 
-{% page-ref page="using-our-crm.md" %}
+{% page-ref page="admin/using-our-crm.md" %}
 {% endtab %}
 
 {% tab title="Customer Support" %}
