@@ -8,11 +8,11 @@ Each project has its own budget, which is managed independently. Budgets are man
 
 There are no standardized daily or hourly rates for work, as these vary between contracts, types of work and level of expertise of contributors. Each project team is free to choose how to distribute its budget; however this budget must be transparent for the rest of the organization and be \(subjectively\) considered as equitable among team members.
 
-## 2. Greaterthan Core Budget 
+## 2. Greaterthan Commons Budget 
 
-### Contributions to GT Core
+### Contributions to GT Commons
 
-**All consulting work invoiced for through Greaterthan Collective Ltd contributes 15 %** to the Greaterthan core.
+**All contract work invoiced for through Greaterthan Collective Ltd contributes 15 %** to the Greaterthan commons.
 
 These 15 % include: 
 
@@ -20,33 +20,32 @@ These 15 % include:
 * Recurring donations to communities in our ecosystem
 * Collective "investments" in existing projects \(for instance the maintenance of Cobudget\), as well new projects. 
 
-The next section explains how the spending of this core budget and investment "surplus" is spent. For certain types of contracts that non co-owners are working on, the % to the core may be lower, subject to negotiation \(based on factors such as the size and complexity of the contract.\).
+The next section explains how the spending of this budget and investment "surplus" is spent. For certain types of contracts that non partners are working on, the % to the commons may be lower, subject to negotiation \(based on factors such as the size and complexity of the contract.\).
 
-The 15 % rule will be revisited at In-Person Sprints to see if it makes sense with how the business evolves. It is up to the discretion of any co-owner \(for individual work\) or project team to increase the percentage their projects contribute to the GT commons, if they like.
+The 15 % rule will be revisited at In-Person Sprints to see if it makes sense with how the business evolves. It is up to the discretion of any partner \(for individual work\) or project team to increase the percentage their projects contribute to the GT commons, if they like.
 
 ### Reserves
 
-The Core Budget is run with a **6-month runway** of reserve funds \(amount based on our average monthly operating cost\), to ensure that the organization can remain stable if there are sudden changes in projects. If the reserves are at risk of falling below the 6-month threshold, the[ MVB ](agreements/#minimum-viable-board)must alert the co-owners, so that they can take the necessary action.  
+The Commons Budget is run with a **6-month runway** of reserve funds \(amount based on our average monthly operating cost\), to ensure that the organization can remain stable if there are sudden changes in projects. If the reserves are at risk of falling below the 6-month threshold, the[ MVB ](agreements/#minimum-viable-board)must alert the partners, so that they can take the necessary action.  
 
 This was decided on [Loomio in February 2020. ](https://www.loomio.org/d/kf0jHFC7/gt-core-budget-discussions-decisions/1)
 
-## 3. Core Budget & Surplus
+## 3. Decisions about Commons Budget & Surplus
 
-The Greaterthan core budget and the allocation of any surplus are agreed through a collaborative funding process twice a year.
+The Greaterthan comons budget and the allocation of any surplus are agreed through a collaborative funding process twice a year.
 
 * An in-person meeting to set these budgets /distributions takes place twice a year at Sprints, set in sync with the end of the financial year
-* One month before the next upcoming meeting a team of 2 \(of which at least one co-owner\) prepares a proposal for how to run the collaborative budgeting/funding process and facilitates it. i.e.:
+* One month before the next upcoming meeting a team of 2 \(of which at least one partner\) prepares a proposal for how to run the collaborative budgeting/funding process and facilitates it. i.e.:
   * Cobudget
   * Loomio Dot-voting
-* Travel costs, accommodation and food for in-person sprints for Co-owners are included in the core budget
+* Travel costs, accommodation and food for in-person sprints for partners are included in the commons budget
 
 Surplus can be allocated to one or both of these areas:
 
-1. **Bonuses** to be paid out to co-owners and associates for great work done
+1. **Bonuses** to be paid out to partners and associates for great work done
 2. **Investment into new projects** that are aligned with our purpose \(such as Cobudget, GT Academy\)
 
 ## 4. Funding the ecosystem
 
-Greaterthan is committed to contributing part of its core budget to funding communities in its ecosystem, such as Enspiral and Ouishare, in the long term. The amount of the financial contributions is reassessed as Greaterthan’s revenue evolves. The contributions are however not only of financial nature, but include other types of partnerships, as well as Greaterthan co-owners and associates contributing their time to these communities.  
-
+Greaterthan is committed to contributing part of its commons budget to funding communities in its ecosystem, such as Enspiral and Ouishare, in the long term. The amount of the financial contributions is reassessed as Greaterthan’s revenue evolves. The contributions are however not only of financial nature, but include other types of partnerships, as well as Greaterthan partners and associates contributing their time to these communities.
 
