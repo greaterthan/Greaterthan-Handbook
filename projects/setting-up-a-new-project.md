@@ -4,7 +4,10 @@
 
 ### What projects are we working on right now? 
 
- As a member, you can see the [overview of all ongoing projects in our Airtable](https://airtable.com/tblZj0i7cL9HfcS8k/viwpXOt2puTwkKsRt?blocks=hide) \(if you don't have access yet, ask in \#admin channel\). 
+ As a member, you can see the overview of our ongoing projects in Airtable \(if you don't have access yet, ask in \#admin channel\)
+
+* [External client projects](https://airtable.com/tblZj0i7cL9HfcS8k/viwpXOt2puTwkKsRt?blocks=hide) 
+* [Internal projects ](https://airtable.com/tblwigpNola4cH8bo/viweiSLGBvgqvKt67?blocks=hide)
 
 ### How to setup a new project
 
