@@ -11,7 +11,7 @@
 
 ### How to setup a new project
 
-We have a simple process for setting up a new project, that can be carried out by any GT member. While it's great if all our projects --both internal and external, volunteer and paid-- can be setup with this process, **the following steps are mandatory for paid projects using the GT legal vehicle**. This is a prerequisite to be able to invoice a client through GT! 
+We have a simple process for setting up a new external project, that can be carried out by any GT member. While it's great if all our external projects --both paid and pro bono-- can be setup with this process, **the following steps are mandatory for paid projects using the GT legal vehicle**. This is a prerequisite to be able to invoice a client through GT! 
 
 {% hint style="success" %}
 ### The steps to setting up your project
