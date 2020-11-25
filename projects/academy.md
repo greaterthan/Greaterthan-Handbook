@@ -2,9 +2,9 @@
 
 **A community-led professional learning and development platform where you can learn the skills and practices we need to create a more human future of work.** 
 
-\*\*\*\*[**academy.betterworktogether.co** ](http://academy.greaterthan.works)\*\*\*\*
+\*\*\*\*[**academy.greaterthan.works** ](http://academy.greaterthan.works)\*\*\*\*
 
-This project evolved out of "[Leadwise](http://academy.leadwise.co)" and the first online course called Practical Self-Management.
+This project evolved out of "[Leadwise](http://academy.leadwise.co)" and the first online course called Practical Self-Management, and was rebranded from Better Work Together Academy in October 2020. 
 
 ## Guiding Principles for our work
 
