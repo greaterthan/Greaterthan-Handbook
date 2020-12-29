@@ -1,19 +1,18 @@
-# List of Co-owners and Associates
+# List of Partners and Associates
 
-## Co-Owners
+## Partners
 
 | Name | Joined |
 | :--- | :--- |
 | Francesca Pick | February 2017 |
 | Kate Beecroft | April 2017 |
 | Susan Basterfield | July 2018 |
-| Anthony Cabraal | July 2018 |
+| Elena Denaro | September 2020 |
 
 ## Associates & Advisors
 
 | Name | Joined |
 | :--- | :--- |
-| Michel Bachmann | July 2018 |
 | Patrick Andrews | July 2018 |
 | Lisa Gill | May 2019 |
 | Mary O'Keeffe | May 2019 |
@@ -23,7 +22,11 @@
 | Tom Nixon | December 2019 |
 | David Weingartner | April 2020 |
 | Lucia Die Gil | April 2020 |
-| Elena Denaro | April 2020 |
+| Anthony Cabraal | Partner from July 2018-Sept 2020 |
+| Joriam Felipe | September 2020 |
+| Sarah Durlacher | September 2020 |
+| Stefan Morales | October 2020 |
+| Ana Manzanedo | October 2020 |
 
 ## Previous Members
 
