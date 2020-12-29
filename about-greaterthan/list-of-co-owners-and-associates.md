@@ -1,5 +1,7 @@
 # Partners and Associates
 
+Here is our current list of partners and associates. To learn about what those roles mean, see our [People Agreement. ](../agreements/agreements.md)
+
 ## Partners
 
 | Name | Joined |
