@@ -4,7 +4,7 @@ Here is an overview of the communications tools our team currently uses. To avoi
 
 ## Who can be added to these tools and how? 
 
-To get access to any of these tools, please ask any of the[ co-owners ](../agreements/agreements/list-of-co-owners-and-associates.md#co-owners)to be added.
+To get access to any of these tools, please ask any of the[ co-owners ](../about-greaterthan/list-of-co-owners-and-associates.md#co-owners)to be added.
 
 **The majority of our tools are available for anyone working on our projects** on a needs basis. There are certain tools reserved to associates or co-owners only, such as Loomio, for formal decision-making. 
 

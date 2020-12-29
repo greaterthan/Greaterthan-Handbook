@@ -1,4 +1,4 @@
-# List of Partners and Associates
+# Partners and Associates
 
 ## Partners
 
