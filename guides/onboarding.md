@@ -25,7 +25,8 @@ To onboard an associate:
 2. **Update their info on the** [**People Dashboard**](https://docs.google.com/spreadsheets/d/1cqVmoV0AtcExdkr3vpl5oKBTFng4njT1uVzgWvooA4c/edit#gid=0)**,** by changing their status and updating who invited them.
 3. **To get them added to all our tools** \(as listed in the checklist on the people dashboard\) please connect them with Optimi by emaling tools@greaterthan.works. Then Malcolm or Katrin from Optimi will onboard them. 
 4. Add their photo & 150 character bio to the Greaterthan website. You can use this as an opportunity to [**show them how to edit it**](https://www.loom.com/share/635395e805594346b99ad04a3f3ae135) **\[**[**see tutorial**](https://www.loom.com/share/635395e805594346b99ad04a3f3ae135)**\]** themselves \(and [add resources to the Toolkit](https://www.loom.com/share/82b8a78d1c0940929ad56c4eb6f4d513)\). 
-5. **Welcome them!** Send a message on the \#gt-members slack channel to welcome them there. 
+5. Introduce them to key places to find our knowledge commons: ****[**Greaterthan Knowledge map**](https://www.mindmeister.com/1008538106) & [Knowledge Commons Drive](https://drive.google.com/drive/u/0/folders/0AMicdnwGdCaEUk9PVA).
+6. **Welcome them!** Send a message on the \#gt-members slack channel to welcome them there. 
 
 
 
