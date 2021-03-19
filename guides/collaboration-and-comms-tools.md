@@ -4,9 +4,9 @@ Here is an overview of the communications tools our team currently uses. To avoi
 
 ## Who can be added to these tools and how? 
 
-To get access to any of these tools, please ask any of the[ co-owners ](../about-greaterthan/list-of-co-owners-and-associates.md#co-owners)to be added.
+To get access to any of these tools, please ask any of the partners to be added.
 
-**The majority of our tools are available for anyone working on our projects** on a needs basis. There are certain tools reserved to associates or co-owners only, such as Loomio, for formal decision-making. 
+**The majority of our tools are available for anyone working on our projects** on a needs basis. There are certain tools reserved to associates and partners only, such as Loomio, for formal decision-making. 
 
 ## Communications & Decision-Making
 
@@ -46,11 +46,11 @@ Shared Google Drives for various projects and GT core.
 Some of our Shared Drives:
 
 * [Greaterthan Core](https://drive.google.com/drive/u/0/folders/0AEdklBnH3X34Uk9PVA)
-* [BWT Academy](https://drive.google.com/drive/u/1/folders/0ABmjriKbYg2iUk9PVA)
+* [Greaterthan Academy](https://drive.google.com/drive/u/1/folders/0ABmjriKbYg2iUk9PVA)
 * [Services](https://drive.google.com/drive/u/1/folders/0AN9NkdrnXeqdUk9PVA)
 * [Knowledge Commons](https://drive.google.com/drive/u/1/folders/0AMicdnwGdCaEUk9PVA)
 
-Ask for access to these from co-owners.
+Ask for access to these from any other GT member.
 {% endtab %}
 
 {% tab title="Knowledge Sharing" %}
@@ -84,7 +84,7 @@ A large portion of the assets in the maps are linked in our Google Drive folder
 We use[ Helpscout ](https://www.helpscout.com/)for managing multiple inboxes for customer support for products and projects such as: 
 
 * General requests to hello@greaterthan.works
-* BWT Academy 
+* GT Academy 
 * Cobudget
 * Better Work Together Book 
 {% endtab %}
@@ -94,7 +94,7 @@ We use[ Helpscout ](https://www.helpscout.com/)for managing multiple inboxes for
 
 which we have Greaterthan accounts for:
 
-* Newsletters: Mailchimp
+* Newsletters: Active Campaign
 * Digital Whiteboarding: Mural
 * Surveys: Typeform
 * Managing Helpscout
