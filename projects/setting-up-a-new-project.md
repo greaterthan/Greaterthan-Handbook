@@ -9,7 +9,7 @@
 * [External client projects](https://airtable.com/tblZj0i7cL9HfcS8k/viwpXOt2puTwkKsRt?blocks=hide) 
 * [Internal projects ](https://airtable.com/tblwigpNola4cH8bo/viweiSLGBvgqvKt67?blocks=hide)
 
-### How to setup a new project
+### Setting up a new project in the GT system
 
 We have a simple process for setting up a new external project, that can be carried out by any GT member. While it's great if all our external projects --both paid and pro bono-- can be setup with this process, **the following steps are mandatory for paid projects using the GT legal vehicle**. This is a prerequisite to be able to invoice a client through GT! 
 
@@ -24,7 +24,9 @@ Setting up a project works in a few minutes by filling out a form.
 That's it!
 {% endhint %}
 
+### Useful documents for doing client paperwork
 
+Check out ****[**this shared folder**](https://drive.google.com/drive/folders/1ZGw6xDHzLfpuyGqm5cfLIpgmFxY_BXP4?usp=sharing) ****for contract templates, company and bank information, to be able to fill out necessary paperwork with the client. 
 
 
 
