@@ -34,5 +34,7 @@ There are two options for how associates may have a Greaterthan email address:
 1. **A full Google Apps Email account:** regular email account, which incurs a monthly fee to GT core. All associates may have such a GT email address, but we ask you to only choose this option if you will really use it \(since we are aware that many Associates already have several work emails they use\).  
 2. **An alias** \(done through a google group\), that enables you to _receive_ emails to yourname@greaterthan.works, but does not let you send. This is the default option if you do not choose option 1\).
 
+When new members receive the onboarding form, they will be able to choose which email option they prefer.
+
 
 
