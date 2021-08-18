@@ -29,6 +29,8 @@ Here is our current list of partners and associates. To learn about what those r
 | Sarah Durlacher | September 2020 |
 | Stefan Morales | October 2020 |
 | Ana Manzanedo | October 2020 |
+| J.D. Nasaw | March 2021 |
+| Tomomi Sasaki | May 2021 |
 
 ## Previous Members
 
