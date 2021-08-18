@@ -11,7 +11,7 @@ Here is our current list of partners and associates. To learn about what those r
 | Susan Basterfield | July 2018 |
 | Elena Denaro | September 2020 |
 
-## Associates & Advisors
+## Associates
 
 | Name | Joined |
 | :--- | :--- |
