@@ -1,13 +1,12 @@
 # People Agreement
 
+_This agreement was last updated in September 2021, after having run the following_ [_experiment_](https://docs.google.com/document/d/1uO8Nu3Nbdt_Yq6kaPFIzlYLVqdHUku6ZygaMDGFjdJ0/edit?usp=sharing)_._ 
+
 ## **Context & Intention of this Agreement**
 
 The intention of our People Agreement is to make explicit the differing levels of involvement, commitment and power that people can have with respect to Greaterthan \(GT\) and articulate how people can move between those levels. Since it’s first version, this agreement has gone through various significant iterations, which will likely continue as the organization and its members develop. 
 
 This agreement has been designed to recognize and accommodate for different types and levels of involvement, contribution and commitment. It aims to enable people to scale their involvement and commitment up and down in a dynamic, organic way, to adapt to different professional priorities and life phases. The intention behind this is for GT to be an organisation that people align themselves with for the long term - evolving their relationship with it over time as both they and GT change.   
-
-[&gt; See the experiment details](https://docs.google.com/document/d/1uO8Nu3Nbdt_Yq6kaPFIzlYLVqdHUku6ZygaMDGFjdJ0/edit?usp=sharing)  
-****
 
 ## **Levels of involvement**
 
