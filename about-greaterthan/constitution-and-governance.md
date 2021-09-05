@@ -25,6 +25,8 @@ To read more about how **our governance** works, check out our agreements:
 
 ## Articles of Association
 
+_Note: in these articles of association, the Greaterthan_ [_**Partners**_](list-of-co-owners-and-associates.md#partners) _are referred to as 'Co-Owners'._ 
+
 BACKGROUND
 
 1. The Company exists to promote a world where workplaces are communities that provide agency, personal growth and meaning.

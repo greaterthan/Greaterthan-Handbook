@@ -13,7 +13,7 @@
 
 ## Decision Protocols: Advice Process & Consent
 
-Apart from adding new co-owners and associates \(which are more restrictive\), these are the three decision models we use regularly:
+Apart from adding new partners and associates \(which are more restrictive\), these are the three decision models we use regularly:
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
@@ -62,7 +62,7 @@ _Image Credit: The Gini Way,_ [_https://blog.gini.net/how-we-make-decentralized-
       </td>
       <td style="text-align:left">Passes as long as there are no blocks and more than 50% of those stating
         a position agree</td>
-      <td style="text-align:left">All co-owners must participate.</td>
+      <td style="text-align:left">All partners must participate.</td>
       <td style="text-align:left">5 working days (10 working days encouraged when possible)</td>
       <td style="text-align:left">
         <p>This option should be used for more consequential decisions, such as changes
@@ -79,7 +79,7 @@ _Image Credit: The Gini Way,_ [_https://blog.gini.net/how-we-make-decentralized-
 
 ### **Projects and Shrubberies** 
 
-**New projects that Greaterthan Co-owners and associates work on, such as Cobudget or Academy, have high decision-making autonomy.** 
+**New projects that Greaterthan Partners and Associates work on, such as Cobudget or Academy, have high decision-making autonomy.** 
 
-They have ****full independence in their day-to-day decision-making and a high independence on strategic decisions. Project teams and leaders use the advice process for deciding when to consult with other Greaterthan co-owners not involved in the project \(when there would be an impact on the rest of GT\). They are expected to share updates about their work regularly with the rest of the organization.
+They have ****full independence in their day-to-day decision-making and a high independence on strategic decisions. Project teams and leaders use the advice process for deciding when to consult with other Greaterthan partners not involved in the project \(when there would be an impact on the rest of GT\). They are expected to share updates about their work regularly with the rest of the organization.
 

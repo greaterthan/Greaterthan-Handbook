@@ -167,20 +167,20 @@ Any member can call an emergency meeting pursuant to **unacceptable behavior** o
 
 ## Minimum Viable Board
 
-Compliance and legal responsibility is held by a “Minimum Viable Board”, composed of two co-owners and \(optionally\) one external person.
+Compliance and legal responsibility is held by a “Minimum Viable Board”, composed of two partners and \(optionally\) one external person or associate.
 
 **The MVB will:**
 
 * ensure that Greaterthan Collective Ltd is fully compliant with United Kingdom laws and regulations, and its company constitution
 * maintain an overview of current finances, long term financial view, and adequate reserves
 
-Any associate or partner may nominate a director \(including themselves\). They can initiate a conversation at any time to discuss directorship with the other partners. 
+Any associate or partner can can initiate a conversation at any time to discuss directorship with the members, and may nominate a director \(including themselves\). The final decision about directorship is made by partners. 
 
 **The current MVB has 3 members:**
 
-* Francesca Pick \(co-owner\)
-* Susan Basterfield \(co-owner\)
-* Patrick Andrews \(external advisor\)
+* Francesca Pick \(partner\)
+* Susan Basterfield \(partner\)
+* Patrick Andrews \(associate\)
 
 [See current changes on UK Company's House. ](https://beta.companieshouse.gov.uk/company/11387616)  
 
