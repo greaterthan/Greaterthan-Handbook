@@ -43,6 +43,10 @@ To see when these calls are scheduled, please check the GT Team Meetings google 
 
 A set of days where we focus intensely on working together, either on a specific project \(Academy\), or on evolving Greaterthan as an organization. In the past this has often looked like 3-5 days of living & working together with the whole team in rotating \(rural\) locations, every 3-6 months.
 
+### Annual Opt-in Ritual
+
+ An annual **moment for reflection and acknowledgement of the changes taking place in the GT system,** especially in relation to people moving in and our of their roles as partners and associates. This is our form of an annual "opt-in", as a collective acknowledgment moment of changes to people's involvement. 
+
 **Other Meetings**
 
 * Partners Meeting \| every 2 weeks
