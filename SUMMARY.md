@@ -7,7 +7,7 @@
   * [Our Values & Principles](about-greaterthan/our-principles.md)
   * [Partners and Associates](about-greaterthan/list-of-co-owners-and-associates.md)
 * [Agreements](agreements/README.md)
-  * [People Agreement](agreements/agreements.md)
+  * [People Agreement](agreements/people-agreement.md)
   * [Decision Agreement](agreements/governance-and-decision-making.md)
   * [Financial Agreement](agreements/financial-agreement.md)
 * [Working Together](working-together.md)

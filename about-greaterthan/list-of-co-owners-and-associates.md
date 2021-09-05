@@ -1,6 +1,6 @@
 # Partners and Associates
 
-Here is our current list of partners and associates. To learn about what those roles mean, see our [People Agreement. ](../agreements/agreements.md)
+Here is our current list of partners and associates. To learn about what those roles mean, see our [People Agreement. ](../agreements/people-agreement.md)
 
 _Last updated: August 2021_
 
