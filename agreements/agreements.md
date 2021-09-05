@@ -16,9 +16,11 @@ There are three explicit levels of involvement in GT: “Partners”, “Associa
 
 To understand these levels better, let’s look at how each relates to Greaterthan: 
 
-* Partners: ‘Greaterthan is my professional home, or, if this is not the case yet, I am actively working towards it.’ The majority of their work is in and through GT. Equal shareholders in GTs UK "mother" company, Greaterthan Collective Ltd \(1 share per person\). 
-* Associates: ‘Greaterthan is one of the places for my professional activity, or, if this is not the case yet, this is something I am actively working towards.’ 
-* Ecosystem: ‘Greaterthan is a professional network I am part of \(and potentially want to get more involved in\)’. In many cases, GT members are already doing a project with potential ecosystem members, or are interested in doing work together in the future. 
+**Partners:** _‘Greaterthan is my professional home, or, if this is not the case yet, I am actively working towards it.’_ The majority of their work is in and through GT. Equal shareholders in GTs UK "mother" company, Greaterthan Collective Ltd \(1 share per person\). 
+
+**Associates:** _‘Greaterthan is one of the places for my professional activity, or, if this is not the case yet, this is something I am actively working towards.’_ 
+
+**Ecosystem**: ‘_Greaterthan is a professional network I am part of \(and potentially want to get more involved in\)’._ In many cases, GT members are already doing a project with potential ecosystem members, or are interested in doing work together in the future. 
 
 None of these levels have a nominal limit to how many people can be in them -- but to ensure our system is healthy, it’s important that they maintain a certain proportionality. In comparison to the other levels, the ways in which someone shows up as an associate are the broadest, an ambiguity which we are embracing and looking to navigate by making everyone’s specific commitments explicit \(see below\).
 
