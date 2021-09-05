@@ -57,7 +57,7 @@ At the end of each Hike, we make sure to hold a retrospective and "closing" sess
 
 ## Decision Making
 
-The decision making in this project follows[ Greaterthan's general decision-making agreement](../agreements/governance-and-decision-making.md). 
+The decision making in this project follows[ Greaterthan's general decision-making agreement](../agreements/decision-making-agreement.md). 
 
 This means that there is an **emphasis on autonomy for the team actively working on the project.** 
 

@@ -8,7 +8,7 @@
   * [Partners and Associates](about-greaterthan/list-of-co-owners-and-associates.md)
 * [Agreements](agreements/README.md)
   * [People Agreement](agreements/people-agreement.md)
-  * [Decision Agreement](agreements/governance-and-decision-making.md)
+  * [Decision Agreement](agreements/decision-making-agreement.md)
   * [Financial Agreement](agreements/financial-agreement.md)
 * [Working Together](working-together.md)
 * [Guides](guides/README.md)
