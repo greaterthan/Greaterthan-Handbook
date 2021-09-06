@@ -33,7 +33,7 @@ None of these levels have a nominal limit to how many people can be in them -- b
   <thead>
     <tr>
       <th style="text-align:left"></th>
-      <th style="text-align:left">Member (Associate s + Partners)</th>
+      <th style="text-align:left">Members (Associates + Partners)</th>
       <th style="text-align:left">Partners</th>
     </tr>
   </thead>
