@@ -2,7 +2,7 @@
 
 Here is our current list of partners and associates. To learn about what those roles mean, see our [People Agreement. ](../agreements/people-agreement.md)
 
-_Last updated: August 2021_
+_Last updated:  September 2021_
 
 ## Partners
 
