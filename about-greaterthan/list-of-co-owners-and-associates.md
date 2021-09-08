@@ -8,7 +8,7 @@ _Last updated:  September 2021_
 
 | Name | Joined |
 | :--- | :--- |
-| Francesca Pick | February 2017 |
+| Francesca Pick | Feb 2017 |
 | Susan Basterfield | July 2018 |
 | Elena Denaro | Jan 2020 \(partner since Sept 2020\) |
 | Mary O'Keeffe | May 2019 \(partner since Sept 2021\) |
@@ -19,14 +19,14 @@ _Last updated:  September 2021_
 | Name | Joined |
 | :--- | :--- |
 | Kate Beecroft | April 2017 \(Partner until Sept 2021\) |
-| Alicia Trepat | December 2019 |
-| Manel Heredero | December 2019 |
-| Ria Baeck | December 2019 |
-| Tom Nixon | December 2019 |
+| Alicia Trepat | Dec 2019 |
+| Manel Heredero | Dec 2019 |
+| Ria Baeck | Dec 2019 |
+| Tom Nixon | Dec 2019 |
 | David Weingartner | April 2020 |
-| Joriam Felipe | September 2020 |
-| Stefan Morales | October 2020 |
-| Ana Manzanedo | October 2020 |
+| Joriam Felipe | Sept 2020 |
+| Stefan Morales | Oct 2020 |
+| Ana Manzanedo | Oct 2020 |
 | J.D. Nasaw | March 2021 |
 | Tomomi Sasaki | May 2021 |
 | Melinda Varfi | Sept 2021 |
@@ -37,7 +37,7 @@ _Last updated:  September 2021_
 * Anthony Cabraal, July 2018-Sept 2021 \(Partner until Sept 2020\)
 * Patrick Andrews, July 2018-Sept 2021
 * Sarah Durlacher, Sept 2020-2021
-* Jessy-Kate Schlinger, until 2018
-* Michael Arnoldus, until 2018
-* Juliana Lopker, until 2018
+* Jessy-Kate Schlinger, Feb 2017- Sept 2017
+* Michael Arnoldus, April 2017 - Feb 2018
+* Juliana Lopker, May 2017 - July 2018
 
