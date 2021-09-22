@@ -128,7 +128,7 @@ Current experiment is of Accountability Triads \| Details \(running from Sept 20
 
 ### Associates
 
-* Invited by associates and partners 
+* Invited by associates and partners, OR through proactive request by ecosystem member
 * Agreed via consent vote of GT members on loomio.
 
 ### Partners
