@@ -122,14 +122,14 @@ Current experiment is of Accountability Triads \| Details \(running from Sept 20
 
 * Can be independently invited by any member
 * Invite follows the advice process, with a small extra: 
-* Posting in the slack channel ‘inviting-ecosystem’, where members post the name of the person they want to invite in with a 3 day ‘advise process’ so that anyone with concerns can get in touch. They also need to @mention anyone they think/know also knows the new invite.
-* If a person feels unsure whether it’s ok or not to invite someone, they can put up an optional temperature check on loomio.
+  * Posting in the slack channel ‘inviting-ecosystem’, where members post the name of the person they want to invite in with a 3 day ‘advise process’ so that anyone with concerns can get in touch. They also need to @mention anyone they think/know also knows the new invite.
+  * If a person feels unsure whether it’s ok or not to invite someone, they can put up an optional temperature check on loomio.
 * The person who invites them in has the responsibility to 1\) welcome them on slack and inform GT members they have joined 2\) onboard them
 
 ### Associates
 
 * Invited by associates and partners, OR through proactive request by ecosystem member
-* Agreed via consent vote of GT members on loomio.
+* Agreed by consensus of GT members on loomio.
 
 ### Partners
 
