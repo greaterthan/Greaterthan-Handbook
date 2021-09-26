@@ -12,7 +12,7 @@ This agreement has been designed to recognize and accommodate for different type
 
 There are three explicit levels of involvement in GT: “Partners”, “Associates” and “Ecosystem”. An explicit commitment to Greaterthan as a whole \(outside individual projects\) takes place when stepping across the threshold from Ecosystem into “Membership”. Greaterthan Members, constituted of Associates and Partners, are collectively responsible for stewarding and developing Greaterthan. The Partners additionally hold the accountabilities of keeping our strategic focus and ensuring coherence between our activities and long-term vision.
 
-![](https://lh6.googleusercontent.com/GrNaYiZqUs5D1JXp55A-OhZW5TRldlO4gi0TXq1wbkk6zVR3nMh_WaQ5vcyMc58i-M2Tds8gbSYoR9v5NavigWMuuVY8BoibwJqTljdMgS6gITEPDmjFfnjyw-lpCjCKtVIfAoWQ=s0)
+![](../.gitbook/assets/levels-of-involvement-gt.png)
 
 To understand these levels better, let’s look at how each relates to Greaterthan: 
 
