@@ -55,7 +55,7 @@ A set of days where we focus intensely on working together, either on a specific
 
 * Partners Meeting | every 2 weeks
 
-![](../.gitbook/assets/rsz\_ashley-batz-1298.jpg)
+![](.gitbook/assets/rsz\_ashley-batz-1298.jpg)
 
 ## **Etiquette for going offline & availabilities**
 
