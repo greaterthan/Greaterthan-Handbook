@@ -10,7 +10,9 @@
   * [People Agreement](agreements/people-agreement.md)
   * [Decision Agreement](agreements/decision-making-agreement.md)
   * [Financial Agreement](agreements/financial-agreement.md)
-* [Working Together](working-together.md)
+* [Working Together](working-together/README.md)
+  * [Rhythms & Rituals](working-together/rhythms-and-rituals.md)
+  * [🌱 Development Bucket](working-together/development-bucket.md)
 * [Guides](guides/README.md)
   * [Onboarding](guides/onboarding.md)
   * [Communication Tools](guides/collaboration-and-comms-tools.md)
@@ -27,4 +29,3 @@
     * [Deployment](projects/cobudget/deployment.md)
     * [Email](projects/cobudget/email.md)
   * [Greaterthan Academy](projects/academy.md)
-

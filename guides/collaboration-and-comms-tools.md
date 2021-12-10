@@ -2,19 +2,19 @@
 
 Here is an overview of the communications tools our team currently uses. To avoid tool overload, we usually onboard people to them on a needs basis, depending on the projects they are working on!
 
-## Who can be added to these tools and how? 
+## Who can be added to these tools and how?&#x20;
 
 To get access to any of these tools, please ask any of the partners to be added.
 
-**The majority of our tools are available for anyone working on our projects** on a needs basis. There are certain tools reserved to associates and partners only, such as Loomio, for formal decision-making. 
+**The majority of our tools are available for anyone working on our projects** on a needs basis. There are certain tools reserved to associates and partners only, such as Loomio, for formal decision-making.&#x20;
 
 ## Communications & Decision-Making
 
 {% tabs %}
 {% tab title="Slack" %}
-_For day-to-day communications and working together._ 
+_For day-to-day communications and working together._&#x20;
 
-* [Greaterthan Slack Team](http://greaterfinance.slack.com). Abbreviations for channels: Int- \(internal\) , Pr- \(projects\) 
+* [Greaterthan Slack Team](http://greaterfinance.slack.com). Abbreviations for channels: Int- (internal) , Pr- (projects)&#x20;
 * Cobudget Slack Team: exists but currently not in use
 {% endtab %}
 
@@ -22,11 +22,11 @@ _For day-to-day communications and working together._
 _For decision-making and structured forum conversations._
 
 * [Greaterthan team group](https://www.loomio.org/g/w924AJC6/greaterthan-core) for documenting decisions
-* [Community of Practice](https://www.loomio.org/g/CI3j26MK/greaterthan-community) &gt;&gt; _not in use currently_
+* [Community of Practice](https://www.loomio.org/g/CI3j26MK/greaterthan-community) >> _not in use currently_
 {% endtab %}
 
 {% tab title="Telegram" %}
-For informal discussions and sharing of articles and links. 
+For informal discussions and sharing of articles and links.&#x20;
 {% endtab %}
 {% endtabs %}
 
@@ -41,7 +41,7 @@ For informal discussions and sharing of articles and links.
 {% endtab %}
 
 {% tab title="File Storage" %}
-Shared Google Drives for various projects and GT core. 
+Shared Google Drives for various projects and GT core.&#x20;
 
 Some of our Shared Drives:
 
@@ -56,13 +56,13 @@ Ask for access to these from any other GT member.
 {% tab title="Knowledge Sharing" %}
 For capturing and sharing key knowledge for our work we use knowledge maps.
 
-**&gt;&gt;** [**Go to Knowledge Map**](https://www.mindmeister.com/1008538106)
+**>>** [**Go to Knowledge Map**](https://www.mindmeister.com/1008538106)
 
 A large portion of the assets in the maps are linked in our Google Drive folder
 
 * [Knowledge Commons](https://drive.google.com/drive/u/1/folders/0AMicdnwGdCaEUk9PVA)
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](<../.gitbook/assets/image (9).png>)
 {% endtab %}
 
 {% tab title="Calendars" %}
@@ -70,27 +70,29 @@ A large portion of the assets in the maps are linked in our Google Drive folder
 
 * Greaterthan Team Meetings
 * Greaterthan Events
-* Team Travel \(to share travel schedules\)
+* Team Travel (to share travel schedules)
 * Team birthdays
 {% endtab %}
 
 {% tab title="CRM" %}
-\_\_[_Airtable CRM_](admin/using-our-crm.md) _for managing contacts and our consulting pipeline._ 
+__[_Airtable CRM_](admin/using-our-crm.md) _for managing contacts and our consulting pipeline._&#x20;
 
-{% page-ref page="admin/using-our-crm.md" %}
+{% content-ref url="admin/using-our-crm.md" %}
+[using-our-crm.md](admin/using-our-crm.md)
+{% endcontent-ref %}
 {% endtab %}
 
 {% tab title="Customer Support" %}
-We use[ Helpscout ](https://www.helpscout.com/)for managing multiple inboxes for customer support for products and projects such as: 
+We use[ Helpscout ](https://www.helpscout.com)for managing multiple inboxes for customer support for products and projects such as:&#x20;
 
 * General requests to hello@greaterthan.works
-* GT Academy 
+* GT Academy&#x20;
 * Cobudget
-* Better Work Together Book 
+* Better Work Together Book&#x20;
 {% endtab %}
 {% endtabs %}
 
-## External Communication Tools 
+## External Communication Tools&#x20;
 
 which we have Greaterthan accounts for:
 
@@ -102,6 +104,4 @@ which we have Greaterthan accounts for:
 * Password mgt: Lastpass
 
 To automatically see which websites and tools we have accounts for,  you must be added to our **Lastpass** account.
-
-
 
