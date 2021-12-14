@@ -19,3 +19,14 @@ If a member would like to draw more than the above defined financial contributio
 
 ### How to use it in practice
 
+* [ ] Check how much is still available in the development pot (in Open Books - link TBC).
+* [ ] Get advice from one (or two) other Greaterthan members to help you decide if this is something that fits within scope of the development bucket.&#x20;
+* [ ] Fill out [this form](https://airtable.com/shrisp1J764BhGadA) to claim some of the development bucket funds.\
+  _You should do this **as soon as you decide** to use the development bucket to help you fund something. This doesn't trigger any payment back to you, but it helps us keep track of how much is actually left in the bucket._&#x20;
+* [ ] Invoice Greaterthan for the amount, stating clearly that it is from the Development Fund and what it is for in the invoice line.
+
+In the majority of cases, the development bucket operates via a refund system, so you pay upfront and then invoice Greaterthan for the portion that is match-funded by the development bucket.&#x20;
+
+If you are a Partner and have and use a Business Unit, you can pay directly using the Greaterthan card. In this case, the first three steps remain the same, but instead of invoicing, you need to:
+
+* [ ] When sending the receipt info to accounts@greaterthan.works, clearly specify that 50% will be covered by the Development Bucket (GT Core).&#x20;
