@@ -2,14 +2,16 @@
 
 ### See an overview of all our projects
 
- As a member, you can see the overview of our ongoing projects in the following Airtable links \(if you don't have access yet, ask in \#admin channel\):
+&#x20;As a member, you can see the overview of our ongoing projects in our Open Books Interface. (if you don't have access yet, ask in #admin channel):
 
-* [External client projects](https://airtable.com/tblZj0i7cL9HfcS8k/viwpXOt2puTwkKsRt?blocks=hide) 
-* [Internal projects ](https://airtable.com/tblwigpNola4cH8bo/viweiSLGBvgqvKt67?blocks=hide)
+[**Go to Open Books**](https://airtable.com/appT4LEFfkKzgOJzg/pbd3xdmwPzmabA83B)****
 
-### Larger internal projects explained in this handbook 
+### Larger internal projects explained in this handbook&#x20;
 
-{% page-ref page="cobudget/" %}
+{% content-ref url="cobudget/" %}
+[cobudget](cobudget/)
+{% endcontent-ref %}
 
-{% page-ref page="academy.md" %}
-
+{% content-ref url="academy.md" %}
+[academy.md](academy.md)
+{% endcontent-ref %}

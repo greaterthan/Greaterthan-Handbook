@@ -4,10 +4,9 @@
 
 ### What projects are we working on right now?&#x20;
 
-&#x20;As a member, you can see the overview of our ongoing projects in the following Airtable links (if you don't have access yet, ask in #admin channel):
+&#x20;As a member, you can see the overview of our ongoing projects in our Open Books Interface. (if you don't have access yet, ask in #admin channel):
 
-* [External client projects](https://airtable.com/tblZj0i7cL9HfcS8k/viwpXOt2puTwkKsRt?blocks=hide)&#x20;
-* [Internal projects ](https://airtable.com/tblwigpNola4cH8bo/viweiSLGBvgqvKt67?blocks=hide)
+[**Go to Open Books**](https://airtable.com/appT4LEFfkKzgOJzg/pbd3xdmwPzmabA83B)****
 
 ### Setting up a new project in the GT system
 

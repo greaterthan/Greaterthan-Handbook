@@ -1,6 +1,6 @@
 # 🥁 Rhythms & Rituals
 
-Below is an overview of the most fundamental annual meeting rhythm we have. These are by far not all our meetings, since there are many ad hoc initiatives, as well as project and working group meetings.&#x20;
+Below is an overview of the most fundamental annual meeting rhythm for Greaterthan [members](../agreements/people-agreement.md#levels-of-involvement). These are by far not all our meetings, since there are many ad hoc initiatives, as well as project and working group meetings.&#x20;
 
 **How can I join?** To see the times of all GT meetings and join, check the GT Team Meetings Calendar, which you were added to when onboarded.&#x20;
 
