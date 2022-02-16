@@ -2,9 +2,11 @@
 description: Here are some simple steps to follow when onboarding new people to GT.
 ---
 
-# Onboarding
+# On & offboarding
 
-## Ecosystem members
+#### Onboarding...
+
+### Ecosystem members
 
 Onboarding in Greaterthan is mostly distributed. It is the responsibility of members to onboard and guide people that they have invited.&#x20;
 
@@ -15,11 +17,11 @@ The most important onboarding steps:&#x20;
 3. Let members know! Send a message on the #gt-members slack channel announcing this person has joined.&#x20;
 4. Welcome them on the #everyone channel of the GT slack
 
-## Associates
+### Associates
 
 Onboarding of new associates is the responsibility of the GT member who invited in and put up the decisions to bring in this new person.&#x20;
 
-### Onboarding checklist
+#### Onboarding checklist
 
 * [ ] **Step 1: send a direct message on slack to Malcolm** from Optimi, informing them about the new associate, with their name and email. He will then send them an onboarding form to make sure our people Masterlist is updated, they are added to all our communication tools, and that they get an email address.&#x20;
 * [ ] **Step 2:** If they have not seen it yet when they joined ecosystem, share with them the **** [**Welcome to Greaterthan slidedeck**](https://docs.google.com/presentation/d/1rFSGgnr78lhhy5qUJU2nRUVO1Xro84iDbriAotjiRV0/edit#slide=id.p21) as basic orientation.&#x20;
@@ -27,7 +29,7 @@ Onboarding of new associates is the responsibility of the GT member who invited 
 * [ ] **Step 4:** Introduce them to key places to find our knowledge commons: **** [**our knowledge map**](https://www.mindmeister.com/1008538106)**,** this **handbook** & [Knowledge Commons **drive**](https://drive.google.com/drive/u/0/folders/0AMicdnwGdCaEUk9PVA)**.**
 * [ ] **Step 5: Welcome them --** Add them to the private #gt-members slack channel (and other relevant private ones) & welcome them into the circle!&#x20;
 
-### About Greaterthan email addresses
+#### About Greaterthan email addresses
 
 There are two options for how associates may have a Greaterthan email address:
 
@@ -35,4 +37,10 @@ There are two options for how associates may have a Greaterthan email address:
 2. **An alias** (done through a google group), that enables you to _receive_ emails to yourname@greaterthan.works, but does not let you send. This is the default option if you do not choose option 1).
 
 When new members receive the onboarding form, they will be able to choose which email option they prefer.
+
+
+
+## Offboarding
+
+Here is our [offboarding checklist. ](https://docs.google.com/document/d/1bT3EXJSD-oTWouHSprullebs6bbxAMzyt\_UnJD3PYn8/edit)
 

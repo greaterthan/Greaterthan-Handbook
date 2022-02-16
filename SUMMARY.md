@@ -14,7 +14,7 @@
   * [🥁 Rhythms & Rituals](working-together/rhythms-and-rituals.md)
   * [🌱 Development Bucket](working-together/development-bucket.md)
 * [Guides](guides/README.md)
-  * [Onboarding](guides/onboarding.md)
+  * [On & offboarding](guides/onboarding.md)
   * [Communication Tools](guides/collaboration-and-comms-tools.md)
   * [Finance, Admin & Ops](guides/admin/README.md)
     * [Setting up projects](https://handbook.greaterthan.works/projects/setting-up-a-new-project)
