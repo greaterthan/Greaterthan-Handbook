@@ -6,10 +6,22 @@
 [onboarding.md](onboarding.md)
 {% endcontent-ref %}
 
-{% content-ref url="../working-together/collaboration-and-comms-tools.md" %}
-[collaboration-and-comms-tools.md](../working-together/collaboration-and-comms-tools.md)
+{% content-ref url="setting-up-a-new-project.md" %}
+[setting-up-a-new-project.md](setting-up-a-new-project.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="business-units.md" %}
+[business-units.md](business-units.md)
+{% endcontent-ref %}
+
+{% content-ref url="invoicing-and-payment-guidelines.md" %}
+[invoicing-and-payment-guidelines.md](invoicing-and-payment-guidelines.md)
+{% endcontent-ref %}
+
+{% content-ref url="using-our-crm.md" %}
+[using-our-crm.md](using-our-crm.md)
+{% endcontent-ref %}
+
+{% content-ref url="attending-events.md" %}
+[attending-events.md](attending-events.md)
 {% endcontent-ref %}
