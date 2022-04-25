@@ -1,6 +1,6 @@
-# Everything you need to know about invoicing
+# 📎 Everything you need to know about invoicing
 
-### **Please check out**[ **this guide**](https://docs.google.com/document/d/1WLoADkijt0G-RU7BCE4ZhmDYiSVW7Kh47aAI-lPV17o/edit#) for information about the following topics: 
+### **Please check out**[ **this guide**](https://docs.google.com/document/d/1WLoADkijt0G-RU7BCE4ZhmDYiSVW7Kh47aAI-lPV17o/edit#) for information about the following topics:&#x20;
 
 **Communications & Getting Admin help**
 
@@ -18,9 +18,7 @@
 
 **Financial Reporting**
 
-### [**&gt;&gt; GO TO GUIDE**](https://docs.google.com/document/d/1WLoADkijt0G-RU7BCE4ZhmDYiSVW7Kh47aAI-lPV17o/edit#)\*\*\*\*
-
-
+### [**>> GO TO GUIDE**](https://docs.google.com/document/d/1WLoADkijt0G-RU7BCE4ZhmDYiSVW7Kh47aAI-lPV17o/edit#)****
 
 
 

@@ -1,4 +1,4 @@
-# Communication Tools
+# 💬 Communication Tools
 
 Here is an overview of the communications tools our team currently uses. To avoid tool overload, we usually onboard people to them on a needs basis, depending on the projects they are working on!
 
@@ -75,10 +75,10 @@ A large portion of the assets in the maps are linked in our Google Drive folder
 {% endtab %}
 
 {% tab title="CRM" %}
-__[_Airtable CRM_](admin/using-our-crm.md) _for managing contacts and our consulting pipeline._&#x20;
+__[_Airtable CRM_](../guides/using-our-crm.md) _for managing contacts and our consulting pipeline._&#x20;
 
-{% content-ref url="admin/using-our-crm.md" %}
-[using-our-crm.md](admin/using-our-crm.md)
+{% content-ref url="../guides/using-our-crm.md" %}
+[using-our-crm.md](../guides/using-our-crm.md)
 {% endcontent-ref %}
 {% endtab %}
 

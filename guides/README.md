@@ -2,9 +2,14 @@
 
 ### Guides in this section:
 
-{% page-ref page="onboarding.md" %}
+{% content-ref url="onboarding.md" %}
+[onboarding.md](onboarding.md)
+{% endcontent-ref %}
 
-{% page-ref page="collaboration-and-comms-tools.md" %}
+{% content-ref url="../working-together/collaboration-and-comms-tools.md" %}
+[collaboration-and-comms-tools.md](../working-together/collaboration-and-comms-tools.md)
+{% endcontent-ref %}
 
-{% page-ref page="admin/" %}
-
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}

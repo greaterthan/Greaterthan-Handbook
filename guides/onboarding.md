@@ -2,7 +2,7 @@
 description: Here are some simple steps to follow when onboarding new people to GT.
 ---
 
-# On & offboarding
+# ⛴ On & offboarding
 
 #### Onboarding...
 

@@ -1,4 +1,4 @@
-# Project Setup & Overview
+# 😎 Setting up projects
 
 **What do we mean by project?** A project is anything being worked on under the Greaterthan banner, such as consulting, training, coaching, product sales with external clients, as well as internal GT initiatives, such as our academy, org development and more.&#x20;
 
