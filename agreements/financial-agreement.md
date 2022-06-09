@@ -20,9 +20,14 @@ These 15 % include:&#x20;
 * Recurring donations to communities in our ecosystem
 * Collective "investments" in existing projects (for instance the maintenance of Cobudget), as well new projects.&#x20;
 
-The next section explains how the spending of this budget and investment "surplus" is spent. For certain types of contracts that non partners are working on, the % to the commons may be lower, subject to negotiation (based on factors such as the size and complexity of the contract.).
+For certain types of contracts that non partners are working on, the % to the commons may be lower, subject to negotiation (based on factors such as the size and complexity of the contract.).
 
-The 15 % rule will be revisited at In-Person Sprints to see if it makes sense with how the business evolves. It is up to the discretion of any partner (for individual work) or project team to increase the percentage their projects contribute to the GT commons, if they like.
+_**In certain cases, the percent increases to 20 %:**_\
+As was agreed in [May 2021, ](https://www.loomio.org/d/SPaUqGD2/proposal-for-better-rewarding-biz-dev-in-gt-)if a contract turns into a recurring "retainer" or long term gig after the first phase of work (between 3 and 5 months) then an additional 5 % of the contract revenue go into a dedicated Biz Dev Bucket, upon payment of invoices. The project team determines when exactly the extra 5 % kick in, upon advice from the Biz Dev Stewards.
+
+The 15 % rule will be revisited at In-Person Sprints/Gatherings to see if it makes sense with how the business evolves. It is up to the discretion of any partner (for individual work) or project team to increase the percentage their projects contribute to the GT commons, if they like.
+
+Further down we explain how the spending of this budget and investment "surplus" is decided.&#x20;
 
 ### Reserves
 
