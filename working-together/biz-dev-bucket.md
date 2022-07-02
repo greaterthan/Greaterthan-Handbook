@@ -45,6 +45,16 @@ Once the sales process is complete, circle back to the bucket stewards.&#x20;
 * If the project sale is not successful, then you and the bucket stewards will check in on whether the original compensation amount agreed feels ‘happy’, or whether any adjustments are necessary.
 * Once the final number is determined, fill out this form \[add link], so that the balance of the biz dev bucket is updated. This will also trigger an automatic update to the #bizdevbucket \[to be created] channel, so that these decisions are transparently documented.
 
+### Practicalities of money flow
+
+Once the decision has been made and you know whether the sale came through or was lost, the money flow can happen.
+
+* To be compensated for your time, invoice Greaterthan following the steps in our [invoicing guide. ](https://docs.google.com/document/d/1WLoADkijt0G-RU7BCE4ZhmDYiSVW7Kh47aAI-lPV17o/edit#heading=h.dtmdrw3hm62q)
+* For expenses, we recommend paying directly with a Greaterthan credit card. To do so, get in touch with any partner, who will be able to give you the payment information. Once the payment has been completed, send an email with the receipt to accounts@greaterthan.works, and put the Bucket steward in copy.&#x20;
+* Once it’s clear whether the project was won or lost, the bucket steward will ensure that the cost is correctly attribute to either the GT Core BU, or the internal project budget.
+
+Alternatively, you pay upfront and then be reimbursed by adding it to your invoice to Greaterthan.
+
 ### Bucket Stewards&#x20;
 
 The biz dev bucket must always have at least one, ideally 2 stewards (for resilience purposes), whose role it is to:&#x20;
