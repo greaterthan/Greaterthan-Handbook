@@ -83,7 +83,7 @@ __[_Airtable CRM_](../guides/using-our-crm.md) _for managing contacts and our co
 {% endtab %}
 
 {% tab title="Customer Support" %}
-We use[ Helpscout ](https://www.helpscout.com)for managing multiple inboxes for customer support for products and projects such as:&#x20;
+We use[ Helpscout ](https://www.helpscout.com/)for managing multiple inboxes for customer support for products and projects such as:&#x20;
 
 * General requests to hello@greaterthan.works
 * GT Academy&#x20;

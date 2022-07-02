@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: .gitbook/assets/20220625_181315.jpg
+coverY: 89.8323108384458
 ---
 
 # Working Together
