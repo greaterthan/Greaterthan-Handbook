@@ -2,7 +2,7 @@
 
 Below is an overview of the most fundamental annual meeting rhythm for Greaterthan [members](../agreements/people-agreement.md#levels-of-involvement). These are by far not all our meetings, since there are many ad hoc initiatives, as well as project and working group meetings.&#x20;
 
-**How can I join?** To see the times of all GT meetings and join, check the GT Team Meetings Calendar, which you were added to when onboarded.&#x20;
+**How can I join?** To see the times of all GT meetings and join, check the GT Team Meetings Calendar. If you don't have it yet,[ read more here.](https://docs.google.com/document/d/1Qij7\_XeBFWugVHX0m1mOg7rArwORcWDnkptbYgASLFY/edit) &#x20;
 
 ### "Services" Exchange | every 2 weeks
 
