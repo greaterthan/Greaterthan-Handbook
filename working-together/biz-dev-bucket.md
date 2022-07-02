@@ -27,7 +27,7 @@ Important: if the lead converts to a project, the expectation is that the projec
 Note: **everyone in GT is free to pursue biz dev opportunities** (they see fitting in GT's area of work) **without checking with others.** However, if you would like to **get paid** for that work, then we recommend following the below process.
 {% endhint %}
 
-**Step 1:** Check what funds are currently available in the biz dev bucket pot (in Open Books).
+**Step 1:** Check what funds are currently available in the biz dev bucket pot ([in Open Books](https://airtable.com/appT4LEFfkKzgOJzg/paglPqKu6ag5iIzAX)).
 
 **Step 2:** Get in touch with the biz dev bucket stewards (see below) via slack and discuss the opportunity you would like to pursue or have started pursuing. Assess together whether this lead seems worth pursuing, based on factors such as work required, likelihood of success and how strategic the opportunity is for GT. At this stage, you might gather advice from other GT members to make the decision.
 
