@@ -45,7 +45,7 @@ Shared Google Drives for various projects and GT core.&#x20;
 
 Some of our Shared Drives:
 
-* [Greaterthan Core](https://drive.google.com/drive/u/0/folders/0AEdklBnH3X34Uk9PVA)
+* [Greaterthan General](https://drive.google.com/drive/u/0/folders/0AEdklBnH3X34Uk9PVA)
 * [Greaterthan Academy](https://drive.google.com/drive/u/1/folders/0ABmjriKbYg2iUk9PVA)
 * [Services](https://drive.google.com/drive/u/1/folders/0AN9NkdrnXeqdUk9PVA)
 * [Knowledge Commons](https://drive.google.com/drive/u/1/folders/0AMicdnwGdCaEUk9PVA)
@@ -62,7 +62,7 @@ A large portion of the assets in the maps are linked in our Google Drive folder
 
 * [Knowledge Commons](https://drive.google.com/drive/u/1/folders/0AMicdnwGdCaEUk9PVA)
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (13).png>)
 {% endtab %}
 
 {% tab title="Calendars" %}
@@ -72,6 +72,8 @@ A large portion of the assets in the maps are linked in our Google Drive folder
 * Greaterthan Events
 * Team Travel (to share travel schedules)
 * Team birthdays
+
+If you don't have these calendars yet, see[ here ](https://docs.google.com/document/d/1Qij7\_XeBFWugVHX0m1mOg7rArwORcWDnkptbYgASLFY/edit)how to add them.&#x20;
 {% endtab %}
 
 {% tab title="CRM" %}
@@ -88,7 +90,6 @@ We use[ Helpscout ](https://www.helpscout.com/)for managing multiple inboxes for
 * General requests to hello@greaterthan.works
 * GT Academy&#x20;
 * Cobudget
-* Better Work Together Book&#x20;
 {% endtab %}
 {% endtabs %}
 
