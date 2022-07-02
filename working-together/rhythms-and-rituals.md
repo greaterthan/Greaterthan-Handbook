@@ -16,11 +16,6 @@ Important: Since this call is geography-based, it's important that key take-away
 _****_\
 _****_**Participation**: optional for members, but **if you are working in projects regularly, it is important to attend as often as possible.**&#x20;
 
-### Biz Dev Scrum | weekly
-
-* Open call for everyone in the Greaterthan Ecosystem (= on GT slack)
-* Purpose: discuss leads & biz dev opportunities. If you have a potential lead and need support or sense-making on what the right next step is, join this call!&#x20;
-
 ### Full GT Member meetings | Quarterly
 
 **Purpose**
@@ -31,13 +26,7 @@ _****_**Participation**: optional for members, but **if you are working in proje
 
 To see when these calls are scheduled, please check the GT Team Meetings google calendar, which you were given access to when onboarded.
 
-### Ecosystem & Learning Calls | every 2 months
-
-* Open call for everyone in the Greaterthan Ecosystem (= on GT slack)
-* Connective: getting to know each other and our work better
-* Case clinics: anyone can bring a question, challenge or case to the meetings to get advice on from the group (wise crowd style)&#x20;
-
-### In-Person & Distributed Sprints <a href="#in-person-sprints" id="in-person-sprints"></a>
+### In-Person Gatherings & Distributed Sprints <a href="#in-person-sprints" id="in-person-sprints"></a>
 
 A set of days where we focus intensely on working together, either on a specific project (Academy), or on evolving Greaterthan as an organization. In the past this has often looked like 3-5 days of living & working together with the whole team in rotating (rural) locations, every 3-6 months.
 
@@ -45,7 +34,7 @@ A set of days where we focus intensely on working together, either on a specific
 
 &#x20;An annual **moment for reflection and acknowledgement of the changes taking place in the GT system,** especially in relation to people moving in and our of their roles as partners and associates. This is our form of an annual "opt-in", as a collective acknowledgment moment of changes to people's involvement.&#x20;
 
-**Other Meetings**
+### **Other Meetings**
 
 * Partners Meeting | every 2 weeks
 
