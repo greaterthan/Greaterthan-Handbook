@@ -53,6 +53,12 @@ The biz dev bucket must always have at least one, ideally 2 stewards (for resili
 * Hold the below described process for drawing funds from it
 * Communicate to members if there are any issues, or a need to evolve its purpose or functioning Work with people who do biz dev to ensure coherence with overall GT activities
 
+```
+Current Stewards: 
+Francesca Pick 
+Susan Basterfield
+```
+
 #### Who can be a steward and how to become one?&#x20;
 
 Biz Dev Steward is a persistent paid role, held by associates and partners. One of the two should be a partner. Stewards rotate on an annual basis (ideally with one steward staying while a new one joins).
