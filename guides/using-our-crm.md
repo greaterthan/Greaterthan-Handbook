@@ -16,7 +16,7 @@ The tool we are using is Airtable. [https://airtable.com/](https://airtable.com/
 * If you want, downlad the Airtable app to easily manage everything from your phone
 * **Add & update your contacts, orgs and deals** from various channels
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 ## CRM Structure&#x20;
 

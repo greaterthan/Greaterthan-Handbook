@@ -44,7 +44,7 @@ Within these Hikes, we work with a bi-weekly sprint rhythm.&#x20;
 
 ## Levels of involvement
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 The Academy has a team, as well as add hoc and more long term contributors. There are currently 3 levels of involvement in what we consider "the Academy Team".&#x20;
 
