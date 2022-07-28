@@ -2,7 +2,7 @@
 
 Here is our current list of partners and associates. To learn about what those roles mean, see our [People Agreement. ](../agreements/people-agreement.md)
 
-_Last updated:  February 2022_
+_Last updated:  July 2022_
 
 ## Partners
 
@@ -31,6 +31,7 @@ _Last updated:  February 2022_
 | Tomomi Sasaki     | May 2021                             |
 | Melinda Varfi     | Sept 2021                            |
 | Miriam Moreno     | February 2022                        |
+| Nenad Maljković   | July 2022                            |
 
 ## Previous Members
 

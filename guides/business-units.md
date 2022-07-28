@@ -1,4 +1,4 @@
-# 💸 Finance - Overview
+# 💰 Finance - Overview
 
 ## Open books, Invoicing & more
 
@@ -12,7 +12,7 @@ and the [**Open Books Dashboard**](https://airtable.com/appT4LEFfkKzgOJzg/pags0t
 
 All our basic admin procedures are also findable through [**in this map**](https://www.mindmeister.com/1195542438?t=LYHjk2g2DM)**,** such as submitting expenses, creating invoices, making budgets, project management etc.&#x20;
 
-![](<../.gitbook/assets/image (10) (1).png>)
+![](<../.gitbook/assets/image (10).png>)
 
 ## Business Units
 

@@ -18,7 +18,7 @@
 * [Guides](guides/README.md)
   * [⛴ On & offboarding](guides/onboarding.md)
   * [😎 Setting up projects](guides/setting-up-a-new-project.md)
-  * [💸 Finance - Overview](guides/business-units.md)
+  * [💰 Finance - Overview](guides/business-units.md)
   * [📎 Everything you need to know about invoicing](guides/invoicing-and-payment-guidelines.md)
   * [👥 How to use our CRM](guides/using-our-crm.md)
   * [🎪 Attending Events](guides/attending-events.md)
