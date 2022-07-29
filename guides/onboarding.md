@@ -20,11 +20,11 @@ The most important onboarding steps:&#x20;
 
 ### Associates
 
-The GT member who invited in and put up the decisions to bring in a new associate is accountable for setting in motion their onboarding. The onboarding itself is now done by our role, the "Movement Guide" (currently held by Francesca).
+The GT member who invited in and put up the decision to bring in a new associate is accountable for setting in motion their onboarding. The onboarding itself is now done by our persistent role, the "Movement Guide" (currently held by Francesca).
 
 #### Onboarding checklist
 
-* [ ] **Step 1: inform movement guide that the person is ready to be onboarded.** From this point on, he following steps are carried out by the movement guide.&#x20;
+* [ ] **Step 1: inform movement guide that the person is ready to be onboarded.** From this point on, the following steps are carried out by the movement guide.&#x20;
 * [ ] **Step 2:** Send them the link to[ this **onboarding one-pager**](https://docs.google.com/document/d/1Qij7\_XeBFWugVHX0m1mOg7rArwORcWDnkptbYgASLFY/edit)**.**
 * [ ] **Step 3: Add them to** [**our website** team section:](https://greaterthan.works/who-we-are) upload a "action" photo & 150 character bio and their GT email (see below). You can use this as an opportunity to [**show them how to edit our website**](https://www.loom.com/share/635395e805594346b99ad04a3f3ae135) **\[**[**see tutorial**](https://www.loom.com/share/635395e805594346b99ad04a3f3ae135)**]** themselves (and [add resources to the Toolkit](https://www.loom.com/share/82b8a78d1c0940929ad56c4eb6f4d513)).&#x20;
 * [ ] **Step 4:** Introduce them to key places to find our knowledge commons: **** [**our knowledge map**](https://www.mindmeister.com/1008538106)**,** this **handbook** & [Knowledge Commons **drive**](https://drive.google.com/drive/u/0/folders/0AMicdnwGdCaEUk9PVA)**.**
