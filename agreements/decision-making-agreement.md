@@ -15,7 +15,7 @@
 
 Apart from adding new partners and associates (which are more restrictive), these are the three decision models we use regularly:
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 **Sell:** Each individual considers reversibility (a decision can be easily reversed) and consequence (a decision has small consequences) before escalating to another decision-making practice. In these cases “asking for forgiveness, instead of permission” is the better option because it is fast and creates momentum.
 

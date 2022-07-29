@@ -62,7 +62,7 @@ A large portion of the assets in the maps are linked in our Google Drive folder
 
 * [Knowledge Commons](https://drive.google.com/drive/u/1/folders/0AMicdnwGdCaEUk9PVA)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 {% endtab %}
 
 {% tab title="Calendars" %}

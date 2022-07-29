@@ -20,12 +20,12 @@ The most important onboarding steps:&#x20;
 
 ### Associates
 
-Onboarding of new associates is the responsibility of the GT member who invited in and put up the decisions to bring in this new person.&#x20;
+The GT member who invited in and put up the decisions to bring in a new associate is accountable for setting in motion their onboarding. The onboarding itself is now done by our role, the "Movement Guide" (currently held by Francesca).
 
 #### Onboarding checklist
 
-* [ ] **Step 1: send a direct message on slack to Malcolm** from Optimi, informing them about the new associate, with their name and email. He will then send them an onboarding form to make sure our people Masterlist is updated, they are added to all our communication tools, and that they get an email address.&#x20;
-* [ ] **Step 2:** If they have not seen it yet when they joined ecosystem, share with them the **** [**Welcome to Greaterthan slidedeck**](https://docs.google.com/presentation/d/1rFSGgnr78lhhy5qUJU2nRUVO1Xro84iDbriAotjiRV0/edit#slide=id.p21) as basic orientation.&#x20;
+* [ ] **Step 1: inform movement guide that the person is ready to be onboarded.** From this point on, he following steps are carried out by the movement guide.&#x20;
+* [ ] **Step 2:** Send them the link to[ this **onboarding one-pager**](https://docs.google.com/document/d/1Qij7\_XeBFWugVHX0m1mOg7rArwORcWDnkptbYgASLFY/edit)**.**
 * [ ] **Step 3: Add them to** [**our website** team section:](https://greaterthan.works/who-we-are) upload a "action" photo & 150 character bio and their GT email (see below). You can use this as an opportunity to [**show them how to edit our website**](https://www.loom.com/share/635395e805594346b99ad04a3f3ae135) **\[**[**see tutorial**](https://www.loom.com/share/635395e805594346b99ad04a3f3ae135)**]** themselves (and [add resources to the Toolkit](https://www.loom.com/share/82b8a78d1c0940929ad56c4eb6f4d513)).&#x20;
 * [ ] **Step 4:** Introduce them to key places to find our knowledge commons: **** [**our knowledge map**](https://www.mindmeister.com/1008538106)**,** this **handbook** & [Knowledge Commons **drive**](https://drive.google.com/drive/u/0/folders/0AMicdnwGdCaEUk9PVA)**.**
 * [ ] **Step 5: Welcome them --** Add them to the private #gt-members slack channel (and other relevant private ones) & welcome them into the circle!&#x20;
