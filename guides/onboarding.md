@@ -15,20 +15,16 @@ The most important onboarding steps:&#x20;
 1. When a new ecosystem member is added, send them the [Welcome to Greaterthan slidedeck](https://docs.google.com/presentation/d/1rFSGgnr78lhhy5qUJU2nRUVO1Xro84iDbriAotjiRV0/edit#slide=id.p21) as basic orientation.&#x20;
 2. Add them to our People Masterlist by **** [**filling out this form**](https://airtable.com/shrsRwYaxNOLaN46o) **** (this does not add them to slack!)
 3. **Invite them to our Greaterthan slack team**. When logged in, you can do so with [this link. ](https://greaterfinance.slack.com/admin/invites)
-4. Let members know! Send a message on the #gt-members slack channel announcing this person has joined.&#x20;
-5. Welcome them on the #everyone channel of the GT slack and ask them to introduce themselves.&#x20;
+4. Let everyone know they have joined! Welcome them on the #everyone channel of the GT slack and ask them to introduce themselves.&#x20;
 
 ### Associates
 
-The GT member who invited in and put up the decision to bring in a new associate is accountable for setting in motion their onboarding. The onboarding itself is now done by our persistent role, the "Movement Guide" (currently held by Francesca).
+The GT member who invited in and put up the decision to bring in a new associate is accountable for **setting in motion their onboarding.** The onboarding itself is now done by our persistent role, the "Movement Guide" (currently held by Francesca). All you need to do is follow these 2 steps:&#x20;
 
-#### Onboarding checklist
+1. **Inform movement guide that the person is ready to be onboarded.** They will ensure the person is added to our tools, the website, recurring meetings and more.&#x20;
+2. Send them the link to[ this **onboarding one-pager**](https://docs.google.com/document/d/1Qij7\_XeBFWugVHX0m1mOg7rArwORcWDnkptbYgASLFY/edit)**.**
 
-* [ ] **Step 1: inform movement guide that the person is ready to be onboarded.** From this point on, the following steps are carried out by the movement guide.&#x20;
-* [ ] **Step 2:** Send them the link to[ this **onboarding one-pager**](https://docs.google.com/document/d/1Qij7\_XeBFWugVHX0m1mOg7rArwORcWDnkptbYgASLFY/edit)**.**
-* [ ] **Step 3: Add them to** [**our website** team section:](https://greaterthan.works/who-we-are) upload a "action" photo & 150 character bio and their GT email (see below). You can use this as an opportunity to [**show them how to edit our website**](https://www.loom.com/share/635395e805594346b99ad04a3f3ae135) **\[**[**see tutorial**](https://www.loom.com/share/635395e805594346b99ad04a3f3ae135)**]** themselves (and [add resources to the Toolkit](https://www.loom.com/share/82b8a78d1c0940929ad56c4eb6f4d513)).&#x20;
-* [ ] **Step 4:** Introduce them to key places to find our knowledge commons: **** [**our knowledge map**](https://www.mindmeister.com/1008538106)**,** this **handbook** & [Knowledge Commons **drive**](https://drive.google.com/drive/u/0/folders/0AMicdnwGdCaEUk9PVA)**.**
-* [ ] **Step 5: Welcome them --** Add them to the private #gt-members slack channel (and other relevant private ones) & welcome them into the circle!&#x20;
+The movement guide will take it from there, following [this onboarding checklist.](https://docs.google.com/document/d/1IaLdXaXYWuCAGk-mG3gPXOwAAcJtJxpcDEi0heuGP9U/edit)
 
 #### About Greaterthan email addresses
 
