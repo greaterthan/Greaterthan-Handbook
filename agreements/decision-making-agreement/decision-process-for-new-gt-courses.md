@@ -22,7 +22,7 @@ We have setup [this Loomio thread](https://www.loomio.org/d/o2qwuRbM/proposing-n
 
 1. To propose a new course, **add a decision to the** [**existing thread,**](https://www.loomio.org/d/o2qwuRbM/proposing-new-gt-courses-decisions-thread) **** sharing key info about the course and why they want to run it (see info and template below)
 2. Then feedback from GT members is collected and a lazy consent decision run, open for 2 weeks, to approve it
-3. Once approved, the proposer sets up the course page, and chooses the first date (or starts collecting interest, if they are not ready to set a date yet)
+3. Once approved, the proposer[ **follows the steps outlined here**](https://docs.google.com/document/d/1F3YoJ-y8uBX5FreEHYH0XxrErRmv0Pg7520ABMg1z3A/edit) to setup the course page, the ticketing backend, and chooses the first date (or starts collecting interest, if they are not ready to set a date yet). If you need help with the technical setup, ask Elena for help.
 {% endhint %}
 
 ### **What should the proposal include?**&#x20;

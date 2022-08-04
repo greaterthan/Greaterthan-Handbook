@@ -8,7 +8,7 @@
   * [Partners and Associates](about-greaterthan/list-of-partners-and-associates.md)
 * [Agreements](agreements/README.md)
   * [People Agreement](agreements/people-agreement.md)
-  * [Decision Agreement](agreements/decision-making-agreement/README.md)
+  * [Decision Agreement](agreements/decision-making-agreement.md)
     * [Decision process for new GT courses](agreements/decision-making-agreement/decision-process-for-new-gt-courses.md)
   * [Financial Agreement](agreements/financial-agreement.md)
 * [Working Together](working-together.md)
