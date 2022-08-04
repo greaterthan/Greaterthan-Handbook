@@ -1,13 +1,13 @@
 # Agreements
 
-Agreements are the legislation which govern the rules of how we operate at Greaterthan. They are documents that define important processes. The process for creating and changing Agreements is defined in our [Decisions Agreement](decision-making-agreement.md).
+Agreements are the legislation which govern the rules of how we operate at Greaterthan. They are documents that define important processes. The process for creating and changing Agreements is defined in our [Decisions Agreement](decision-making-agreement/).
 
 {% content-ref url="people-agreement.md" %}
 [people-agreement.md](people-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="decision-making-agreement.md" %}
-[decision-making-agreement.md](decision-making-agreement.md)
+{% content-ref url="decision-making-agreement/" %}
+[decision-making-agreement](decision-making-agreement/)
 {% endcontent-ref %}
 
 {% content-ref url="financial-agreement.md" %}

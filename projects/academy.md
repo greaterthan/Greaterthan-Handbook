@@ -57,7 +57,7 @@ The Academy has a team, as well as add hoc and more long term contributors. Ther
 
 ## Decision Making
 
-The decision making in this project follows[ Greaterthan's general decision-making agreement](../agreements/decision-making-agreement.md).&#x20;
+The decision making in this project follows[ Greaterthan's general decision-making agreement](../agreements/decision-making-agreement/).&#x20;
 
 This means that there is an **emphasis on autonomy for the team actively working on the project.**&#x20;
 
