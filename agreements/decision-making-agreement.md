@@ -34,7 +34,7 @@ _Image Credit: The Gini Way,_ [_https://blog.gini.net/how-we-make-decentralized-
 | **Standard Decision**    | Passes as long as there are no blocks                                                     | None                           | 3 working days (5 working days encouraged when possible)  | <p>This is the default option for formal decisions. Ensures that no one strongly opposes a course of action, while allowing progress to move forward. If there are a large number of “no”s, it’s strongly advised to work on another iteration to find a better solution, but the proposer may move ahead at their discretion.</p><p></p><p>Standard decisions use lazy consent, which means that by not voting you are implicitly giving consent.</p> |
 | **Significant Decision** | Passes as long as there are no blocks and more than 50% of those stating a position agree | All partners must participate. | 5 working days (10 working days encouraged when possible) | <p>This option should be used for more consequential decisions, such as changes to Agreements and investing of surplus from the Core budget. Apart from the above mentioned, it is up to the discretion of the proposer to decide when they feel something should be a significant decision.</p><p></p><p>If a decision is significant, the proposer must flag it as such in the Loomio proposal.</p>                                                  |
 
-### **Projects and Shrubberies**&#x20;
+### **Projects and Initiatives**&#x20;
 
 **New projects that Greaterthan Partners and Associates work on, such as Cobudget or Academy, have high decision-making autonomy.**&#x20;
 
