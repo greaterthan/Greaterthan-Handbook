@@ -4,9 +4,9 @@ Below are a set of principles we use in around managing sales processes, decisio
 
 These principles can evolve and will be added to over time, since for now only some areas of sales & project setup process are covered here.&#x20;
 
-## **Guiding principles around sales & team formation | version 1.0**
+## **Guiding principles around sales & team formation**
 
-Last updated August 2022, see [this thread](https://www.loomio.org/d/GqpZCbN0/discussions-decisions-around-business-development-and-project-staffing-).
+Version 1.0, last updated August 2022, see [this thread](https://www.loomio.org/d/GqpZCbN0/discussions-decisions-around-business-development-and-project-staffing-).
 
 ### For how to manage the sales process
 
