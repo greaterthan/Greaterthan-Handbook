@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Screenshot 2022-08-05 154937.png
+coverY: 29.956476683937815
+---
+
 # Partners and Associates
 
 Here is our current list of partners and associates. To learn about what those roles mean, see our [People Agreement. ](../agreements/people-agreement.md)
