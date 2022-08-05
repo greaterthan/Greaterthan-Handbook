@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/banner.PNG
+coverY: 0
+---
+
 # Our organization
 
 ## Our purpose
