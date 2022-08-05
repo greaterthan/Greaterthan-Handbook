@@ -12,7 +12,6 @@
 * The course must be aligned with GT’s purpose and our north star
 * The proposer must have participated in at least one multi-week course of ours, to get an understanding of our approach
 * Courses are expected to follow the pricing guidelines provided (to be created) to ensure that our prices are coherent
-* Then feedback from GT members is collected and a lazy consent decision run, open for 2 weeks, to approve it
 * Before putting up a date for your course, check what else is scheduled and look [at our annual rhythms calendar](https://drive.google.com/file/d/1DidmNV8BGwjigoMue266G0b7azo5pKh9/view?usp=sharing), to avoid conflicts
 * After running the course, you are expected to share with the group feedback about how it went
 
@@ -22,7 +21,8 @@
 We have setup [this Loomio thread](https://www.loomio.org/d/o2qwuRbM/proposing-new-gt-courses-decisions-thread) where all proposals for new courses live and this process runs.
 
 1. To propose a new course, **add a decision to the** [**existing thread,**](https://www.loomio.org/d/o2qwuRbM/proposing-new-gt-courses-decisions-thread) **** sharing key info about the course and why they want to run it (see info and template below)
-2. Once approved, the proposer sets up the course page, and chooses the first date (or starts collecting interest, if they are not ready to set a date yet)
+2. Then feedback from GT members is collected and a lazy consent decision run, open for 2 weeks, to approve it
+3. Once approved, the proposer[ **follows the steps outlined here**](https://docs.google.com/document/d/1F3YoJ-y8uBX5FreEHYH0XxrErRmv0Pg7520ABMg1z3A/edit) to setup the course page, the ticketing backend, and chooses the first date (or starts collecting interest, if they are not ready to set a date yet). If you need help with the technical setup, ask Elena for help.
 {% endhint %}
 
 ### **What should the proposal include?**&#x20;
