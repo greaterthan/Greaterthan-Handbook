@@ -7,7 +7,7 @@ coverY: 29.956476683937815
 
 Here is our current list of partners and associates. To learn about what those roles mean, see our [People Agreement. ](../agreements/people-agreement.md)
 
-_Last updated:  July 2022_
+_Last updated:  August 2022_
 
 ## Partners
 
