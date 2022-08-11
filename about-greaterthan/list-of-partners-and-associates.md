@@ -37,6 +37,7 @@ _Last updated:  August 2022_
 | Melinda Varfi   | Sept 2021                            |
 | Miriam Moreno   | February 2022                        |
 | Nenad Maljković | July 2022                            |
+| Lyssa Adkins    | August 2022                          |
 
 ## Previous Members
 
