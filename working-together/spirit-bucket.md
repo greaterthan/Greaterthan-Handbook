@@ -1,6 +1,6 @@
 # 💚 Spirit Bucket
 
-### What is the Business Development (Biz Dev) Bucket?&#x20;
+### What is the Spirit Bucket?&#x20;
 
 A pot of funds set aside from Greaterthan’s Commons Budget to provide money flow towards more ad-hoc activities that directly contribute to supporting GT as a human system; our relational fabric, our historical memory, our deepening of how we are together.
 
