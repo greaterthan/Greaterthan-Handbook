@@ -17,6 +17,7 @@
   * [📈 Sales process & team formation](working-together/sales-process-and-team-formation.md)
   * [🌱 Development Bucket](working-together/development-bucket.md)
   * [💸 Biz Dev Bucket](working-together/biz-dev-bucket.md)
+  * [💚 Spirit Bucket](working-together/spirit-bucket.md)
 * [Guides](guides/README.md)
   * [⛴ On & offboarding](guides/onboarding.md)
   * [😎 Setting up projects](guides/setting-up-a-new-project.md)
