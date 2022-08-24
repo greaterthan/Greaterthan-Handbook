@@ -52,7 +52,7 @@ The Spirit Bucket must always have at least one, ideally 2 stewards (for resilie
 ```
 Current Stewards: 
 Elena Denaro
-TBC
+Nenad Maljković 
 ```
 
 #### Who can be a steward and how to become one?&#x20;
