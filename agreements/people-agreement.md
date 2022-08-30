@@ -10,7 +10,7 @@ This agreement has been designed to recognize and accommodate for different type
 
 ## **Levels of involvement**
 
-There are three explicit levels of involvement in GT: “Partners”, “Associates” and “Ecosystem”. An explicit commitment to Greaterthan as a whole (outside individual projects) takes place when stepping across the threshold from Ecosystem into “Membership”. Greaterthan Members, constituted of Associates and Partners, are collectively responsible for stewarding and developing Greaterthan. The Partners additionally hold the accountabilities of keeping our strategic focus and ensuring coherence between our activities and long-term vision.
+There are three explicit levels of involvement in GT: “Partners”, “Associates” and “Explorers”. An explicit commitment to Greaterthan as a whole (outside individual projects) takes place when stepping across the threshold from Explorer into “Membership”. Greaterthan Members, constituted of Associates and Partners, are collectively responsible for stewarding and developing Greaterthan. The Partners additionally hold the accountabilities of keeping our strategic focus and ensuring coherence between our activities and long-term vision.
 
 ![](../.gitbook/assets/levels-of-involvement-gt.png)
 
@@ -20,13 +20,15 @@ To understand these levels better, let’s look at how each relates to Greaterth
 
 **Associates:** _‘Greaterthan is one of the places for my professional activity, or, if this is not the case yet, this is something I am actively working towards.’_&#x20;
 
-**Ecosystem**: ‘_Greaterthan is a professional network I am part of (and potentially want to get more involved in)’._ In many cases, GT members are already doing a project with potential ecosystem members, or are interested in doing work together in the future.&#x20;
+**Explorers**: ‘_Greaterthan is a professional network I am part of and want to explore getting more involved in’._ In many cases, GT members are already doing a project with potential explorers, or are interested in doing work together in the future.&#x20;
 
 None of these levels have a nominal limit to how many people can be in them -- but to ensure our system is healthy, it’s important that they maintain a certain proportionality. In comparison to the other levels, the ways in which someone shows up as an associate are the broadest, an ambiguity which we are embracing and looking to navigate by making everyone’s specific commitments explicit (see below).
 
 ## **Rights & Responsibilities**
 
-**Ecosystem:** no specific rights or obligations other than to adhere to our values & show good conduct. This is a springboard for involvement in projects, new initiatives, etc.\
+**Explorers**
+
+After latest 12 months from joining, explorers are asked to make explicit in what kind of role they wish to stay an Explorer, or otherwise step out (Examples: _connector between GT and another community; connector between topics; for people who are junior professionals, the “learner/apprentice”)_. This role is then updated every 12 months. There are no other specific rights or obligations other than to adhere to our values & show good conduct. This is a springboard for involvement in projects, new initiatives, etc.\
 ****
 
 |                  | Members (Associates + Partners)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Partners                                                                                                                                                                                                                                                                                                                                                                                                |
