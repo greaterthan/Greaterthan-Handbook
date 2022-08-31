@@ -80,9 +80,9 @@ Partners have been an associate for at least 1 year.
 {% endtab %}
 
 {% tab title="Leaving Elegantly" %}
-### Ecosystem
+### Explorers
 
-Ecosystem members can choose to leave at any time, by informing the person who invited them, or any other GT member. The member who is informed is responsible for the offboarding. We hold an ecosystem opt-in once a year to check that each person still wants to stay on slack.
+Explorers can choose to leave at any time, by informing the person who invited them, or any other GT member. The member who is informed is responsible for the offboarding. We hold an opt-in once a year, where each explorer is asked to update their "role / posture" as an explorer, to check if they are still engaged. At this point, they may choose to step out.&#x20;
 
 ### Associates
 
