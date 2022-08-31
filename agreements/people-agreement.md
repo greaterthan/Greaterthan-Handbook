@@ -22,7 +22,7 @@ To understand these levels better, let’s look at how each relates to Greaterth
 
 **Explorers**: ‘_Greaterthan is a professional network I am part of and want to explore getting more involved in’._ In many cases, GT members are already doing a project with potential explorers, or are interested in doing work together in the future.&#x20;
 
-None of these levels have a nominal limit to how many people can be in them -- but to ensure our system is healthy, it’s important that they maintain a certain proportionality. In comparison to the other levels, the ways in which someone shows up as an associate are the broadest, an ambiguity which we are embracing and looking to navigate by making everyone’s specific commitments explicit (see below).
+None of these levels have a nominal limit to how many people can be in them -- but to ensure our system is healthy, it’s important that they maintain a certain proportionality. We must also note that there is a very broad range of ways in which someone can be an associate. We have decided to embrace this ambiguity and therefore focus our energy on regularly making associates and partners specific commitments explicit, rather than creating very rigid expectations (see below).
 
 ## **Rights & Responsibilities**
 
