@@ -23,11 +23,6 @@ Important: Since this call is geography-based, it's important that key take-away
 _****_\
 _****_**Participation**: optional for members, but **if you are working in projects regularly, it is important to attend as often as possible.**&#x20;
 
-### Biz Dev Scrum | weekly
-
-* Open call for everyone in the Greaterthan Ecosystem (= on GT slack)
-* Purpose: discuss leads & biz dev opportunities. If you have a potential lead and need support or sense-making on what the right next step is, join this call!&#x20;
-
 ### Full GT Member meetings | Quarterly
 
 **Purpose**
@@ -38,9 +33,9 @@ _****_**Participation**: optional for members, but **if you are working in proje
 
 To see when these calls are scheduled, please check the GT Team Meetings google calendar, which you were given access to when onboarded.
 
-### Ecosystem & Learning Calls | every 2 months
+### --on hold-- Connecting & Learning Calls | every 2 months
 
-* Open call for everyone in the Greaterthan Ecosystem (= on GT slack)
+* Open call for everyone in the Greaterthan Network (= on GT slack)
 * Connective: getting to know each other and our work better
 * Case clinics: anyone can bring a question, challenge or case to the meetings to get advice on from the group (wise crowd style)&#x20;
 
