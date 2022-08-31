@@ -12,7 +12,7 @@ This agreement has been designed to recognize and accommodate for different type
 
 There are three explicit levels of involvement in GT: “Partners”, “Associates” and “Explorers”. An explicit commitment to Greaterthan as a whole (outside individual projects) takes place when stepping across the threshold from Explorer into “Membership”. Greaterthan Members, constituted of Associates and Partners, are collectively responsible for stewarding and developing Greaterthan. The Partners additionally hold the accountabilities of keeping our strategic focus and ensuring coherence between our activities and long-term vision.
 
-![](../.gitbook/assets/levels-of-involvement-gt.png)
+<figure><img src="../.gitbook/assets/Levels of Involvement GT_08_22.png" alt=""><figcaption></figcaption></figure>
 
 To understand these levels better, let’s look at how each relates to Greaterthan:&#x20;
 
