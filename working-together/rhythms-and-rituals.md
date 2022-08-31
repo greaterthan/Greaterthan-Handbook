@@ -34,12 +34,6 @@ A set of days where we focus intensely on working together, either on a specific
 
 &#x20;An annual **moment for reflection and acknowledgement of the changes taking place in the GT system,** especially in relation to people moving in and our of their roles as partners and associates. This is our form of an annual "opt-in", as a collective acknowledgment moment of changes to people's involvement.&#x20;
 
-### **Etiquette for going offline & availabilities**
-
-* If you cannot join a regular meeting, decline the calendar invite.&#x20;
-* Share your calendar with other team members, and put your location in it so that everyone knows where you are
-* Add "OFF - \[location]" in your calendar when you are offline
-
 ### **Other Meetings**
 
 * Partners Meeting | every 2 weeks
