@@ -28,7 +28,7 @@ However, for larger, long term projects that require a significant amount of mul
 
 #### Projects are generally led by partners or associates
 
-To ensure that our projects have a minimum level of coherence with other GT services and alignment with GT’s approach to work, projects are led by partners or associates. This serves as a type of ‘quality assurance’. If an explorer is leading a project, then there must be a partner or associate very actively supporting them.
+To ensure that our projects have a minimum level of coherence with other GT services and alignment with GT’s approach to work, projects are led by partners or associates. This serves as a type of ‘quality assurance’. If an ecosystem member is leading a project, then there must be a partner or associate very actively supporting them.
 
 #### Our understanding of the clients needs must be clearly articulated
 
@@ -42,7 +42,7 @@ The person who is leading the sales process is expected to clearly articulate th
 2. **Take into account how work is currently distributed in GT** \
    ****One of the factors to take into account when building a project team, is who is in need of work/income currently.
 3. **Priority to GT partners and associates**\
-   In the case that multiple people’s skills, location and availability are a fit, the level of commitment to GT provides the order of priority in which work opportunities are offered: partners, then associates, then explorers. If an external person who is not even an explorer is chosen, it is made explicit and communicated openly why this was done in this case.
+   In the case that multiple people’s skills, location and availability are a fit, the level of commitment to GT provides the order of priority in which work opportunities are offered: partners, then associates, then ecosystem members. If an external person who is not even in the ecosystem is chosen, it is made explicit and communicated openly why this was done in this case.
 4. **Different projects enable different risks**\
    Certain projects have very high stakes, while others leave space for higher risks, such as bringing in someone who we don’t have any first hand experience working with yet, who are not an expert yet on a topic but in a growth edge, or simply looking for an opportunity for certain people to grow their working relationship. When possible, we default to making good use of this “wiggle room” for risk taking and exploration in projects that allow it.
 

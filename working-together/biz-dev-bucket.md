@@ -10,7 +10,7 @@ The first version of this bucket was originally agreed upon [in 2021.](https://w
 
 ### Who can make use of the funds in the bucket?&#x20;
 
-The funds can go to partners, associates and ecosystem members engaged in biz dev activities. In the case of ecosystem members, it is important that an associate or partner is actively supporting that person in the sales process, to ensure coherence with Greaterthan’s approach, skills and capacity.
+The funds can go to partners, associates and explorers engaged in biz dev activities. In the case of explorers, it is important that an associate or partner is actively supporting that person in the sales process, to ensure coherence with Greaterthan’s approach, skills and capacity.
 
 ### What can be paid for?&#x20;
 
