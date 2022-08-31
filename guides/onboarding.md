@@ -6,13 +6,13 @@ description: Here are some simple steps to follow when onboarding new people to 
 
 #### Onboarding...
 
-### Ecosystem members
+### Explorers
 
 Onboarding in Greaterthan is mostly distributed. It is the responsibility of members to onboard and guide people that they have invited.&#x20;
 
 The most important onboarding steps:&#x20;
 
-1. When a new ecosystem member is added, send them the [Welcome to Greaterthan slidedeck](https://docs.google.com/presentation/d/1rFSGgnr78lhhy5qUJU2nRUVO1Xro84iDbriAotjiRV0/edit#slide=id.p21) as basic orientation.&#x20;
+1. When a new explorers is added, send them the [Welcome to Greaterthan slidedeck](https://docs.google.com/presentation/d/1rFSGgnr78lhhy5qUJU2nRUVO1Xro84iDbriAotjiRV0/edit#slide=id.p21) as basic orientation.&#x20;
 2. Add them to our People Masterlist by **** [**filling out this form**](https://airtable.com/shrsRwYaxNOLaN46o) **** (this does not add them to slack!)
 3. **Invite them to our Greaterthan slack team**. When logged in, you can do so with [this link. ](https://greaterfinance.slack.com/admin/invites)
 4. Let everyone know they have joined! Welcome them on the #everyone channel of the GT slack and ask them to introduce themselves.&#x20;
