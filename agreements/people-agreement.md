@@ -1,6 +1,6 @@
 # People Agreement
 
-_This agreement was last updated in September 2021, after having run the following_ [_experiment_](https://docs.google.com/document/d/1uO8Nu3Nbdt\_Yq6kaPFIzlYLVqdHUku6ZygaMDGFjdJ0/edit?usp=sharing)_._&#x20;
+_This full agreement was significantly updated in September 2021 (after this_ [_experiment_](https://docs.google.com/document/d/1uO8Nu3Nbdt\_Yq6kaPFIzlYLVqdHUku6ZygaMDGFjdJ0/edit?usp=sharing)_), and modified in August 2022 through_ [_this decision._](https://www.loomio.org/d/NP7XDqK6/proposal-evolving-re-clarifying-the-gt-ecosystem-its-name-and-purpose/1)__
 
 ## **Context & Intention of this Agreement**
 
