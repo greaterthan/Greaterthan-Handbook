@@ -29,9 +29,7 @@ _Last updated:  August 2022_
 | Manel Heredero  | Dec 2019                             |
 | Ria Baeck       | Dec 2019                             |
 | Tom Nixon       | Dec 2019                             |
-| Joriam Felipe   | Sept 2020                            |
 | Stefan Morales  | Oct 2020                             |
-| Ana Manzanedo   | Oct 2020                             |
 | J.D. Nasaw      | March 2021                           |
 | Tomomi Sasaki   | May 2021                             |
 | Melinda Varfi   | Sept 2021                            |
@@ -41,6 +39,8 @@ _Last updated:  August 2022_
 
 ## Previous Members
 
+* Ana Manzanedo, Oct 2020 - Sept 2022
+* Joriam Felipe, Sept 2020-2022
 * Lisa Gill, May 2019-Sept 2021
 * Anthony Cabraal, July 2018-Sept 2021 (Partner until Sept 2020)
 * Patrick Andrews, July 2018-Sept 2021
