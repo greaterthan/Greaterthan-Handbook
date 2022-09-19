@@ -47,7 +47,7 @@ Here are examples of what types of contributions the commitment statement can re
 
 ### Accountability Process
 
-Current experiment is of Accountability Triads | Details (running from Sept 2021 - March 2022)
+Current experiment is of Accountability Triads
 
 * Groups of 3
 * Meet at least every 6 weeks (can be more if desired)&#x20;
