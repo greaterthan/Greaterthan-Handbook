@@ -6,7 +6,7 @@ A pot of funds set aside from Greaterthan’s Commons Budget to financially supp
 
 The scope of this bucket is primarily to have an easy process for members to be compensated for their time invested in business development efforts; and secondarily to be able to offer additional rewards for biz dev efforts that lead to a sale, which are not sufficiently compensated within project budgets.
 
-The first version of this bucket was originally agreed upon [in 2021.](https://www.loomio.org/d/SPaUqGD2/proposal-for-better-rewarding-biz-dev-in-gt-)
+The first version of this bucket was originally agreed upon [in 2021](https://www.loomio.org/d/SPaUqGD2/proposal-for-better-rewarding-biz-dev-in-gt-), and the process below decided by consent in [June 2022](https://www.loomio.com/p/YygK90Pl/decision-to-try-the-new-biz-dev-bucket-process).
 
 ### Who can make use of the funds in the bucket?&#x20;
 
