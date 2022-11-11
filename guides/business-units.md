@@ -24,8 +24,8 @@ There are several types of BUs:&#x20;
 
 * **Personal BUs** for people working through the business
 * **Project BUs,** which are for large consulting projects&#x20;
-* **Shrubbery BUs,** which are projects that Greaterthan is investing in and/or operates separate from the core, i.e Cobudget, Academy, Better Work Together.
-* **GT Core BU,** which holds all operating costs, consulting budgets and surplus (that is then paid out as bonuses or reinvested in projects).
+* **Shrubbery BUs,** which are projects that Greaterthan is investing in and/or operates separate from the core (e.g. Cobudget, Academy)
+* **GT Core BU,** which holds all contributions to the commons and through which operating costs are paid.&#x20;
 
 ### Who can have a personal business unit
 
