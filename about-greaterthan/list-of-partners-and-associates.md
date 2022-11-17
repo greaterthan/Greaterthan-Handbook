@@ -36,6 +36,7 @@ _Last updated:  August 2022_
 | Miriam Moreno   | February 2022                        |
 | Nenad Maljković | July 2022                            |
 | Lyssa Adkins    | August 2022                          |
+| Ashish Arora    | November 2022                        |
 
 ## Previous Members
 
