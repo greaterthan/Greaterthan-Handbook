@@ -6,8 +6,6 @@ description: Here are some simple steps to follow when onboarding new people to 
 
 #### Onboarding...
 
-## Attention: under construction!
-
 ## Explorers
 
 Explorers onboarding in Greaterthan is mostly distributed. It is the responsibility of members to onboard and guide people that they have invited. To learn about the invitation process for explorers, see the[ People Agreement.](../agreements/people-agreement.md#explorers)&#x20;
