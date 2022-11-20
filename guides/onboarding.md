@@ -12,7 +12,7 @@ Explorers onboarding in Greaterthan is mostly distributed. It is the responsibil
 
 ### Two stages of explorer onboarding&#x20;
 
-Since [November 2022](https://www.loomio.com/d/3qmYIa7s/onboarding-explorers-in-cohorts), we no longer onboard explorers immediately, but in _**quarterly**_ _**cohorts**_. Therefore there are two key stages of onboarding:&#x20;
+Since [November 2022](https://www.loomio.com/d/3qmYIa7s/onboarding-explorers-in-cohorts), we no longer onboard explorers immediately, but in multi-annual _**cohorts**_. Therefore there are two key stages of onboarding:&#x20;
 
 **Stage 1:** Right after the decision for the explorer to be invited has been completed.&#x20;
 
