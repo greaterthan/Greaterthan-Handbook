@@ -29,6 +29,12 @@ Since [November 2022](https://www.loomio.com/d/3qmYIa7s/onboarding-explorers-in-
 3. Ask them to find themselves on the [People of Greaterthan 'People Profiles' section](https://airtable.com/app9eFED6mT3xijkm/pagWBlHlsH6y1kzeN?6iIC3=recQTeuAsbK6etMJC), and ask them to fill out their profile.&#x20;
 4. Let everyone know they have joined! Welcome them on the #everyone channel of the GT slack and ask them to introduce themselves.&#x20;
 
+### About onboarding cohorts&#x20;
+
+* HOSTING: a rotating team of 2 GT members host each onboarding cohort. The responsibility to find the hosts lies with the group of members that invited the people in that cohort.&#x20;
+* WHO: See the people in the queue for the next onboarding cohort [**here.** ](https://airtable.com/app9eFED6mT3xijkm/pagZJ5UUwGsDt2ujA?Pllch=rec9kT2iaiaTymIkA)****
+* WHEN: cohort rhythm TBD
+
 ## Associates
 
 The GT member who invited in and put up the decision to bring in a new associate is accountable for **setting in motion their onboarding.** The onboarding itself is now done by our persistent role, the "Movement Guide" (currently held by Francesca). All you need to do is follow these 2 steps:&#x20;
