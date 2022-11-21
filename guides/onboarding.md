@@ -25,7 +25,7 @@ Since [November 2022](https://www.loomio.com/d/3qmYIa7s/onboarding-explorers-in-
    1. the Greaterthan **slack team**. When logged in, you can do so with [this link. ](https://greaterfinance.slack.com/admin/invites)
    2. the **open GT events calendar.** Add them to the calendar with their email, with the rights to "make changes to events".
    3. the **GT "People of Greaterthan" Airtable** base as an "editor". [_More info on how to do this._ ](https://docs.google.com/document/d/1Qxa1fWOnZw7emMDMz-DHXMNzclQ9VMdMWHvCJ8RUF8M/edit)__
-   4. **Update their status** in our Open Books People list, to remove them from the ['onboarding queue' ](https://airtable.com/app9eFED6mT3xijkm/pagZJ5UUwGsDt2ujA?Pllch=rec9kT2iaiaTymIkA)and indicate that they are now onboarded.
+   4. **Update their status** in our Open Books People list to "Explorer", to remove them from the ['onboarding queue' ](https://airtable.com/app9eFED6mT3xijkm/pagZJ5UUwGsDt2ujA?Pllch=rec9kT2iaiaTymIkA)and indicate that they are now onboarded.
 3. Ask them to find themselves on the [People of Greaterthan 'People Profiles' section](https://airtable.com/app9eFED6mT3xijkm/pagWBlHlsH6y1kzeN?6iIC3=recQTeuAsbK6etMJC), and ask them to fill out their profile.&#x20;
 4. Let everyone know they have joined! Welcome them on the #everyone channel of the GT slack and ask them to introduce themselves.&#x20;
 
