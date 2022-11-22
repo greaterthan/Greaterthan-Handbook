@@ -64,7 +64,7 @@ Current experiment is of Accountability Triads
 * Invite follows the advice process, with a small extra:&#x20;
   * Posting in the slack channel ‘inviting-explorers', where members post the name of the person they want to invite in with a 3 day ‘advise process’ so that anyone with concerns can get in touch. They also need to @mention anyone they think/know also knows the new invite.
   * If a person feels unsure whether it’s ok or not to invite someone, they can put up an optional temperature check on loomio.
-* The person who invites them in has the responsibility to 1) welcome them on slack and inform GT members they have joined 2) onboard them, both administratively by[ filing out this form](https://airtable.com/shrsRwYaxNOLaN46o), and socially by helping them feel welcome and get started in the space.&#x20;
+* The person who invites them in has the responsibility to ensure they are correctly onboarded. Once an explorer is ready to be invited, please follow the steps in this [explorer onboarding guide ](../guides/onboarding.md#explorers)to do so.
 
 ### Associates
 
