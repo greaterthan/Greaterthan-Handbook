@@ -7,7 +7,7 @@ coverY: 29.956476683937815
 
 Here is our current list of partners and associates. To learn about what those roles mean, see our [People Agreement. ](../agreements/people-agreement.md)
 
-_Last updated:  August 2022_
+_Last updated:  November 2022_
 
 ## Partners
 
@@ -37,6 +37,7 @@ _Last updated:  August 2022_
 | Nenad Maljković | July 2022                            |
 | Lyssa Adkins    | August 2022                          |
 | Ashish Arora    | November 2022                        |
+| Anna Kopacz     | November 2022                        |
 
 ## Previous Members
 
