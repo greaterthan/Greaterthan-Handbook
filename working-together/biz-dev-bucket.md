@@ -65,8 +65,8 @@ The biz dev bucket must always have at least one, ideally 2 stewards (for resili
 
 ```
 Current Stewards: 
-Francesca Pick 
 Susan Basterfield
+Tomomi Sasaki
 ```
 
 #### Who can be a steward and how to become one?&#x20;
