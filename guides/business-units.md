@@ -23,8 +23,8 @@ From a financial perspective, Greaterthan is structured into business units, whi
 There are several types of BUs:&#x20;
 
 * **Personal BUs** for people working through the business
-* **Project BUs,** which are for large consulting projects&#x20;
-* **Shrubbery BUs,** which are projects that Greaterthan is investing in and/or operates separate from the core (e.g. Cobudget, Academy)
+* **Services BUs,** which are for large consulting projects&#x20;
+* **Project BUs,** which are projects that Greaterthan is investing in and/or operates separate from the core (e.g. Cobudget, Academy)
 * **GT Core BU,** which holds all contributions to the commons and through which operating costs are paid.&#x20;
 
 ### Who can have a personal business unit
@@ -42,5 +42,3 @@ Personal business units can be created if the BU owner agrees to the following c
 * the BU owner ensures they always have sufficient funds to cover incoming costs&#x20;
 * the amount in the BU shall never be negative
 * If funds remain in the BU after the year-end, the 19% UK company tax will automatically be deducted.&#x20;
-
-To start a new BU for a Shrubbery, a proposal must be approved by consent in the GT member Loomio.
