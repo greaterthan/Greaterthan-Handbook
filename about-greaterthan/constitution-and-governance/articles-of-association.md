@@ -1,33 +1,8 @@
-# Constitution & Governance
+# 📜 Articles of Association
 
-Greaterthan Collective Ltd is a registered UK Limited Liablity Company with a cooperative governance structure, incorporated in May 2018. [See our details on UK Company House.](https://beta.companieshouse.gov.uk/company/11387616)&#x20;
+## Of Greaterthan Collective Ltd (UK)
 
-For us, success means a better livelyhood through meaningful work for more people, more positive impact on the world and contributing to a thriving ecosystem. Our company is not built to be exited, but to be a source of continuous value creation for all its stakeholders.&#x20;
-
-![](<../.gitbook/assets/image (7).png>)
-
-## Stewardship-ownership
-
-**Greaterthan is a Stewardship-Owned Company**, with a [Golden Share Model. ](http://steward-ownership.com/elementor-122/)As described by Purpose Fund, stewardship-owned businesses have two key characteristics:&#x20;
-
-* **Entrepreneurship = Ownership:** Steward-ownership ensures that the control of the company is not a commodity anymore. The steering wheel – the majority of the voting rights – of self-determined companies lies in hands of people who are connected to the mission of the company.
-* **Profits are a means to an end:** With steward-ownership profits are a means to an end, not an end in itself. Instead profits directly serve the purpose of the company. They are used to pay back investors, re-invested in the company, or donated to charity.​
-
-To ensure that our commitment to these principles is upheld and cannot be changed, the charitable [Purpose Foundation](https://purpose-economy.org/en/) holds a "Guardian Share" in our company with veto-power. To read more about how Stewardship-Ownership works[ read here.](https://www.purpose-economy.org/ownership)
-
-You can see our full articles of association **below or in** [**this document.**](https://docs.google.com/document/d/1i0N83XFnSjL-F3iFJtVEGv5CeTIOdiZVl7r2O0IGTnM/edit?usp=sharing) ****&#x20;
-
-## **Governance**
-
-To read more about how **our governance** works, check out our agreements: &#x20;
-
-{% content-ref url="../agreements/" %}
-[agreements](../agreements/)
-{% endcontent-ref %}
-
-## Articles of Association
-
-_Note: in these articles of association, the Greaterthan_ [_**Partners**_](list-of-partners-and-associates.md#partners) _are referred to as 'Co-Owners'._&#x20;
+_Note: in these articles of association, the Greaterthan_ [_**Partners**_](../list-of-partners-and-associates.md#partners) _are referred to as 'Co-Owners'._&#x20;
 
 BACKGROUND
 

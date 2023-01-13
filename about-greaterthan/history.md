@@ -1,4 +1,4 @@
-# History
+# 📖 History
 
 The story of Greaterthan starts in November 2016 with Francesca Pick and Jessy-Kate Schlinger, who were both passionate about how **participatory budgeting** could transform power structures in their communities [Ouishare](http://ouishare.net) and the [Embassy Network](http://embassynetwork.com). In January 2017 they decided to meet in New Zealand at an [**Enspiral**](http://enspiral.com) gathering to work on [**Cobudget**,](https://app.gitbook.com/cobudget) a piece of participatory budgeting software prototyped and developed by various numbers in the network.
 
@@ -6,13 +6,13 @@ After one month of working together, Greaterthan was born as an umbrella project
 
 ![Team Sprint in May 2017 (Spain) with Jessy-Kate, Kate Beecroft, Michael Arnoldus and Francesca Pick. ](../.gitbook/assets/team2017.PNG)
 
-In Summer 2018, the team was joined by two new founding partners, **Susan Basterfield** and **Anthony Cabraal,** to take Greaterthan into its next stage of evolution as a cooperative company.&#x20;
+In Summer 2018, the team was joined by two new founding partners, **Susan Basterfield** and **Anthony Cabraal,** to take Greaterthan into its next stage of evolution as a cooperative company. Since then, it has and continues to evolve and change, becoming the global collective it is today. &#x20;
 
 ![Team sprint in February 2019 (New Zealand) with Susan Basterfield, Anthony Cabraal, Kate Beecroft and Francesca Pick](../.gitbook/assets/team2019.PNG)
 
 ### Acknowledgements
 
-We would like to acknowledge the contributions of those members that moved on to other projects, Jessy-Kate Schlinger, Juliana Lopker and Michael Arnoldus.&#x20;
+We would like to acknowledge the contributions of those members that moved on to other projects early on in our journey, Jessy-Kate Schlinger, Juliana Lopker and Michael Arnoldus.&#x20;
 
-...as well as those who brought Cobudget to life, Alanna Irving, Derek Razo, Eugene Lynch, Joshua Vial and Mickey Williams.
+We also want to acknowledge Cobudget and its heritage as having brought an important initial spark to this endeavor. To learn more about the history of Cobudget and Greaterthan, and how the Cobudget project has developed further, see [Cobudget.com](https://cobudget.com/about).&#x20;
 
