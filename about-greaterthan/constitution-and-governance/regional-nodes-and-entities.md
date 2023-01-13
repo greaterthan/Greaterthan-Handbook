@@ -7,5 +7,5 @@ Greaterthan currently operates through two legal entities:&#x20;
 
 ### When and why do we create additional Greaterthan entities?&#x20;
 
-We see legal structures as a means to an end and apply the principle of only creating new legal vehicles when there is a clear need for them (rather than the anticipation of a need). Reasons for creating a country specific entity may be having a critical mass of active members or clients in that location, geographically focused in-person activities (events, retreats) that would benefit from , gaining access to grants&#x20;
+For us, legal structures are a means to an end and should not be drivers of how to organize and govern our collective. Therefore we apply the principle of only creating new legal entities only when there is a clear and strong need for them (rather than _anticipating_ the need or having the wish for a certain governance). Some of the reasons for creating a country specific entity may be having a critical mass of active members or clients in one location, running a large amount of in-person activities (events, retreats) in one place that require VAT registration, or gaining access to grant and funding opportunities.&#x20;
 
