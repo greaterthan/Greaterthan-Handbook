@@ -19,11 +19,9 @@ For us, success means a better livelihood through meaningful work for more peopl
 
 To ensure that our commitment to these principles is upheld and cannot be changed, the charitable [Purpose Foundation](https://purpose-economy.org/en/) holds a "Guardian Share" in our company with veto-power. To read more about how Stewardship-Ownership works[ read here.](https://www.purpose-economy.org/ownership)
 
-You can see our full articles of association **below or in** [**this document.**](https://docs.google.com/document/d/1i0N83XFnSjL-F3iFJtVEGv5CeTIOdiZVl7r2O0IGTnM/edit?usp=sharing) ****&#x20;
-
 ## **Governance**
 
-To read more about how **our governance** works, check out our agreements: &#x20;
+To read more about how our governance **** works, check out our agreements: &#x20;
 
 {% content-ref url="../agreements/" %}
 [agreements](../agreements/)
@@ -31,7 +29,7 @@ To read more about how **our governance** works, check out our agreements: &#x20
 
 ## Constitution&#x20;
 
-See our full articles of association here:
+You can see our full articles of association **** by clicking below or in [this document.](https://docs.google.com/document/d/1i0N83XFnSjL-F3iFJtVEGv5CeTIOdiZVl7r2O0IGTnM/edit?usp=sharing)&#x20;
 
 {% content-ref url="constitution-and-governance/articles-of-association.md" %}
 [articles-of-association.md](constitution-and-governance/articles-of-association.md)
