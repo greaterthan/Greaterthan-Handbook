@@ -4,11 +4,11 @@ The story of Greaterthan starts in November 2016 with Francesca Pick and Jessy-K
 
 After one month of working together, Greaterthan was born as an umbrella project to drive forward the work on practices and tools for collaborative budgeting. **Greaterthan was then given stewardship of the Cobudget software** by Enspiral. From that starting point, a team of practitioners and developers, including **Kate Beecroft,** joined the project, spanning the globe from New Zealand to Europe.
 
-![Team Sprint in May 2017 (Spain) with Jessy-Kate, Kate Beecroft, Michael Arnoldus and Francesca Pick. ](../.gitbook/assets/team2017.PNG)
+![Team Sprint in May 2017 (Spain) with (left to right) Kate Beecroft, Michael Arnoldus, Jessy-Kate Schlinger and Francesca Pick. ](../.gitbook/assets/team2017.PNG)
 
 In Summer 2018, the team was joined by two new founding partners, **Susan Basterfield** and **Anthony Cabraal,** to take Greaterthan into its next stage of evolution as a cooperative company. Since then, it has and continues to evolve and change, becoming the global collective it is today. &#x20;
 
-![Team sprint in February 2019 (New Zealand) with Susan Basterfield, Anthony Cabraal, Kate Beecroft and Francesca Pick](../.gitbook/assets/team2019.PNG)
+![Team sprint in February 2019 (New Zealand) with (left to right) Francesca Pick, Kate Beecroft, Susan Basterfield and Anthony Cabraal](../.gitbook/assets/team2019.PNG)
 
 ### Acknowledgements
 

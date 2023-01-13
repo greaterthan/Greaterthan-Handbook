@@ -3,7 +3,7 @@
 * [About this Handbook](README.md)
 * [Our organization](about-greaterthan/README.md)
   * [📖 History](about-greaterthan/history.md)
-  * [🏛 Constitution & Governance](about-greaterthan/constitution-and-governance/README.md)
+  * [🏛 Constitution & Governance](about-greaterthan/constitution-and-governance.md)
     * [📜 Articles of Association](about-greaterthan/constitution-and-governance/articles-of-association.md)
     * [🎆 Regional nodes & entities](about-greaterthan/constitution-and-governance/regional-nodes-and-entities.md)
   * [💟 Our Values & Principles](about-greaterthan/our-principles.md)

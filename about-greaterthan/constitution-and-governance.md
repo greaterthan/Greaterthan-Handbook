@@ -1,14 +1,14 @@
 # 🏛 Constitution & Governance
 
-**Greaterthan has created its own organizational structure and governance** to reflect our values and way of working, through a combination of **legal elements** such as _Stewardship Ownership and_ a _custom constitution_, __ as well as **governance rules** that sit on top of these, which are described in this handbook under __ [_Agreements_](../../agreements/)_._&#x20;
+**Greaterthan has created its own organizational structure and governance** to reflect our values and way of working, through a combination of **legal elements** such as _Stewardship Ownership and_ a _custom constitution_, __ as well as **governance rules** that sit on top of these, which are described in this handbook under __ [_Agreements_](../agreements/)_._&#x20;
 
 Our "global mother entity" is Greaterthan Collective Ltd, a registered UK Limited Liability Company incorporated in May 2018 ([see company details on UK Company House](https://beta.companieshouse.gov.uk/company/11387616)). "Mother entity" refers to the fact that this is the structure that reflects our governance and agreed ownership structure (1 share held per partner), holds our brand license and operates legally under Stewardship Ownership (keep reading below for more about Stewardship Ownership)&#x20;
 
-We also have secondary legal entities in other countries, which are _vehicles_ to help us do our work in different legal, fiscal and cultural contexts. _Read more about regional nodes and entities_[ _**here.**_](regional-nodes-and-entities.md)_****_
+We also have secondary legal entities in other countries, which are _vehicles_ to help us do our work in different legal, fiscal and cultural contexts. _Read more about regional nodes and entities_[ _**here.**_](constitution-and-governance/regional-nodes-and-entities.md)_****_
 
 For us, success means a better livelihood through meaningful work for more people, more positive impact on the world and contributing to a thriving ecosystem. Our company is not built to be exited, but to be a source of continuous value creation for all its stakeholders.&#x20;
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 ## Stewardship-ownership
 
@@ -25,14 +25,14 @@ You can see our full articles of association **below or in** [**this document.**
 
 To read more about how **our governance** works, check out our agreements: &#x20;
 
-{% content-ref url="../../agreements/" %}
-[agreements](../../agreements/)
+{% content-ref url="../agreements/" %}
+[agreements](../agreements/)
 {% endcontent-ref %}
 
 ## Constitution&#x20;
 
 See our full articles of association here:
 
-{% content-ref url="articles-of-association.md" %}
-[articles-of-association.md](articles-of-association.md)
+{% content-ref url="constitution-and-governance/articles-of-association.md" %}
+[articles-of-association.md](constitution-and-governance/articles-of-association.md)
 {% endcontent-ref %}
