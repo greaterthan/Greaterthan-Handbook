@@ -7,6 +7,8 @@ Greaterthan is a remote-first collective, with members scattered across the glob
 * [Greaterthan Collective Ltd (UK):](https://find-and-update.company-information.service.gov.uk/company/11387616) our "mother entity" that is used for the majority of our global operations | founded May 2018
 * [Greaterthan Collective Aotearoa Ltd (New Zealand)](https://newzealand-company.com/co/greaterthan-collective-aotearoa-limited): our first regional entity | founded September 2021
 
-### When and why do we create additional Greaterthan entities?&#x20;
+### When, why and how do we create additional Greaterthan entities?&#x20;
 
 For us, legal structures are a means to an end and should not be drivers of how to organize and govern our collective. Therefore we apply the principle of only creating new legal entities only when there is a clear and strong need for them (rather than _anticipating_ the need or having the wish for a certain governance). Some of the reasons for creating a country specific entity may be having a critical mass of active members or clients in one location, running a large amount of in-person activities (events, retreats) in one place that require VAT registration, or gaining access to grant and funding opportunities. &#x20;
+
+The creation of a new entity is considered a[ significant decision](../../agreements/decision-making-agreement.md#decision-protocols-advice-process-and-consent), and thus the creation of the entity in New Zealand was decided on Loomio by consent with Greaterthan partners and associates.&#x20;
