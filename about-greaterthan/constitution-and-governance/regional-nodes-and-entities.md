@@ -1,6 +1,6 @@
 # 🎆 Regional nodes & entities
 
-Greaterthan is a remote-first collective, with members scattered across the globe, and many of them being without a fixed permanent residence. Therefore we have always aimed to find flexible structures that can meet the needs of people in many locations, while also creating regional entities when deemed necessary. &#x20;
+Greaterthan is a remote-first collective, with members scattered across the globe. Therefore we have always aimed to find flexible structures that can meet the needs of people in many locations, while also creating regional entities when deemed necessary. &#x20;
 
 **Greaterthan currently operates through two legal entities:**&#x20;
 
