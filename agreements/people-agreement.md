@@ -116,11 +116,12 @@ Compliance and legal responsibility is held by a “Minimum Viable Board”, com
 
 Any associate or partner can can initiate a conversation at any time to discuss directorship with the members, and may nominate a director (including themselves). The final decision about directorship is made by partners.&#x20;
 
-**The current MVB has 3 members:**
+**The current MVB has 4 members:**
 
 * Francesca Pick (partner)
 * Susan Basterfield (partner)
-* Patrick Andrews (associate)
+* J.D. Nasaw (associate)
+* Patrick Andrews (external)
 
 [See current changes on UK Company's House. ](https://beta.companieshouse.gov.uk/company/11387616)\
 
