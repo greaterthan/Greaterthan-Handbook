@@ -19,6 +19,7 @@ _Last updated:  November 2022_
 | Mary O'Keeffe     | May 2019 (partner since Sept 2021)     |
 | Lucia Die Gil     | April 2020 (partner since Sept 2021)   |
 | David Weingartner | April 2020 (partner since August 2022) |
+| Stefan Morales    | Oct 2020 (partner since February 2023) |
 
 ## Associates
 
@@ -29,7 +30,6 @@ _Last updated:  November 2022_
 | Manel Heredero  | Dec 2019                             |
 | Ria Baeck       | Dec 2019                             |
 | Tom Nixon       | Dec 2019                             |
-| Stefan Morales  | Oct 2020                             |
 | J.D. Nasaw      | March 2021                           |
 | Tomomi Sasaki   | May 2021                             |
 | Melinda Varfi   | Sept 2021                            |
