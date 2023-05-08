@@ -38,6 +38,7 @@ _Last updated:  November 2022_
 | Lyssa Adkins    | August 2022                          |
 | Ashish Arora    | November 2022                        |
 | Anna Kopacz     | November 2022                        |
+| Lena Bumke      | April 2023                           |
 
 ## Previous Members
 
