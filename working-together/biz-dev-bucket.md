@@ -51,7 +51,7 @@ Once the decision has been made and you know whether the sale came through or wa
 
 * To be compensated for your time, invoice Greaterthan following the steps in our [invoicing guide. ](https://docs.google.com/document/d/1WLoADkijt0G-RU7BCE4ZhmDYiSVW7Kh47aAI-lPV17o/edit#heading=h.dtmdrw3hm62q)
 * For expenses, we recommend paying directly with a Greaterthan credit card. To do so, get in touch with any partner, who will be able to give you the payment information. Once the payment has been completed, send an email with the receipt to accounts@greaterthan.works, and put the Bucket steward in copy.&#x20;
-* Once it’s clear whether the project was won or lost, the bucket steward will ensure that the cost is correctly attribute to either the GT Core BU, or the internal project budget.
+* Once it’s clear whether the project was won or lost, the bucket steward will ensure that the cost is correctly attributed to either the GT Core BU, or the internal project budget.
 
 Alternatively, you pay upfront and then be reimbursed by adding it to your invoice to Greaterthan.
 

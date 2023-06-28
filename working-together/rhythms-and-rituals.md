@@ -13,8 +13,8 @@ This is THE place to go if you are a GT member working on current projects, or s
 * Sharing needs: both for knowledge/resources & people on projects
 
 Important: Since this call is geography-based, it's important that key take-aways are always shared on slack afterwards, with the rest of the members. \
-_****_\
-_****_**Participation**: optional for members, but **if you are working in projects regularly, it is important to attend as often as possible.**&#x20;
+\
+**Participation**: optional for members, but **if you are working in projects regularly, it is important to attend as often as possible.**&#x20;
 
 ### Full GT Member meetings | Quarterly
 
@@ -32,7 +32,7 @@ A set of days where we focus intensely on working together, either on a specific
 
 ### Annual Opt-in Ritual
 
-&#x20;An annual **moment for reflection and acknowledgement of the changes taking place in the GT system,** especially in relation to people moving in and our of their roles as partners and associates. This is our form of an annual "opt-in", as a collective acknowledgment moment of changes to people's involvement.&#x20;
+&#x20;An annual **moment for reflection and acknowledgement of the changes taking place in the GT system,** especially in relation to people moving in and out of their roles as partners and associates. This is our form of an annual "opt-in", as a collective acknowledgment moment of changes to people's involvement.&#x20;
 
 ### **Etiquette for going offline & availabilities**
 
@@ -46,4 +46,4 @@ A set of days where we focus intensely on working together, either on a specific
 
 ![](../.gitbook/assets/rsz\_ashley-batz-1298.jpg)
 
-## ****
+##

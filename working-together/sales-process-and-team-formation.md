@@ -1,6 +1,6 @@
 # 📈 Sales process & team formation
 
-Below are a set of principles we use in around managing sales processes, decision-making on saying yes to projects and forming a delivery team. The emphasis is on them being _principles that you interpret in the given context of a situation_, rather than rules that are applied 1-1. They aim to help us make decisions around how to approach leads and team formation in a way that aligns with our overarching principles and values.
+Below are a set of principles we use in managing sales processes, decision-making on saying yes to projects and forming a delivery team. The emphasis is on them being _principles that you interpret in the given context of a situation_, rather than rules that are applied 1-1. They aim to help us make decisions around how to approach leads and team formation in a way that aligns with our overarching principles and values.
 
 These principles can evolve and will be added to over time, since for now only some areas of sales & project setup process are covered here.&#x20;
 
@@ -40,7 +40,7 @@ The person who is leading the sales process is expected to clearly articulate th
 
     As a rule of thumb, three good criteria can be taken into account when evaluating whether someone is a fit for a project: geography, skills and availability. Location depends on where the client and the people leading the proposal are based so that work and scheduling can be as smooth as possible. People interested in a project are expected to be clear about their own availability and working hours (for instance by keeping their profile in the people dashboard updated) without overcommitting.
 2. **Take into account how work is currently distributed in GT** \
-   ****One of the factors to take into account when building a project team, is who is in need of work/income currently.
+   One of the factors to take into account when building a project team, is who is in need of work/income currently.
 3. **Priority to GT partners and associates**\
    In the case that multiple people’s skills, location and availability are a fit, the level of commitment to GT provides the order of priority in which work opportunities are offered: partners, then associates, then explorers. If an external person who is not even an explorer is chosen, it is made explicit and communicated openly why this was done in this case.
 4. **Different projects enable different risks**\

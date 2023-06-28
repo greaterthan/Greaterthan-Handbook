@@ -1,6 +1,6 @@
 # People Agreement
 
-_This full agreement was significantly updated in September 2021 (after this_ [_experiment_](https://docs.google.com/document/d/1uO8Nu3Nbdt\_Yq6kaPFIzlYLVqdHUku6ZygaMDGFjdJ0/edit?usp=sharing)_), and modified in August 2022 through_ [_this decision._](https://www.loomio.org/d/NP7XDqK6/proposal-evolving-re-clarifying-the-gt-ecosystem-its-name-and-purpose/1)__
+_This full agreement was significantly updated in September 2021 (after this_ [_experiment_](https://docs.google.com/document/d/1uO8Nu3Nbdt\_Yq6kaPFIzlYLVqdHUku6ZygaMDGFjdJ0/edit?usp=sharing)_), and modified in August 2022 through_ [_this decision._](https://www.loomio.org/d/NP7XDqK6/proposal-evolving-re-clarifying-the-gt-ecosystem-its-name-and-purpose/1)
 
 ## **Context & Intention of this Agreement**
 
@@ -29,7 +29,7 @@ None of these levels have a nominal limit to how many people can be in them -- b
 **Explorers**
 
 After latest 12 months from joining, explorers are asked to make explicit in what kind of role they wish to stay an Explorer, or otherwise step out (Examples: _connector between GT and another community; connector between topics; for people who are junior professionals, the “learner/apprentice”)_. This role is then updated every 12 months. There are no other specific rights or obligations other than to adhere to our values & show good conduct. This is a springboard for involvement in projects, new initiatives, etc.\
-****
+
 
 |                  | Members (Associates + Partners)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Partners                                                                                                                                                                                                                                                                                                                                                                                                |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -114,7 +114,7 @@ Compliance and legal responsibility is held by a “Minimum Viable Board”, com
 * ensure that Greaterthan Collective Ltd is fully compliant with United Kingdom laws and regulations, and its company constitution
 * maintain an overview of current finances, long term financial view, and adequate reserves
 
-Any associate or partner can can initiate a conversation at any time to discuss directorship with the members, and may nominate a director (including themselves). The final decision about directorship is made by partners.&#x20;
+Any associate or partner can initiate a conversation at any time to discuss directorship with the members, and may nominate a director (including themselves). The final decision about directorship is made by partners.&#x20;
 
 **The current MVB has 4 members:**
 
