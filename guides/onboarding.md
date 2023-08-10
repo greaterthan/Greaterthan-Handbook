@@ -8,31 +8,32 @@ description: Here are some simple steps to follow when onboarding new people to 
 
 ## Explorers
 
-Explorer onboarding in Greaterthan is a distributed accountability among those who make invitations. If you as a member invite someone as an explorer, you are accountable for ensuring they are correctly onboarded and guided into GT as described below. _To learn about the invitation process for explorers, see the_[ _People Agreement._](../agreements/people-agreement.md#explorers) __&#x20;
+Explorer onboarding in Greaterthan is a distributed accountability among those who make invitations. If you as a member invite someone as an explorer, you are accountable for ensuring they are correctly onboarded and guided into GT as described below. _To learn about the invitation process for explorers, see the_[ _People Agreement._](../agreements/people-agreement.md#explorers)&#x20;
 
 ### Two stages of explorer onboarding&#x20;
 
-Since [November 2022](https://www.loomio.com/d/3qmYIa7s/onboarding-explorers-in-cohorts), we no longer onboard explorers immediately, but are experimenting with multi-annual _**cohorts**_. There are two key stages of onboarding:&#x20;
+Since [November 2022](https://www.loomio.com/d/3qmYIa7s/onboarding-explorers-in-cohorts), we have been experimenting with multi-annual _**onboarding cohorts**_. You can now choose when inviting an explorer whether they join immediately and are onboarded by you (the inviter), or whether they wait for the next cohort before joining.&#x20;
 
-**Stage 1:** Takes place right after the decision for the explorer to be invited has been closed.&#x20;
+**Step 1:** This takes place right after the decision for the explorer to be invited has been closed.&#x20;
 
-* [ ] The person who invited them [**fills out this form,** ](https://airtable.com/shrsRwYaxNOLaN46o)which adds them to our People Dashboard. The new explorer will now appear in the cohort backlog.&#x20;
+* [ ] The person who invited them [**fills out this form,** ](https://airtable.com/shrsRwYaxNOLaN46o)which adds them to our People Dashboard. This is when you specify whether they are joining immediately or waiting for the next cohort. The person will then appear in [this list ](https://airtable.com/app9eFED6mT3xijkm/pagZJ5UUwGsDt2ujA?Pllch=recKNegH60TXvnqzG)of new and future explorers.&#x20;
 
-**Stage 2:** Takes place a few days before they are fully onboarded into Greaterthan, together with their onboarding cohort. The below steps may be completed individually by the person who invited them, or by one of the inviters who does it for all members of that cohort.&#x20;
+**Step 2:** Below is a checklist of what needs to happen for an explorer to be fully onboarded into Greaterthan. Completing these is the accountability of the person who invited them.&#x20;
 
 * [ ] Send them the [Welcome to Greaterthan slidedeck](https://docs.google.com/presentation/d/1rFSGgnr78lhhy5qUJU2nRUVO1Xro84iDbriAotjiRV0/edit#slide=id.p21) as basic orientation.&#x20;
-* [ ] Invite them to a few key tools:
+* [ ] Invite them to a few key tools. Please make sure to go to the [People Dashboard - Tools & Onboarding ](https://airtable.com/app9eFED6mT3xijkm/pagZJ5UUwGsDt2ujA)and tick off all the tools you have invited them to there:&#x20;
   1. the Greaterthan **slack team**. When logged in, you can do so with [this link. ](https://greaterfinance.slack.com/admin/invites)
   2. the **open GT events calendar.** Add them to the calendar with their email, with the rights to "make changes to events".
-  3. the **GT "People of Greaterthan" Airtable** base as an "editor". [_More info on how to do this._ ](https://docs.google.com/document/d/1Qxa1fWOnZw7emMDMz-DHXMNzclQ9VMdMWHvCJ8RUF8M/edit)__
-  4. **Update their status** in our Open Books People list to "Explorer", to remove them from the ['onboarding queue' ](https://airtable.com/app9eFED6mT3xijkm/pagZJ5UUwGsDt2ujA?Pllch=rec9kT2iaiaTymIkA)and indicate that they are now onboarded.
+  3. the **GT free Airtable account ( "People of Greaterthan" Airtable** base as an "editor". [_More info on how to do this._ ](https://docs.google.com/document/d/1Qxa1fWOnZw7emMDMz-DHXMNzclQ9VMdMWHvCJ8RUF8M/edit)
 * [ ] Ask them to find themselves on the [People of Greaterthan 'People Profiles' section](https://airtable.com/app9eFED6mT3xijkm/pagWBlHlsH6y1kzeN?6iIC3=recQTeuAsbK6etMJC), and ask them to fill out their profile.&#x20;
 * [ ] Let everyone know they have joined! Welcome them on the #everyone channel of the GT slack and ask them to introduce themselves.&#x20;
+
+**After cohort has been completed Update their status** in our Open Books People list to "Explorer", to remove them from the ['cohort onboarding list' ](https://airtable.com/app9eFED6mT3xijkm/pagZJ5UUwGsDt2ujA?Pllch=rec9kT2iaiaTymIkA)and indicate that they are now onboarded.
 
 ### About onboarding cohorts&#x20;
 
 * HOSTING: a rotating team of 2 GT members hosts each onboarding cohort. The responsibility to find the hosts lies with the group of members that invited the people in that cohort.&#x20;
-* WHO IS IN THE NEXT COHORT? See who is in the queue for the next onboarding cohort [**here.** ](https://airtable.com/app9eFED6mT3xijkm/pagZJ5UUwGsDt2ujA?Pllch=rec9kT2iaiaTymIkA)****
+* WHO IS IN THE NEXT COHORT? See who is in the queue for the next onboarding cohort [**here.** ](https://airtable.com/app9eFED6mT3xijkm/pagZJ5UUwGsDt2ujA?Pllch=rec9kT2iaiaTymIkA)
 * WHEN: the rhythm of cohorts is still being experimented with. You can find the upcoming start dates in the GT open meetings & events calendar, and in the onboarding queue.&#x20;
 
 ## Associates
