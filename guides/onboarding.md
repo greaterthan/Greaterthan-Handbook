@@ -21,12 +21,14 @@ Since [November 2022](https://www.loomio.com/d/3qmYIa7s/onboarding-explorers-in-
 **Step 2:** Below is a checklist of what needs to happen for an explorer to be fully onboarded into Greaterthan. Completing these is the accountability of the person who invited them.&#x20;
 
 * [ ] Send them the [Welcome to Greaterthan slidedeck](https://docs.google.com/presentation/d/1rFSGgnr78lhhy5qUJU2nRUVO1Xro84iDbriAotjiRV0/edit#slide=id.p21) as basic orientation.&#x20;
-* [ ] Invite them to a few key tools. Please make sure to go to the [People Dashboard - Tools & Onboarding, ](https://airtable.com/app9eFED6mT3xijkm/pagZJ5UUwGsDt2ujA)find their name and then tick off all the tools you have invited them to ([watch this 1 min video to see how](https://www.loom.com/share/6c180b19e228424287dbb68b04ce1a3d?sid=57f82a35-cbc7-4036-ac70-0a6382ebc740)):&#x20;
+* [ ] Invite them to a few key tools. Please make sure to go to the [People Dashboard - Tools & Onboarding, ](https://airtable.com/app9eFED6mT3xijkm/pagZJ5UUwGsDt2ujA)find their name and then tick off all the tools you have invited them to ([watch this 1 min video shown below to see how](https://www.loom.com/share/6c180b19e228424287dbb68b04ce1a3d?sid=57f82a35-cbc7-4036-ac70-0a6382ebc740)):&#x20;
   1. the Greaterthan **slack team**. When logged in, you can do so with [this link. ](https://greaterfinance.slack.com/admin/invites)
   2. the **open GT events calendar.** Add them to the calendar with their email, with the rights to "make changes to events".
   3. the **GT free Airtable account** (to give them edit access to the "People of Greaterthan" Airtable base). [_More info on how to do this._ ](https://docs.google.com/document/d/1Qxa1fWOnZw7emMDMz-DHXMNzclQ9VMdMWHvCJ8RUF8M/edit)
 * [ ] Ask them to find their profile on the [People of Greaterthan 'People Profiles' section](https://airtable.com/app9eFED6mT3xijkm/pagWBlHlsH6y1kzeN?6iIC3=recQTeuAsbK6etMJC), and fill out their profile.&#x20;
 * [ ] Let everyone know they have joined! Welcome them on the #everyone channel of the GT slack and ask them to introduce themselves.&#x20;
+
+{% embed url="https://www.loom.com/share/6c180b19e228424287dbb68b04ce1a3d?sid=57f82a35-cbc7-4036-ac70-0a6382ebc740" fullWidth="false" %}
 
 **After new explorers have completed the onboarding cohort,** ensure their status is changed in our Open Books People list, to "Explorer". This removes them from the ['cohort onboarding list' ](https://airtable.com/app9eFED6mT3xijkm/pagZJ5UUwGsDt2ujA?Pllch=rec9kT2iaiaTymIkA)and indicates that they are now fully onboarded.
 
