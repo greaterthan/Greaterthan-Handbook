@@ -7,7 +7,7 @@ Here you can find principles and guiding questions that help us with our communi
 To see a collection of useful practices and tips from members, as well as a directory of key slack channels and their purpose, check out[ <mark style="background-color:green;">**this living document.**</mark> ](https://docs.google.com/document/d/1rv3AmyaScdLA\_5edVn4n7mLb6P-k11\_I5ChsXlQ8A\_0/edit)
 
 {% hint style="success" %}
-### <mark style="background-color:yellow;">**A few principles**</mark>
+### **A few principles**
 
 **Personal responsibility:** We are all responsible for (1) how we communicate and (2) how we keep ourselves informed on what is going on in GT. In a complex system with a lot of humans, we can’t expect to be able to follow everything at all times; so being explicit about our capacity helps us all. Ask yourself: What do I need others to know? What do I really need to follow? \
 
