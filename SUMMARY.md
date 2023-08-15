@@ -15,7 +15,7 @@
   * [Financial Agreement](agreements/financial-agreement.md)
 * [Working Together](working-together.md)
   * [🥁 Rhythms & Rituals](working-together/rhythms-and-rituals.md)
-  * [💬 Communication Tools](working-together/collaboration-and-comms-tools.md)
+  * [💬 Communication Practices & Tools](working-together/collaboration-and-comms-tools.md)
   * [📈 Sales process & team formation](working-together/sales-process-and-team-formation.md)
   * [🌱 Development Bucket](working-together/development-bucket.md)
   * [💸 Biz Dev Bucket](working-together/biz-dev-bucket.md)
