@@ -4,29 +4,21 @@
 
 Here you can find principles and guiding questions that help us with our communications practices in Greaterthan, specifically mediated communication (typed, audio, video; not live conversations).&#x20;
 
-To see a collection of useful practices and tips from members, as well as a directory of key slack channels and their purpose, check out[ <mark style="background-color:green;">**this living document.**</mark> ](https://docs.google.com/document/d/1rv3AmyaScdLA\_5edVn4n7mLb6P-k11\_I5ChsXlQ8A\_0/edit)
+To see a collection of useful practices and tips from members, as well as a directory of key slack channels and their purpose, check out[ **this living document.** ](https://docs.google.com/document/d/1rv3AmyaScdLA\_5edVn4n7mLb6P-k11\_I5ChsXlQ8A\_0/edit)
 
 {% hint style="success" %}
-### **A few principles**
+###
 
-**Personal responsibility:** We are all responsible for (1) how we communicate and (2) how we keep ourselves informed on what is going on in GT. In a complex system with a lot of humans, we can’t expect to be able to follow everything at all times; so being explicit about our capacity helps us all. Ask yourself: What do I need others to know? What do I really need to follow? \
-
-
-**The sum of our individual attention is a precious collective resource**. Let’s treat it as such! Ask yourself: Who is the must-see audience for my message?\
-
-
-**We’re all role models:** How we communicate is a role model for communications across the system, especially for new joiners. Ask yourself: What would happen if everyone communicated the way I did?&#x20;
+### **A few communication principles**
 
 
 
-**Communicate purpose:** When you start a new space for discussion (a new channel in Slack, Loomio thread, etc.), make explicit the purpose of it; for instance by always adding a channel description. Ask yourself: How can others find out why we are having this conversation and what is the expected outcome?\
-
-
-**Check for redundancy.** Ask yourself: Has someone else already started this conversation somewhere else, that I can build on?&#x20;
-
-
-
-**Show that you’re paying attention.** Acknowledgement keeps information flowing, and helps the collective tune into what’s attracting energy. Ask yourself: How would I like to let the sender know that and how their message was received. How can I provide the information they need to move forward? Examples: emoji reactions or responding to and updating calendar invites.
+1. **Personal responsibility:** We are all responsible for (1) how we communicate and (2) how we keep ourselves informed on what is going on in GT. In a complex system with a lot of humans, we can’t expect to be able to follow everything at all times; so being explicit about our capacity helps us all. Ask yourself: What do I need others to know? What do I really need to follow?&#x20;
+2. **The sum of our individual attention is a precious collective resource**. Let’s treat it as such! Ask yourself: Who is the must-see audience for my message?
+3. **We’re all role models:** How we communicate is a role model for communications across the system, especially for new joiners. Ask yourself: What would happen if everyone communicated the way I did?&#x20;
+4. **Communicate purpose:** When you start a new space for discussion (a new channel in Slack, Loomio thread, etc.), make explicit the purpose of it; for instance by always adding a channel description. Ask yourself: How can others find out why we are having this conversation and what is the expected outcome?
+5. **Check for redundancy.** Ask yourself: Has someone else already started this conversation somewhere else, that I can build on?&#x20;
+6. **Show that you’re paying attention.** Acknowledgement keeps information flowing, and helps the collective tune into what’s attracting energy. Ask yourself: How would I like to let the sender know that and how their message was received. How can I provide the information they need to move forward? Examples: emoji reactions or responding to and updating calendar invites.
 
 
 {% endhint %}
