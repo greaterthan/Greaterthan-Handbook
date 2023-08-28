@@ -43,7 +43,7 @@ Once the sales process is complete, circle back to the bucket stewards.&#x20;
 
 * If the project sale was successful, your biz dev efforts will be compensated through the budget of that project. The biz dev bucket funds that were on “hold” will be made available again.
 * If the project sale is not successful, then you and the bucket stewards will check in on whether the original compensation amount agreed feels ‘happy’, or whether any adjustments are necessary.
-* Once the final number is determined, the biz dev bucket stewards will inform a member of the admin team (ideal the 'Open Books Guardian role') about the amount, so that the balance of the biz dev bucket is updated in Open Books. They will also post an update to the members only channel #services-project-updates sharing the amounts and additional context behind the decisions, to ensure these are transparently documented. See an example of such a post[ here](https://greaterfinance.slack.com/archives/C03RYNTLF5J/p1670240318347439).&#x20;
+* Once the final number is determined, the biz dev bucket stewards will inform a member of the admin team (ideal the 'Open Books Guardian role') about the amount, so that the balance of the biz dev bucket is updated in Open Books. They will also post an update to the members only channel #pipeline-and-new-projects sharing the amounts and additional context behind the decisions, to ensure these are transparently documented. See an example of such a post[ here](https://greaterfinance.slack.com/archives/C03RYNTLF5J/p1670240318347439).&#x20;
 
 ### Practicalities of money flow
 
