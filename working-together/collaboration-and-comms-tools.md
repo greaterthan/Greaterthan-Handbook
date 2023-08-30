@@ -35,6 +35,8 @@ To see a collection of <mark style="background-color:yellow;">useful practices</
 
 {% endhint %}
 
+### _\[no longer up to date - will be reviewed Sept 2023]_
+
 ## Tools
 
 Here is an overview of the communications tools our team currently uses. To avoid tool overload, we usually onboard people to them on a needs basis, depending on the projects they are working on!
