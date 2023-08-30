@@ -18,7 +18,7 @@ layout:
 
 Here you can find principles and guiding questions that help us with our communications practices in Greaterthan, specifically mediated communication (typed, audio, video; not live conversations).&#x20;
 
-To see a collection of useful practices and tips from members, as well as a directory of key slack channels and their purpose, check out[ **this living document.** ](https://docs.google.com/document/d/1rv3AmyaScdLA\_5edVn4n7mLb6P-k11\_I5ChsXlQ8A\_0/edit)
+To see a collection of <mark style="background-color:yellow;">useful practices</mark> and tips from members, as well as a <mark style="background-color:yellow;">**directory of key slack channels**</mark> and their purpose, check out[ **this living document.** ](https://docs.google.com/document/d/1rv3AmyaScdLA\_5edVn4n7mLb6P-k11\_I5ChsXlQ8A\_0/edit)
 
 {% hint style="success" %}
 ### **A few communication principles**
