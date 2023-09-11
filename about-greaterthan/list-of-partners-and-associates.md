@@ -23,22 +23,23 @@ _Last updated:  November 2022_
 
 ## Associates
 
-| Name            | Joined                               |
-| --------------- | ------------------------------------ |
-| Kate Beecroft   | April 2017 (Partner until Sept 2021) |
-| Alicia Trepat   | Dec 2019                             |
-| Manel Heredero  | Dec 2019                             |
-| Ria Baeck       | Dec 2019                             |
-| Tom Nixon       | Dec 2019                             |
-| J.D. Nasaw      | March 2021                           |
-| Tomomi Sasaki   | May 2021                             |
-| Melinda Varfi   | Sept 2021                            |
-| Miriam Moreno   | February 2022                        |
-| Nenad Maljković | July 2022                            |
-| Lyssa Adkins    | August 2022                          |
-| Ashish Arora    | November 2022                        |
-| Anna Kopacz     | November 2022                        |
-| Lena Bumke      | April 2023                           |
+| Name             | Joined                               |
+| ---------------- | ------------------------------------ |
+| Kate Beecroft    | April 2017 (Partner until Sept 2021) |
+| Alicia Trepat    | Dec 2019                             |
+| Manel Heredero   | Dec 2019                             |
+| Ria Baeck        | Dec 2019                             |
+| Tom Nixon        | Dec 2019                             |
+| J.D. Nasaw       | March 2021                           |
+| Tomomi Sasaki    | May 2021                             |
+| Melinda Varfi    | Sept 2021                            |
+| Miriam Moreno    | February 2022                        |
+| Nenad Maljković  | July 2022                            |
+| Lyssa Adkins     | August 2022                          |
+| Ashish Arora     | November 2022                        |
+| Anna Kopacz      | November 2022                        |
+| Lena Bumke       | April 2023                           |
+| Sally McCutchion | September 2023                       |
 
 ## Previous Members
 
