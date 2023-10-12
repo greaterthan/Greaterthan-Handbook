@@ -29,7 +29,7 @@ Note: **everyone in GT is free to pursue biz dev opportunities** (they see fitti
 
 **Step 1:** Check what funds are currently available in the biz dev bucket pot ([in Open Books](https://airtable.com/appT4LEFfkKzgOJzg/paglPqKu6ag5iIzAX)).
 
-**Step 2:** Get in touch with the biz dev bucket stewards (see below) via slack and discuss the opportunity you would like to pursue or have started pursuing. Assess together whether this lead seems worth pursuing, based on factors such as work required, likelihood of success and how strategic the opportunity is for GT. At this stage, you might gather advice from other GT members to make the decision.
+**Step 2:** Get in touch with the biz dev bucket stewards (see below) via Slack on the #bizdevbucket channel, and discuss the opportunity you would like to pursue or have started pursuing. Assess together whether this lead seems worth pursuing, based on factors such as work required, likelihood of success and how strategic the opportunity is for GT. At this stage, you might gather advice from other GT members to make the decision.
 
 **Step 3:** Decide together by consent with the biz dev bucket stewards whether you will pursue the lead with financial support from the biz dev bucket or not. If the answer is yes, at this point, have a first conversation about what compensation would make you feel energized and supported to follow this lead. This number will be revisited at the end, as described in the process below. Ensure the decision is transparently documented in a decision log.
 
