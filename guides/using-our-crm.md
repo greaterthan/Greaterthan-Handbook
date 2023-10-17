@@ -20,7 +20,7 @@ The tool we are using is Airtable. [https://airtable.com/](https://airtable.com/
 
 ## CRM Structure&#x20;
 
-1. **Opportunities:** this is the pipeline for all our "deals". Depending on the "View" you choose, you can see them filtered by different criteria, such as stage or product/service.
+1. **Opportunities:** this is the pipeline for all our "deals". To understand exactly what the different statuses in the pipeline mean, check out [this sales pipeline definition document. ](https://docs.google.com/document/d/1rgttGxIxP257bI0wS2nQe2C\_7hXNM7XOLIGF806RruE/edit)
 2. **Accounts**: the organizations we work with, including customers, affiliates and partners.
 3. **Contacts:** the people we work with inside those organizations (listed in accounts)
 4. **Interactions:** where we track our interactions with contacts, such as calls, meetings and emails.&#x20;
@@ -31,7 +31,7 @@ The most important about a CRM is that it is up to date :). Therefore let's try 
 
 ### Usage Principles
 
-* **The more information the better:** Fill out all the fields **** you have answers to when adding new fields
+* **The more information the better:** Fill out all the fields you have answers to when adding new fields
 * **Tagging & comments:** Please add any relevant tags to organizations and contacts that will help us find them later. You can add as many as you like, and it makes sense to include comments about things such as: event where you met them, topic they are focused on (i.e. blockchain), more details on the org type (i.e. coworking space)
 * Please make sure to always **attribute an opportunity to a contact and /or an organization.**&#x20;
 * **Before you reach out to an organization in the future,** search the CRM before to check whether we are already in touch with them!
