@@ -26,8 +26,6 @@ None of these levels have a nominal limit to how many people can be in them -- b
 
 ## **Rights & Responsibilities**
 
-**Members**
-
 **The functions of GT Members (as a whole):**  The Greaterthan Members are collectively responsible for stewarding and developing the Greaterthan commons so that we can work towards our collective purpose. This involves three key aspects:
 
 * Ensuring that GT has thriving business activity (a healthy pipeline of projects, healthy money flow, proactive business development)
@@ -36,17 +34,49 @@ None of these levels have a nominal limit to how many people can be in them -- b
 
 The ways in which these are addressed are determined by the members and are likely to change over time.&#x20;
 
+The Partners additionally hold the accountabilities of keeping our strategic focus and ensuring coherence between our activities and long-term vision.&#x20;
 
+The specific rights and responsibilities that come with each role are as follows:
 
-**Explorers**
+{% tabs %}
+{% tab title="Members (Associates & Partners)" %}
+_**RIGHTS**_
 
-After latest 12 months from joining, explorers are asked to make explicit in what kind of role they wish to stay an Explorer, or otherwise step out (Examples: _connector between GT and another community; connector between topics; for people who are junior professionals, the “learner/apprentice”)_. This role is then updated every 12 months. There are no other specific rights or obligations other than to adhere to our values & show good conduct. This is a springboard for involvement in projects, new initiatives, etc.\
+* Invite in new people (as explorers and as associates).
+* Priority on paid GT projects.
+* Use the GT brand and entity for billing work.
+* Represent GT publicly.
+* Access to the GT knowledge commons & communication channels.
+* Participate in org wide, strategic decision-making (in addition to projects, see decision-making agreement).
+* Access to professional/personal development support initiatives (e.g. personal dev bucket for trainings & retreats) - covering 25% of costs.
 
+_**RESPONSIBILITIES**_
 
-|                  | Members (Associates + Partners)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Partners                                                                                                                                                                                                                                                                                                                                                                                                |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Rights           | <p></p><ul><li>Invite in new people (as explorers and as associates)</li><li>Priority on paid GT projects </li><li>Use the GT brand and entity for billing work</li><li>Represent GT publicly</li><li>Access to the GT knowledge commons &#x26; communication channels</li><li>Participate in org wide, strategic decision-making (in addition to projects, see decision-making agreement) </li><li>Access to professional/personal development support initiatives (e.g. personal dev bucket for trainings &#x26; retreats) - covering 25% of costs.</li></ul>                                                                                                                                                                                                                                                    | <ul><li>Minimum participation and consent needed from partners on significant decisions (details, see decisions agreement)</li><li>Access to professional/personal development support initiatives (e.g. personal dev bucket for trainings &#x26; retreats) - covering 50% of costs.</li><li>Access to long term financial benefits, which we intend to develop (e.g. partners savings pool).</li></ul> |
-| Responsibilities | <p></p><ul><li>Attend quarterly all-members meetings</li><li>Create and keep updated a ‘commitment statement’, shared with other members, that makes explicit how you currently intend to contribute to Greaterthan (more info below). </li><li>Participate in an accountability process, to check in on those commitments regularly and be held to account. The current proposed experiment is accountability "bubbles". </li><li>Join an annual “opt-in” ritual, where changes in the system are acknowledged (or if attendance is not possible, share an update with the group)</li><li><p>Contribute to income generating activity (in some form or another, which is up to the member to determine <em>how</em>; via areas like academy, consulting, coaching, communicating, etc.).</p><p><br></p></li></ul> | <p></p><ul><li>Run all your work that is related to GT’s areas of focus (as defined on our <a href="https://www.greaterthan.works/what-we-do">website</a>), through GT.</li><li>Attend regular partners meetings</li><li>Participate in ‘significant decisions’</li></ul>                                                                                                                               |
+* Attend quarterly all-members meetings.
+* Create and keep updated a ‘commitment statement’, shared with other members, that makes explicit how you currently intend to contribute to Greaterthan (more info below).&#x20;
+* Participate in an accountability process, to check in on those commitments regularly and be held to account. The current proposed experiment is accountability "bubbles".&#x20;
+* Join an annual “opt-in” ritual, where changes in the system are acknowledged (or if attendance is not possible, share an update with the group).
+* Contribute to income generating activity (in some form or another, which is up to the member to determine _how_; via areas like academy, consulting, coaching, communicating, etc.).
+{% endtab %}
+
+{% tab title="Partners" %}
+_**RIGHTS**_
+
+* Minimum participation and consent needed from partners on significant decisions (details, see decisions agreement)
+* Access to professional/personal development support initiatives (e.g. personal dev bucket for trainings & retreats) - covering 50% of costs.
+* Access to long term financial benefits, which we intend to develop (e.g. partners savings pool).
+
+_**RESPONSIBILITIES**_
+
+* Run all your work that is related to GT’s areas of focus (as defined on our [website](https://www.greaterthan.works/what-we-do)), through GT.
+* Attend regular partners meetings.
+* Participate in ‘significant decisions’.
+{% endtab %}
+
+{% tab title="Explorers" %}
+After latest 12 months from joining, explorers are asked to make explicit in what kind of role they wish to stay an Explorer, or otherwise step out (Examples: _connector between GT and another community; connector between topics; for people who are junior professionals, the “learner/apprentice”)_. This role is then updated every 12 months. There are no other specific rights or obligations other than to adhere to our values & show good conduct. This is a springboard for involvement in projects, new initiatives, etc.
+{% endtab %}
+{% endtabs %}
 
 ### Commitment Statement | Details
 
