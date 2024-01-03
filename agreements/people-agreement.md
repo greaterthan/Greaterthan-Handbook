@@ -47,6 +47,7 @@ _**RIGHTS**_
 * Use the GT brand and entity for billing work.
 * Represent GT publicly.
 * Access to the GT knowledge commons & communication channels.
+* Get a GT domain email address.
 * Participate in org wide, strategic decision-making (in addition to projects, see decision-making agreement).
 * Access to professional/personal development support initiatives (e.g. personal dev bucket for trainings & retreats) - covering 25% of costs.
 
@@ -73,8 +74,39 @@ _**RESPONSIBILITIES**_
 * Participate in ‘significant decisions’.
 {% endtab %}
 
-{% tab title="Explorers" %}
-After latest 12 months from joining, explorers are asked to make explicit in what kind of role they wish to stay an Explorer, or otherwise step out (Examples: _connector between GT and another community; connector between topics; for people who are junior professionals, the “learner/apprentice”)_. This role is then updated every 12 months. There are no other specific rights or obligations other than to adhere to our values & show good conduct. This is a springboard for involvement in projects, new initiatives, etc.
+{% tab title="Explorers (incl. Alumni Members)" %}
+As the Explorer role is primarily a springboard for involvement in projects, new initiatives etc, rights and responsibilities are minimal.
+
+_**RIGHTS**_
+
+* Join our workspace on Slack
+* Access to GT Open Meetings & Events shared calendar
+* Access to People of Greaterthan Dashboard (where you also get a profile)&#x20;
+* Access to Projects & Roles Dashboard
+* Ad hoc access to files and folders in the GT Google Drives based on working need and request.&#x20;
+
+_**RESPONSIBILITIES**_
+
+* Make explicit (within 12 months of joining), in what kind of role you wish to stay an Explorer, or otherwise step out (_Examples: being a connector between GT and another community; a connector between topics or looking to bring in or work on clients projects in certain areas; for people who are junior professionals, the “learner/apprentice”_). This role is then updated every 12 months.
+* Show good conduct, adhering to our [values & principles](https://handbook.greaterthan.works/about-greaterthan/our-principles) and [communication principles](https://handbook.greaterthan.works/working-together/collaboration-and-comms-tools#a-few-communication-principles).
+
+### **ALUMNI MEMBERS**
+
+Alumni members are considered _a subset of Explorers_, who have **previously been members for at least one year**. As long as Alumni Members remain Explorers after leaving membership, they continue to have the following **additional rights**:
+
+* Remain on Loomio (without voting rights)
+* Keep access to Google Drives through Alumni Google Group&#x20;
+* Keep their GT domain email (as an alias only)
+
+They may of course opt out of these, if they prefer.&#x20;
+
+_**Why do we grant these rights?**_&#x20;
+
+* It can be useful to tap into the historical knowledge of Alumni Members, by getting their input on Loomio for instance
+* Alumni members contributed to building our shared commons, so it seems fair to continue granting access
+* We want to encourage people to move in and out of membership when their circumstances change, and maintaining these rights lowers the energy requirement of those transitions. It also makes it easy for someone to come back if they choose to.&#x20;
+
+&#x20;If an Alumni member leaves Greaterthan completely, all rights are removed.
 {% endtab %}
 {% endtabs %}
 
