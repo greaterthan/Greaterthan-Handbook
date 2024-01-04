@@ -1,6 +1,6 @@
 # People Agreement
 
-_This full agreement was significantly updated in September 2021 (after this_ [_experiment_](https://docs.google.com/document/d/1uO8Nu3Nbdt\_Yq6kaPFIzlYLVqdHUku6ZygaMDGFjdJ0/edit?usp=sharing)_), and modified in August 2022 through_ [_this decision._](https://www.loomio.org/d/NP7XDqK6/proposal-evolving-re-clarifying-the-gt-ecosystem-its-name-and-purpose/1)
+_This full agreement was significantly updated in September 2021 (after this_ [_experiment_](https://docs.google.com/document/d/1uO8Nu3Nbdt\_Yq6kaPFIzlYLVqdHUku6ZygaMDGFjdJ0/edit?usp=sharing)_), and modified in August 2022 through_ [_this decision._](https://www.loomio.org/d/NP7XDqK6/proposal-evolving-re-clarifying-the-gt-ecosystem-its-name-and-purpose/1) _Minor adjustments were later made in_ [_August 2023_](https://www.loomio.com/d/8fcYImjx/some-evolutions-to-our-people-agreement/0) _and_ [_December 2023_](https://www.loomio.com/d/W2GBJHNT/people-agreement-amendment-info-about-alumni-members/0)_._
 
 ## **Context & Intention of this Agreement**
 
