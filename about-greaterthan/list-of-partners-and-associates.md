@@ -7,7 +7,7 @@ coverY: 29.956476683937815
 
 Here is our current list of partners and associates. To learn about what those roles mean, see our [People Agreement. ](../agreements/people-agreement.md)
 
-_Last updated:  November 2022_
+_Last updated:  February 2024_
 
 ## Partners
 
@@ -23,31 +23,31 @@ _Last updated:  November 2022_
 
 ## Associates
 
-| Name             | Joined                               |
-| ---------------- | ------------------------------------ |
-| Kate Beecroft    | April 2017 (Partner until Sept 2021) |
-| Alicia Trepat    | Dec 2019                             |
-| Manel Heredero   | Dec 2019                             |
-| Ria Baeck        | Dec 2019                             |
-| Tom Nixon        | Dec 2019                             |
-| J.D. Nasaw       | March 2021                           |
-| Tomomi Sasaki    | May 2021                             |
-| Melinda Varfi    | Sept 2021                            |
-| Miriam Moreno    | February 2022                        |
-| Nenad Maljković  | July 2022                            |
-| Lyssa Adkins     | August 2022                          |
-| Ashish Arora     | November 2022                        |
-| Anna Kopacz      | November 2022                        |
-| Lena Bumke       | April 2023                           |
-| Sally McCutchion | September 2023                       |
+| Name            | Joined        |
+| --------------- | ------------- |
+| Alicia Trepat   | Dec 2019      |
+| Manel Heredero  | Dec 2019      |
+| Ria Baeck       | Dec 2019      |
+| Tom Nixon       | Dec 2019      |
+| J.D. Nasaw      | March 2021    |
+| Tomomi Sasaki   | May 2021      |
+| Melinda Varfi   | Sept 2021     |
+| Miriam Moreno   | February 2022 |
+| Nenad Maljković | July 2022     |
+| Lyssa Adkins    | August 2022   |
+| Ashish Arora    | November 2022 |
+| Anna Kopacz     | November 2022 |
+| Lena Bumke      | April 2023    |
 
 ## Previous Members
 
 * Ana Manzanedo, Oct 2020 - Sept 2022
 * Joriam Felipe, Sept 2020-2022
+* Kate Beecroft, April 2017 - November 2023 (Partner until Sept 2021)
 * Lisa Gill, May 2019-Sept 2021
 * Anthony Cabraal, July 2018-Sept 2021 (Partner until Sept 2020)
 * Patrick Andrews, July 2018-Sept 2021
+* Sally McCutchion, Sept - Oct 2023
 * Sarah Durlacher, Sept 2020-2021
 * Jessy-Kate Schlinger, Feb 2017- Sept 2017
 * Michael Arnoldus, April 2017 - Feb 2018
