@@ -20,12 +20,12 @@ _Last updated:  February 2024_
 | Lucia Die Gil     | April 2020 (partner since Sept 2021)   |
 | David Weingartner | April 2020 (partner since August 2022) |
 | Stefan Morales    | Oct 2020 (partner since February 2023) |
+| Alicia Trepat     | Dec 2019 (Partner since October 2023)  |
 
 ## Associates
 
 | Name            | Joined        |
 | --------------- | ------------- |
-| Alicia Trepat   | Dec 2019      |
 | Manel Heredero  | Dec 2019      |
 | Ria Baeck       | Dec 2019      |
 | Tom Nixon       | Dec 2019      |
