@@ -28,7 +28,6 @@ _Last updated:  February 2024_
 | --------------- | ------------- |
 | Manel Heredero  | Dec 2019      |
 | Ria Baeck       | Dec 2019      |
-| Tom Nixon       | Dec 2019      |
 | J.D. Nasaw      | March 2021    |
 | Tomomi Sasaki   | May 2021      |
 | Melinda Varfi   | Sept 2021     |
@@ -41,6 +40,7 @@ _Last updated:  February 2024_
 
 ## Previous Members
 
+* Tom Nixon, Dec 2019 - Sept 2023
 * Ana Manzanedo, Oct 2020 - Sept 2022
 * Joriam Felipe, Sept 2020 - 2022
 * Kate Beecroft, April 2017 - November 2023 (Partner until Sept 2021)
