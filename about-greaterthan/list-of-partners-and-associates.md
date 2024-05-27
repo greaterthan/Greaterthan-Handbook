@@ -42,7 +42,7 @@ _Last updated:  February 2024_
 
 * Kate Beecroft, April 2017 - November 2023 (Partner until September 2021)
 * Sally McCutchion, September - October 2023
-* Tom Nixon, Decdember 2019 - September 2023
+* Tom Nixon, December 2019 - September 2023
 * Ana Manzanedo, October 2020 - September 2022
 * Joriam Felipe, September 2020 - 2022
 * Lisa Gill, May 2019 - September 2021
