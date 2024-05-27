@@ -46,7 +46,7 @@ _Last updated:  February 2024_
 * Ana Manzanedo, October 2020 - September 2022
 * Joriam Felipe, September 2020 - 2022
 * Lisa Gill, May 2019 - September 2021
-* Anthony Cabraal, July 2018 - September 2021 (Partner until Septembe 2020)
+* Anthony Cabraal, July 2018 - September 2021 (Partner until September 2020)
 * Patrick Andrews, July 2018 - September 2021
 * Sarah Durlacher, September 2020 - 2021
 * Juliana Lopker, May 2017 - July 2018
