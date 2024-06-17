@@ -5,7 +5,7 @@ coverY: 0
 
 # About this Handbook
 
-This handbook is a **guide to how Greaterthan operates as an organization.** It explains **** how our structure is setup,  how we make decisions and work together, key projects we work on, and more. It is a living repository, which is updated as our practices and team agreements evolve.&#x20;
+This handbook is a **guide to how Greaterthan operates as an organization.** It explains how our structure is setup,  how we make decisions and work together, key projects we work on, and more. It is a living repository, which is updated as our practices and team agreements evolve.&#x20;
 
 To learn more about our services, see our [website. ](http://greaterthan.works)
 
