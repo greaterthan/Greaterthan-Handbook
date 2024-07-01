@@ -31,9 +31,9 @@ Further down we explain how the spending of this budget and investment "surplus"
 
 ### Reserves
 
-The Commons Budget is run with a **6-month runway** of reserve funds (amount based on our average monthly operating cost), to ensure that the organization can remain stable if there are sudden changes in projects. If the reserves are at risk of falling below the 6-month threshold, the[ MVB ](people-agreement.md#minimum-viable-board)must alert the partners, so that they can take the necessary action. &#x20;
+The Commons Budget is run with a **12-month runway** of reserve funds (amount based on our average monthly operating cost), to ensure that the organization can remain stable if there are sudden changes in projects. If the reserves are at risk of falling below the 12-month threshold, the[ MVB ](people-agreement.md#minimum-viable-board)must alert the partners, so that they can take the necessary action. &#x20;
 
-This was decided on [Loomio in February 2020. ](https://www.loomio.org/d/kf0jHFC7/gt-core-budget-discussions-decisions/1)
+This was decided on[ Loomio in S](https://www.loomio.com/d/dN7rsFQv/mvb-decisions-thread/9)[eptember 2022](https://www.loomio.com/d/dN7rsFQv/mvb-decisions-thread/9)
 
 ## 3. Decisions about Commons Budget & Surplus
 
