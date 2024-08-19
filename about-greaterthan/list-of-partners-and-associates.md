@@ -11,16 +11,16 @@ _Last updated:  May 2024_
 
 ## Partners
 
-| Name              | Joined                                      |
-| ----------------- | ------------------------------------------- |
-| Francesca Pick    | February 2017                               |
-| Susan Basterfield | July 2018                                   |
-| Elena Denaro      | January 2020 (Partner since September 2020) |
-| Mary O'Keeffe     | May 2019 (Partner since September 2021)     |
-| Lucia Die Gil     | April 2020 (Partner since September 2021)   |
-| David Weingartner | April 2020 (Partner since August 2022)      |
-| Stefan Morales    | October 2020 (Partner since February 2023)  |
-| Alicia Trepat     | December 2019 (Partner since October 2023)  |
+| Name              | Joined                                     |
+| ----------------- | ------------------------------------------ |
+| Francesca Pick    | February 2017                              |
+| Susan Basterfield | July 2018                                  |
+| Elena Denaro      | April 2020 (Partner since September 2020)  |
+| Mary O'Keeffe     | May 2019 (Partner since September 2021)    |
+| Lucia Die Gil     | April 2020 (Partner since September 2021)  |
+| David Weingartner | April 2020 (Partner since August 2022)     |
+| Stefan Morales    | October 2020 (Partner since February 2023) |
+| Alicia Trepat     | December 2019 (Partner since October 2023) |
 
 ## Associates
 
