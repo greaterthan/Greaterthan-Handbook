@@ -19,27 +19,27 @@ _Last updated:  May 2024_
 | Mary O'Keeffe     | May 2019 (Partner since September 2021)    |
 | Lucia Die Gil     | April 2020 (Partner since September 2021)  |
 | David Weingartner | April 2020 (Partner since August 2022)     |
-| Stefan Morales    | October 2020 (Partner since February 2023) |
 | Alicia Trepat     | December 2019 (Partner since October 2023) |
 
 ## Associates
 
-| Name            | Joined         |
-| --------------- | -------------- |
-| Manel Heredero  | December 2019  |
-| Ria Baeck       | December 2019  |
-| J.D. Nasaw      | March 2021     |
-| Tomomi Sasaki   | May 2021       |
-| Melinda Varfi   | September 2021 |
-| Miriam Moreno   | February 2022  |
-| Nenad Maljković | July 2022      |
-| Lyssa Adkins    | August 2022    |
-| Ashish Arora    | November 2022  |
-| Anna Kopacz     | November 2022  |
-| Lena Bumke      | April 2023     |
+| Name            | Joined                             |
+| --------------- | ---------------------------------- |
+| Manel Heredero  | December 2019                      |
+| Ria Baeck       | December 2019                      |
+| Stefan Morales  | October 2020 (Partner 2023 - 2024) |
+| Tomomi Sasaki   | May 2021                           |
+| Melinda Varfi   | September 2021                     |
+| Miriam Moreno   | February 2022                      |
+| Nenad Maljković | July 2022                          |
+| Lyssa Adkins    | August 2022                        |
+| Ashish Arora    | November 2022                      |
+| Anna Kopacz     | November 2022                      |
 
 ## Previous Members
 
+* J.D. Nasaw, March 2021 - October 2024
+* Lena Bumke, April 2023 - October 2024
 * Kate Beecroft, April 2017 - November 2023 (Partner until September 2021)
 * Sally McCutchion, September - October 2023
 * Tom Nixon, December 2019 - September 2023
