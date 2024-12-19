@@ -18,6 +18,12 @@ _Please note that these are common examples for what it may cover, but this is a
 
 * **Time**: time spent pursuing a biz dev opportunity: sales calls, responding to RFPs, writing proposals, grant applications etc.&#x20;
 * **Biz dev expenses:** following a lead or pursuing biz dev opportunities may incur expenses, such as traveling to meet someone in person or participation in an event. Depending on the opportunity, 50-100% of these expenses may be covered out of the biz dev bucket.
+* Building collective collateral useful for sales conversations
+* Contributions to internal capacity / capability building that is directly related to us being able to have client conversations and write proposals and close deals
+* Surfacing/configuring/re-configuring resources internally
+* Building partnerships with compatible entities, that would increase our chances at winning work
+
+BDB does not include: Blog writing, website copy, event organizing or events, communications&#x20;
 
 Important: if the lead converts to a project, the expectation is that the project covers the compensation for the biz dev and sales work. If the sale is not successful, then your time and costs can be compensated from this bucket.
 
