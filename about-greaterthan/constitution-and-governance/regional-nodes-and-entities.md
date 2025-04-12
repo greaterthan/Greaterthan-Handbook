@@ -4,7 +4,7 @@ Greaterthan Collective is a remote-first organisation, with members scattered ac
 
 **Greaterthan currently operates through the following legal entities:**&#x20;
 
-* [Greaterthan Collective Ltd (UK):](https://find-and-update.company-information.service.gov.uk/company/11387616) our "mother entity" that is used for the majority of our global operations | founded May 2018
+* [Greaterthan Collective Ltd (UK)](https://find-and-update.company-information.service.gov.uk/company/11387616): our "mother entity" that is used for the majority of our global operations | founded May 2018
 * [Greaterthan Collective Aotearoa Ltd (New Zealand)](https://newzealand-company.com/co/greaterthan-collective-aotearoa-limited): our first regional entity | founded September 2021
 * [Greaterthan Collective e.V. (Germany)](https://drive.google.com/file/d/1nUkUvSdKApBDC_deIEmxajZsc-IdUaGW/view?usp=sharing): Charitable association | entity transitioned from Ouishare Germany in January 2025
 
