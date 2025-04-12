@@ -6,7 +6,7 @@ A pot of funds set aside from Greaterthan’s Commons Budget to provide money fl
 
 The funds in this bucket are “topped up” every 6 months alongside the Hike budgeting process.
 
-A first version of this bucket (as a "Spirit Team") was set up during the first [heartbeat experiment](https://www.loomio.org/d/7BLtaCeF/the-heart-beat-experiment-working-out-loud-temperature-check). When this evolved into the [Hikes model](https://www.loomio.org/d/S1HbuPUo/the-heart-beat-evolution-temperature-check), the Spirit Team budget evolved into a "Spirit Bucket". The below mechanism was decided upon in[ August 2022.](https://www.loomio.org/d/9JUikFhP/comment/2757128?discussion\_reader\_token=cwQqvvvgMEjTN9LUVPB1wokA\&utm\_campaign=new\_comment\&utm\_medium=email)
+A first version of this bucket (as a "Spirit Team") was set up during the first [heartbeat experiment](https://www.loomio.org/d/7BLtaCeF/the-heart-beat-experiment-working-out-loud-temperature-check). When this evolved into the [Hikes model](https://www.loomio.org/d/S1HbuPUo/the-heart-beat-evolution-temperature-check), the Spirit Team budget evolved into a "Spirit Bucket". The below mechanism was decided upon in[ August 2022.](https://www.loomio.org/d/9JUikFhP/comment/2757128?discussion_reader_token=cwQqvvvgMEjTN9LUVPB1wokA\&utm_campaign=new_comment\&utm_medium=email)
 
 ### Who can make use of the funds in the bucket?&#x20;
 
@@ -17,7 +17,7 @@ Greaterthan Partners and Associates can request funds from the bucket (although 
 _Please note that these are common examples for what it may cover, but this is a non exhaustive list._&#x20;
 
 * **Hosting important internal processes relating to how we are together, our culture and our organisational fabric** (rather than our external offerings): this could be conflict resolution, reflective or sense-making meetings, guiding us on growth edges, responding to emergent needs outside of hikes in ways that contribute to a healthy human organisation.
-* **On-boarding / Off-boarding & Care work**: supporting humans as they move across the GT _(_eco)system and checking-in on wellbeing + needs.
+* **On-boarding / Off-boarding & Care work**: supporting humans as they move across the GT _(_&#x65;co)system and checking-in on wellbeing + needs.
 
 Important: we do not necessarily want **all** spirit care work to become paid work, as there is also a lot of value in all of us members actively dedicating time and energy to stewarding our commons (incl. our relational commons). However, we want to have easy mechanisms in place for significant work to be acknowledged also through money flow.
 
@@ -51,7 +51,7 @@ The Spirit Bucket must always have at least one, ideally 2 stewards (for resilie
 
 ```
 Current Stewards: 
-Elena Denaro
+Alícia Trepat Pont
 Nenad Maljković 
 ```
 
