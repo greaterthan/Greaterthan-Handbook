@@ -33,6 +33,8 @@ The Commons Budget is run with a **12-month runway** of reserve funds (amount ba
 
 This was decided on Loomio in September 2022.
 
+This was decided on Loomio in September 2022.
+
 ## 3. Decisions about Commons Budget & Surplus
 
 [See our decisions agreement. ](decision-making-agreement.md#decisions-about-money)
