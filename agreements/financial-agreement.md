@@ -31,7 +31,7 @@ The 15 % rule is open to be revisited at any time, if it makes sense with how th
 
 The Commons Budget is run with a **12-month runway** of reserve funds (amount based on our average monthly operating cost), to ensure that the organization can remain stable if there are sudden changes in projects. If the reserves are at risk of falling below the 12-month threshold, the[ MVB ](people-agreement.md#minimum-viable-board)must alert the partners, so that they can take the necessary action. &#x20;
 
-This was decided[ ](https://www.loomio.com/d/dN7rsFQv/mvb-decisions-thread/9)[on Loomio in September 2022](https://www.loomio.com/d/dN7rsFQv/mvb-decisions-thread/9).&#x20;
+This was decided [on Loomio in September 2022](https://www.loomio.com/d/dN7rsFQv/mvb-decisions-thread/9).
 
 ## 3. Decisions about Commons Budget & Surplus
 
