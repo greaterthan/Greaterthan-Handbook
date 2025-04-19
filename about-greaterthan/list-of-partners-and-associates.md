@@ -7,7 +7,7 @@ coverY: 29.956476683937815
 
 Here is our current list of partners and associates. To learn about what those roles mean, see our [People Agreement. ](../agreements/people-agreement.md)
 
-_Last updated:  October 2024_
+_Last updated: October 2024_
 
 ## Partners
 
@@ -38,17 +38,17 @@ _Last updated:  October 2024_
 
 ## Previous Members
 
-* J.D. Nasaw, March 2021 - October 2024
-* Lena Bumke, April 2023 - October 2024
+* Jessy-Kate Schlinger, February 2017 - September 2017
 * Kate Beecroft, April 2017 - November 2023 (Partner until September 2021)
-* Sally McCutchion, September - October 2023
-* Tom Nixon, December 2019 - September 2023
-* Ana Manzanedo, October 2020 - September 2022
-* Joriam Felipe, September 2020 - 2022
-* Lisa Gill, May 2019 - September 2021
+* Michael Arnoldus, April 2017 - February 2018
+* Juliana Lopker, May 2017 - July 2018
 * Anthony Cabraal, July 2018 - September 2021 (Partner until September 2020)
 * Patrick Andrews, July 2018 - September 2021
-* Sarah Durlacher, September 2020 - 2021
-* Juliana Lopker, May 2017 - July 2018
-* Michael Arnoldus, April 2017 - February 2018
-* Jessy-Kate Schlinger, February 2017 - September 2017
+* Lisa Gill, May 2019 - September 2021
+* Tom Nixon, December 2019 - September 2023
+* Joriam Felipe, September 2020 - September 2022
+* Sarah Durlacher, September 2020 - September 2021
+* Ana Manzanedo, October 2020 - September 2022
+* J.D. Nasaw, March 2021 - October 2024
+* Lena Bumke, April 2023 - October 2024
+* Sally McCutchion, September 2023 - October 2023
