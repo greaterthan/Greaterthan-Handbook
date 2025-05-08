@@ -28,7 +28,7 @@ A set of days where we focus intensely on working together, either on a specific
 * In general, if you cannot join a meeting you have been invited to, _**decline the calendar invite.**_ &#x20;
 * Here are some typical practices we use for when people go offline / on holiday:&#x20;
   * **Slack status**: update your slack status to say you are not available, and indicate what date you will be back
-  * **Team Travel calendar**: though used by fewer members, it can be practical to add to our shared team travel calendar when you plan to be unavailable in the future, which can be very practical for future planning, checking availabilities for clients projects, etc.&#x20;
+  * **Team Travel calendar**: though used by fewer members, it can be practical to add future travel plans & holidays to our shared team travel calendar, which can be very practical for future planning, checking availabilities for clients projects, etc. When doing this, please make sure to include your name in the calendar event!&#x20;
 
 ### **No longer or currently not active**&#x20;
 
