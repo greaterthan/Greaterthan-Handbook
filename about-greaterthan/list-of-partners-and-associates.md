@@ -7,7 +7,7 @@ coverY: 29.956476683937815
 
 Here is our current list of partners and associates. To learn about what those roles mean, see our [People Agreement. ](../agreements/people-agreement.md)
 
-_Last updated: October 2024_
+_Last updated: October 2025_
 
 ## Partners
 
@@ -28,8 +28,6 @@ _Last updated: October 2024_
 | Manel Heredero  | December 2019                      |
 | Ria Baeck       | December 2019                      |
 | Stefan Morales  | October 2020 (Partner 2023 - 2024) |
-| Tomomi Sasaki   | May 2021                           |
-| Melinda Varfi   | September 2021                     |
 | Miriam Moreno   | February 2022                      |
 | Nenad Maljković | July 2022                          |
 | Lyssa Adkins    | August 2022                        |
@@ -52,3 +50,5 @@ _Last updated: October 2024_
 * J.D. Nasaw, March 2021 - October 2024
 * Lena Bumke, April 2023 - October 2024
 * Sally McCutchion, September 2023 - October 2023
+* Tomomi Sasaki, May 2021 - September 2025
+* Melinda Varfi, September 2021 - September 2025
